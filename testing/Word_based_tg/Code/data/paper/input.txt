@@ -1,0 +1,1000 @@
+Visual Chunking: A List Prediction Framework for Region-Based Object  Detection
+Integrating Three Mechanisms of Visual Attention for Active Visual  Search
+Extraction of flat and nested data records from web pages
+Antifogging abilities of model nanotextures
+Study of the nonlinear imperfect software debugging model
+The Tinmith system: demonstrating new techniques for mobile augmented reality modelling
+The Wiedemann-Franz law in the putative one-dimensional metallic phase of PrBa2Cu4O8
+Understanding Human-Centric Images: From Geometry to Fashion
+Making the V in VQA Matter: Elevating the Role of Image Understanding in  Visual Question Answering
+Structure of the intact ATM/Tel1 kinase
+Single-nucleotide polymorphisms associated with outcome in metastatic renal cell carcinoma treated with sunitinib
+Special Session on Robotics and Computer Vision in Latin America
+Sorting out functions of sirtuins in cancer
+Industrial-scale separation of high-purity single-chirality single-wall carbon nanotubes for biological imaging
+A Face-like Structure Detection on Planet and Satellite Surfaces using  Image Processing
+A database of age-appropriate average MRI templates
+Proteins analysed as virtual knots
+Distinguishing signatures of determinism and stochasticity in spiking complex systems
+A pattern language for organizing open discussion on the web
+Geometric Context from Videos
+Omega Model for Human Detection and Counting for application in Smart  Surveillance System
+Breathing of the Nevado del Ruiz volcano reservoir, Colombia, inferred from repeated seismic tomography
+Contextual Relationship-based Activity Segmentation on an Event Stream  in the IoT Environment with Multi-user Activities
+Coherent ultrafast spin-dynamics probed in three dimensional topological insulators
+Adapting publish-subscribe routing to traffic demands
+Simple crosscutting concerns are not so simple: analysing variability in large-scale idioms-based implementations
+Saikosaponin-d, a novel SERCA inhibitor, induces autophagic cell death in apoptosis-defective cells
+The use of deep learning in image segmentation, classification and  detection
+Design theory for advanced datamodels
+Procams-Based Cybernetics
+Thermal profiling reveals phenylalanine hydroxylase as an off-target of panobinostat
+LAP: the protector against autoimmunity
+Appropriate teaching and learning strategies for the architectural design process in pedagogic design studios
+Survivability and business continuity management
+Towards measuring the adaptability of an AO4BPEL process
+Impact of AlN layer sandwiched between the GaN and the Al2O3 layers on the performance and reliability of recessed AlGaN/GaN MOS-HEMTs
+An Enhanced Method For Evaluating Automatic Video Summaries
+The Role of Grammar in Second Language Reading Comprehension: Iranian ESP Context
+Confusing similar words: ERP correlates of lexical-semantic processing in first language attrition and late second language acquisition
+Efficient Pose and Cell Segmentation using Column Generation
+Meteorite Impact-Induced Rapid NH3 Production on Early Earth: Ab Initio Molecular Dynamics Simulation
+Visualizing Object Detection Features
+A TEX86 surface sediment database and extended Bayesian calibration
+The presence of JC virus in gastric carcinomas correlates with patient's age, intestinal histological type and aberrant methylation of tumor suppressor genes
+Real-time social media retrieval with spatial, temporal and social constraints
+A quantum circuit rule for interference effects in single-molecule electrical junctions
+Hallmarks of the Mott-metal crossover in the hole-doped pseudospin-1/2 Mott insulator Sr2IrO4
+Common data model for natural language processing based on two existing standard information models: CDA+GrAF
+Study of flux pinning mechanism under hydrostatic pressure in optimally doped (Ba,K)Fe2As2 single crystals
+On the Use of Neural Networks and Statistical Tools for Nonlinear Modeling and On-field Diagnosis of Solid Oxide Fuel Cell Stacks
+Topological insulator bismuth selenide as a theranostic platform for simultaneous cancer imaging and therapy
+Leveraging the capabilities of service-oriented decision support systems: Putting analytics and big data in cloud
+Annealing-induced interfacial reactions and the effects on the electrical properties of Ga doped ZnO/CuxS contacts to p-GaN
+Water Detection through Spatio-Temporal Invariant Descriptors
+Controlling inelastic light scattering quantum pathways in graphene
+Majorana zero modes and topological quantum computation
+An incremental extreme learning machine for online sequential learning problems
+PIVAJ: displaying and augmenting digitized newspapers on the web experimental feedback from the "Journal de Rouen" collection
+Does airbus training cope with the evolution of the new aircraft generation?
+Margin noise removal from printed document images
+Resolving ambiguity in familiar and unfamiliar casual speech
+Microwave-assisted extraction of polysaccharides from Moringa oleifera Lam. leaves: Characterization and hypoglycemic activity
+BundleFusion: Real-time Globally Consistent 3D Reconstruction using  On-the-fly Surface Re-integration
+Partial regularity for subquadratic homogeneity elliptic system with VMO-coefficients
+Cytosine-type nucleosides from marine-derived Streptomyces rochei 06CM016
+Key management in wireless Body Area Network: Challenges and issues
+Visceral hyperalgesia caused by peptide YY deletion and Y2 receptor antagonism
+Poly(methyl methacrylate) (PMMA)-based hybrid materials with reactive zirconium oxide nanocrystals
+Anonymous Quorans are still Quorans, just anonymous
+Simultaneous extraction of roads and buildings in remote sensing imagery with convolutional neural networks
+Direct and indirect mechanisms of KLK4 inhibition revealed by structure and dynamics
+Separability of drag and thrust in undulatory animals and machines
+Articulated Pose Estimation by a Graphical Model with Image Dependent  Pairwise Relations
+Actions and Attributes from Wholes and Parts
+Arabidopsis ubiquitin ligase MIEL1 mediates degradation of the transcription factor MYB30 weakening plant defence
+Unexceptional exporter performance in China? The role of processing trade
+A hybrid CMOS-imager with a solution-processable polymer as photoactive layer
+Latent dirichlet allocation in web spam filtering
+Electrophysiological measures of attention during speech perception predict metalinguistic skills in children
+Tetrameric structure of the restriction DNA glycosylase R.PabI in complex with nonspecific double-stranded DNA
+Localized spatially nonlinear matter waves in atomic-molecular Bose-Einstein condensates with space-modulated nonlinearity
+Carbon dioxide level and form of soil nitrogen regulate assimilation of atmospheric ammonia in young trees
+Minimizing the coarse-fine spectrum sensing time of cognitive radios with ideal secondary detectors subject to noise uncertainty: an analytical approach
+Evolution and Engineering of Precisely Controlled Ge Nanostructures on Scalable Array of Ordered Si Nano-pillars
+Race condition free asynchronous micro-pipeline units
+Structural basis of haem-iron acquisition by fungal pathogens
+Rapid submarine ice melting in the grounding zones of ice shelves in West Antarctica
+Bot detection in rhythm games: a physiological approach
+The effects of audio on depth perception in S3D games
+Quantitative Analysis of Particles Segregation
+Receptor-targeted liposome-peptide-siRNA nanoparticles represent an efficient delivery system for MRTF silencing in conjunctival fibrosis
+Bioinspired tuning of glycol chitosan for 3D cell culture
+A four-blade light-driven plastic mill based on hydrazone liquid-crystal networks
+Highly Pathogenic Porcine Reproductive and Respiratory Syndrome Virus Nsp4 Cleaves VISA to Impair Antiviral Responses Mediated by RIG-I-like Receptors
+Realtime sonification of the center of gravity for skiing
+Simultaneous Feature Aggregating and Hashing for Large-scale Image  Search
+Is mating psychology most closely tied to biological sex or preferred partner's sex?
+Diffusion Methods for Classification with Pairwise Relationships
+Deep Gaze I: Boosting Saliency Prediction with Feature Maps Trained on  ImageNet
+A survey of low power NoC design techniques
+Chapter 9 - Deep Learning for Human Activity Recognition
+How to build a hard-to-use mouse
+Mining Accident Detection Using Machine Learning Methods
+The commodity super price cycle and real options: Implications for the Greeks of mining firms
+Conversion of light into macroscopic helical motion
+Simulation framework for real-time database on WSNs
+Formal verification methodology considerations for network on chips
+Dynamic Microenvironment Induces Phenotypic Plasticity of Esophageal Cancer Cells Under Flow
+Deconvolving Images with Unknown Boundaries Using the Alternating  Direction Method of Multipliers
+The Rho GTPase Rac1 is required for recycling endosome-mediated secretion of TNF in macrophages
+Recognizing Activities of Daily Living with a Wrist-mounted Camera
+A case of Bilateral Perisylvian Syndrome with reading disability
+Understanding Traffic Density from Large-Scale Web Camera Data
+Photoacoustics of single laser-trapped nanodroplets for the direct observation of nanofocusing in aerosol photokinetics
+Direct observation of the transition from indirect to direct bandgap in atomically thin epitaxial MoSe2
+Determination of the Flight Time of the Acoustic Waves Transmitted by the Cement Paste in Solidification by the Image Processing
+A systematic evaluation of chemicals in hydraulic-fracturing fluids and wastewater for reproductive and developmental toxicity
+Autonomic resource provisioning in cloud systems with availability goals
+Learning Residual Images for Face Attribute Manipulation
+Three-dimensional localization of ultracold atoms in an optical disordered potential
+Fuzzy versions of Kohonen's net and MLP-based classification: Performance evaluation for certain nonconvex decision regions
+Ricci flow embedding for rectifying non-Euclidean dissimilarity data
+The electricity crisis in Zambia: Blackouts and social stratification in new mining towns
+Web opinion mining for social networking sites
+Efficient Unsupervised Temporal Segmentation of Motion Data
+Critical fictive temperature for plasticity in metallic glasses
+Changes of statistical structural fluctuations unveils an early compacted degraded stage of PNS myelin
+Organic carbon decomposition rates controlled by water retention time across inland waters
+Crystal structure and optical properties of a high-density InGaN nanoumbrella array as a white light source without phosphors
+Towards multilingual interoperability in automatic speech recognition
+Perceptual features for automatic speech recognition in noisy environments
+Identifying First-person Camera Wearers in Third-person Videos
+Utilization of surface plasmon resonance of Au/Pt nanoparticles for highly photosensitive ZnO nanorods network based plasmon field effect transistor
+Information extraction by finding repeated structure
+Gaussian Process Morphable Models
+Deciphering associations between dissolved organic molecules and bacterial communities in a pelagic marine system
+Diverse virtual replicas for improving intrusion tolerance in cloud
+Intrinsic hepatocyte dedifferentiation is accompanied by upregulation of mesenchymal markers, protein sialylation and core alpha 1,6 linked fucosylation
+Neural networks applied to characterize blends containing refined and extra virgin olive oils
+Artificial Neural Network (ANN) based microstructural prediction model for 22MnB5 boron steel during tailored hot stamping
+Subspace clustering using a symmetric low-rank representation
+Hardware implementation of strategies for servicing queues
+Detecting Adversarial Samples Using Density Ratio Estimates
+Cluster-based dynamic variance adaptation for interconnecting speech enhancement pre-processor and speech recognizer
+A neutron spectrum unfolding code based on generalized regression artificial neural networks
+Pan-Tilt Camera and PIR Sensor Fusion Based Moving Object Detection for  Mobile Security Robots
+The reactive element effect of ceria particle dispersion on alumina growth: A model based on microstructural observations
+Adaptive light-sheet microscopy for long-term, high-resolution imaging in living organisms
+Recent advances on SVM based fault diagnosis and process monitoring in complicated industrial processes
+Dense 3D Facial Reconstruction from a Single Depth Image in  Unconstrained Environment
+A measurement-based design and evaluation methodology for embedded control systems
+Two-Stream RNN/CNN for Action Recognition in 3D Videos
+Validation of a chloroquine-induced cell death mechanism for clinical use against malaria
+A novel quantitation approach for maximizing detectable targets for offensive/volatile odorants with diverse functional groups by thermal desorption-gas chromatography-mass spectrometry
+Development of soft sensors for permanent downhole Gauges in deepwater oil wells
+Convolutional Networks for Image Processing by Coupled Oscillator Arrays
+Towards stable and commercially available perovskite solar cells
+23.6%-efficient monolithic perovskite/silicon tandem solar cells with improved stability
+Signal-dependent dynamics of transcription factor translocation controls gene expression
+Demonstration of entanglement-by-measurement of solid-state qubits
+Electrophysiological signals associated with fluency of different levels of processing reveal multiple contributions to recognition memory
+Introducing secure and self-organized vehicular ad-hoc networks
+Optimizing legacy building operation: The evolution into data-driven predictive cyber-physical systems
+RNA targets of wild-type and mutant FET family proteins
+A new algorithm based on complex wavelet transform for protein sequence classification
+Dual origin of defect magnetism in graphene and its reversible switching by molecular doping
+Recurrent Convolutional Networks for Pulmonary Nodule Detection in CT  Imaging
+Flow level performance evaluation in mobile networks: Analytical modeling and empirical validation
+Sphingosine-1-phosphate receptor-1 (S1P1) is expressed by lymphocytes, dendritic cells, and endothelium and modulated during inflammatory bowel disease
+A Y2H-seq approach defines the human protein methyltransferase interactome
+Image segmentation based on the hybrid total variation model and the  K-means clustering strategy
+The effect of high pressure processing on clingstone and freestone peach cell integrity and enzymatic browning reactions
+Synchronized background music generation for video
+Large-scale identification of target proteins of a glycosyltransferase isozyme by Lectin-IGOT-LC/MS, an LC/MS-based glycoproteomic approach
+Study of HfAlO/AlGaN/GaN MOS-HEMT with source field plate structure for improved breakdown voltage
+A Label-Free Photoluminescence Genosensor Using Nanostructured Magnesium Oxide for Cholera Detection
+A Novel Pattern Search Engine for Time Series Supporting Dynamic Expected Patterns within a Short Period of Time
+Emergence of Selective Invariance in Hierarchical Feed Forward Networks
+Learning to Generate Long-term Future via Hierarchical Prediction
+Attend, Infer, Repeat: Fast Scene Understanding with Generative Models
+Functional Weibull-based models of steel fracture toughness for structural risk analysis: estimation and selection
+Enhanced local detouring mechanisms for rapid and lightweight failure recovery in OpenFlow networks
+Histogram equalization and specification for high-dimensional data visualization using RadViz
+A Latent Source Model for Patch-Based Image Segmentation
+Localized Dictionary design for Geometrically Robust Sonar ATR
+Facile Synthesis of Layer Structured GeP3/C with Stable Chemical Bonding for Enhanced Lithium-Ion Storage
+Quadratic Projection Based Feature Extraction with Its Application to  Biometric Recognition
+Automatic assessment of facial expressions using fiducial points
+Botryoisocoumarin A, a new COX-2 inhibitor from the mangrove Kandelia candel endophytic fungus Botryosphaeria sp. KcF6
+Differences in Reading Strategies: How esl Learners Really Read
+Sundew plant, a potential source of anti-inflammatory agents, selectively induces G2/M arrest and apoptosis in MCF-7 cells through upregulation of p53 and Bax/Bcl-2 ratio
+Onset of meso-scale turbulence in active nematics
+Exploitation of Query Sentences Using Specific Weighting in Support-sentence Retrieval
+Cross-presentation of epitopes on virus-like particles via the MHC I receptor recycling pathway
+Association of hypertension with small, dense low-density lipoprotein in patients without metabolic syndrome
+LS-SVM and Monte Carlo methods based reliability analysis for settlement of soft clayey foundation
+SOR: An optimized semantic ontology retrieval algorithm for heterogeneous multimedia big data
+LSSA_CAU: An interactive 3d point clouds analysis software for body measurement of livestock with similar forms of cows or pigs
+Atomic-scale control of TiO6 octahedra through solution chemistry towards giant dielectric response
+QUIN: a network of creative and innovative women
+Identification and impact of discoverers in online social systems
+Enabling resource-awareness for in-network data processing in wireless sensor networks
+Evaluation of a pervasive game for domestic energy engagement among teenagers
+Chaos synchronization and chaotization of complex chaotic systems in series form by optimal control
+The Design of Presence and User Testing on Mentor-mentee Consultation System (MEMOC)
+Neural networks to increase the autonomy of interplanetary nanosatellite missions
+Visual attention in 3D video games
+Structure Inference Machines: Recurrent Neural Networks for Analyzing  Relations in Group Activity Recognition
+Standard Fingerprint Databases: Manual Minutiae Labeling and Matcher  Performance Analyses
+Speaker-independent 3D face synthesis driven by speech and text
+e-NSP: Efficient negative sequential pattern mining
+A strategic analysis of spam botnets operations
+Investigation of the emotional characteristics of the words from an electronic school-aid dictionary
+Deep reservoir computing: A critical experimental analysis
+SPA: Spatially Pooled Attributes for image retrieval
+A cascade gray-stereo visual feature extraction method for visual and audio-visual speech recognition
+Switching and amplification in disordered lasing resonators
+On Classification with Bags, Groups and Sets
+Cellular aspartyl proteases promote the unconventional secretion of biologically active HIV-1 matrix protein p17
+Artificial Intelligence techniques: An introduction to their use for modelling environmental systems
+Intelligent Prediction System for Gas Metering System using Particle Swarm Optimization in Training Neural Network
+Single quantum emitters in monolayer semiconductors
+Dissipation and resonance frequency shift of a resonator magnetically coupled to a semiclassical spin
+Detector Discovery in the Wild: Joint Multiple Instance and  Representation Learning
+When physics meets signal processing: Image and video denoising based on Ising theory
+A Two-Stage Shape Retrieval (TSR) Method with Global and Local Features
+Revisiting Visual Question Answering Baselines
+Deep learning and punctuated equilibrium theory
+Hot electron assisted vertical leakage/breakdown in AlGaN/GaN heterostructures on Si substrates
+Ferri-liposomes as an MRI-visible drug-delivery system for targeting tumours and their microenvironment
+Learning Abstract Classes using Deep Learning
+Anatomy-specific classification of medical images using deep  convolutional nets
+Integration of speech recognition and machine translation: Speech recognition word lattice translation
+Unravelling and controlling hidden imprint fields in ferroelectric capacitors
+User interface layout with ordinal and linear constraints
+Aurora kinases in childhood acute leukemia: the promise of aurora B as therapeutic target
+HDAC Inhibitors Restore the Capacity of Aged Mice to Respond to Haloperidol through Modulation of Histone Acetylation
+Big Data Migration between Data Centers in Online Cloud Environment
+Chapter 8 - Cybercrime: Attack Motivations and Implications for Big Data and National Security
+Estimating the concentration of gold nanoparticles incorporated on  Natural Rubber membranes using Multi-Level Starlet Optimal Segmentation
+Classification for accuracy and insight: a weighted sum approach
+Sub-10-fs control of dissociation pathways in the hydrogen molecular ion with a few-pulse attosecond pulse train
+Control of PKA stability and signalling by the RING ligase praja2
+A change management framework for service based business process
+Linear sea-level response to abrupt ocean warming of major West Antarctic ice basin
+The role of the teacher in scaffolding children's interactions in a technological environment: how a technology project is transforming preschool teacher practices in urban schools
+SVM classification of patients with Alzheimer's disease and mild cognitive impairment using hippocampal shape features
+Do users write about the system in use?: an investigation from messages in natural language on Twitter
+Plasma Membrane Proteolipid 3 Protein Modulates Amphotericin B Resistance through
+Large scale experiments on correction of confused words
+Learning Temporal Embeddings for Complex Video Analysis
+Carbon neutral growth from 2020 strategy and airline environmental inefficiency: A Network Range Adjusted Environmental Data Envelopment Analysis
+Modularity and architecture of PLC-based software for automated production Systems: An analysis in industrial companies
+Adenovirus vectors for gene expression
+Distributed GA for popularity based partial cache management in ICN
+A millisecond pulsar in a stellar triple system
+Semantically enhanced Information Retrieval: An ontology-based approach
+Thermoelectric performance of n-type Mg2Ge
+Semi-supervised learning and feature evaluation for RGB-D object recognition
+CeRu4Sn6: a strongly correlated material with nontrivial topology
+Hierarchical core-shell NiCo2O4@NiMoO4 nanowires grown on carbon cloth as integrated electrode for high-performance supercapacitors
+Effect of solvents on the crystal formation of poly(vinylidene fluoride) film prepared by a spin-coating process
+Finding the Topic of a Set of Images
+NECOMAtter: curating approach for sharing cyber threat information
+Persuasive Technology for Reducing Waiting and Service Cost: A Case Study of Nigeria Federal Medical Centers
+BF-Classifier: Background/Foreground Classification and Segmentation of Soundscape Recordings
+Joint estimation of phase and phase diffusion for quantum metrology
+Synthesis of poly- and oligo(hydroxyalkanoate)s by deep-sea bacteria, Colwellia spp., Moritella spp., and Shewanella spp
+Pruning Filters for Efficient ConvNets
+3D Printing Variable Stiffness Foams Using Viscous Thread Instability
+Learning discriminative trajectorylet detector sets for accurate  skeleton-based action recognition
+Structural elucidation of estrus urinary lipocalin protein (EULP) and evaluating binding affinity with pheromones using molecular docking and fluorescence study
+Vitronectin-binding PAI-1 protects against the development of cardiac fibrosis through interaction with fibroblasts
+Deep Cuboid Detection: Beyond 2D Bounding Boxes
+Switching Molecular Orientation of Individual Fullerene at Room Temperature
+Context-Aware Hypergraph Construction for Robust Spectral Clustering
+Dislocations in bilayer graphene
+Estimation of optimal physico-chemical characteristics of nano-sized inorganic blue pigment by combined artificial neural network and response surface methodology
+O-GlcNAc occurs cotranslationally to stabilize nascent polypeptide chains
+To Frontalize or Not To Frontalize: A Study of Face Pre-Processing  Techniques and Their Impact on Recognition
+Semliki Forest virus biodistribution in tumor-free and 4T1 mammary tumor-bearing mice: a comparison of transgene delivery by recombinant virus particles and naked RNA replicon
+Non-electrolytic synthesis of copper oxide/carbon nanocomposite by surface plasma in super-dehydrated ethanol
+Ventricular Fibrillation and Tachycardia detection from surface ECG using time-frequency representation images as input dataset for machine learning
+Residual matrix from different separation techniques impacts exosome biological activity
+Integrating and Evaluating Neural Word Embeddings in Information Retrieval
+Analytical tools for characterizing biopharmaceuticals and the implications for biosimilars
+Highly effective heterogeneous chemosensors of luminescent silica@coordination polymer core-shell micro-structures for metal ion sensing
+Scalable privacy-preserving big data aggregation mechanism
+CPU, SMP and GPU implementations of Nohalo level 1, a fast co-convex antialiasing image resampler
+Fast tests for the two-sample problem based on the empirical characteristic function
+Acoustic force spectroscopy
+Efficient Multi-Frequency Phase Unwrapping using Kernel Density  Estimation
+Isotope analysis in the transmission electron microscope
+Predictable non-linearities in U.S. inflation
+Light-Induced Peroxide Formation in ZnO: Origin of Persistent Photoconductivity
+A metal-free bifunctional electrocatalyst for oxygen reduction and oxygen evolution reactions
+Cost-Sensitive Deep Learning with Layer-Wise Cost Estimation
+Satellite image classification methods and Landsat 5TM bands
+Combined Gesture-Speech Recognition and Synthesis Using Neural Networks
+Keynote Address: Human-amplifying and Transformational Computing
+Integrated information storage and transfer with a coherent magnetic device
+Predicting newspaper sales by using data mining techniques
+New similarity index based on entropy and group theory
+Optical spectroscopy of single Si nanocylinders with magnetic and electric resonances
+A Stable Binary BeB2 phase
+Designing Deep Convolutional Neural Networks for Continuous Object  Orientation Estimation
+Automatic Viseme Vocabulary Construction to Enhance Continuous  Lip-reading
+Rapid Exact Signal Scanning with Deep Convolutional Neural Networks
+Unsupervised Object Discovery and Tracking in Video Collections
+Microtubules self-repair in response to mechanical stress
+Texture Synthesis Using Shallow Convolutional Networks with Random  Filters
+Statistical Analysis of Internet Banking Usage with Logistic Regression
+^muzicode$: Composing and Performing Musical Codes
+The Life and Works of Thomas Whythorne (1528-96): An opportunity for computer-assisted collaborative research
+Wavelet Based Image Coding Schemes : A Recent Survey
+Robust Registration of Calcium Images by Learned Contrast Synthesis
+Unsharpness of generalized measurement and its effects in entropic uncertainty relations
+Cascaded Boundary Regression for Temporal Action Detection
+Magnetic fingerprint of individual Fe4 molecular magnets under compression by a scanning tunnelling microscope
+Initiator sequences direct downstream promoter binding by human transcription factor IID
+The application of online transcranial random noise stimulation and perceptual learning in the improvement of visual functions in mild myopia
+Exploiting biased reptation for continuous flow preparative DNA fractionation in a versatile microfluidic platform
+Does toxicity of aromatic pollutants increase under remote atmospheric conditions?
+Anti-cancer efficacy of nonthermal plasma dissolved in a liquid, liquid plasma in heterogeneous cancer cells
+Accessing and manipulating meaning of textual and data information for information assurance and security and intelligence information
+Quantum Energy Regression using Scattering Transforms
+Provably secure key exchange: an engineering approach
+Perspectives on Big Data applications of health information
+Why Big Data? Towards a Project Assessment Framework
+Super-Spreader Identification Using Meta-Centrality
+A coloured petri net based tool for course of action development and analysis
+Light-activated photocurrent degradation and self-healing in perovskite solar cells
+A segmental-feature HMM for continuous speech recognition based on a parametric trajectory model
+Electric Field Dependence of Excitation Spectra in AB-Stacked Bilayer Graphene
+Parameterized complexity of the clique partition problem
+Difference of Normals as a Multi-Scale Operator in Unorganized Point  Clouds
+Spatial attention orienting to improve the efficacy of a brain-computer interface for communication
+Airwriting recognition using wearable motion sensors
+Towards semantic interoperability in healthcare: ontology mapping from SNOMED-CT to HL7 version 3
+PslG, a self-produced glycosyl hydrolase, triggers biofilm disassembly by disrupting exopolysaccharide matrix
+Arid5b facilitates chondrogenesis by recruiting the histone demethylase Phf2 to Sox9-regulated genes
+The relationship of the big-five with workplace network resources: More quadratic than linear
+A spectrum selection method based on SNR for the machine vision measurement of large hot forgings
+The role of prosody and voice quality in indirect storytelling speech: A cross-narrator perspective in four European languages
+Composite media mixing Bragg and local resonances for highly attenuating and broad bandgaps
+Towards automatic generation of AXML web services for dynamic data integration
+Convolutional neural networks for hyperspectral image classification
+Structural and haemostatic features of pharmaceutical heparins from different animal sources: challenges to define thresholds separating distinct drugs
+A three-dimensional triangular vision-based contouring error detection system and method for machine tools
+Fast and numerically stable circle fit
+Stenning's protocol implemented in UDP and verified in Isabelle
+Thermal equation of state of Molybdenum determined from in situ synchrotron X-ray diffraction with laser-heated diamond anvil cells
+A Bayesian Framework for Sparse Representation-Based 3D Human Pose  Estimation
+Enhanced high-frequency absorption of anisotropic Fe3O4/graphene nanocomposites
+The Little Engine that Could: Regularization by Denoising (RED)
+Cs/NF3 adsorption on [001]-oriented GaN nanowire surface: A first principle calculation
+Cell assemblies at multiple time scales with arbitrary lag  constellations
+Classification of Hepatic Lesions using the Matching Metric
+Handwritten Urdu Character Recognition using 1-Dimensional BLSTM  Classifier
+Printing colour at the optical diffraction limit
+Glucose-regulated proteins in cancer: molecular mechanisms and therapeutic potential
+Active directional switching of surface plasmon polaritons using a phase transition material
+Contrasting patterns of selective constraints in nuclear-encoded genes of the oxidative phosphorylation pathway in holometabolous insects and their possible role in hybrid breakdown in Nasonia
+Defining circular arcs on a round earth
+Measuring semantic similarity in the taxonomy of WordNet
+A fuzzy logic based approach for phase-wise software defects prediction using software metrics
+Aerobic nitrous oxide production through N-nitrosating hybrid formation in ammonia-oxidizing archaea
+Treatment with a non-toxic, self-replicating anti-prion delays or prevents prion disease in vivo
+Degradable lipid nanoparticles with predictable in vivo siRNA delivery activity
+Realistic retargeting of facial video
+Metric Learning in Codebook Generation of Bag-of-Words for Person  Re-identification
+Non-consistent cell-average multiresolution operators with application to image processing
+The StringPhone: a novel voice driven physically based synthesizer
+Acceleratorboard for neural associative memories
+Recognizing millions of consistently unidentified spectra across hundreds of shotgun proteomics datasets
+Parallel machine scheduling in fuzzy environment with hybrid ant colony optimization including a comparison of fuzzy number ranking methods in consideration of spread of fuzziness
+Asymmetric counteranion-directed Lewis acid organocatalysis for the scalable cyanosilylation of aldehydes
+Informal HCI: what may students learn from playability issues during a game design workshop?
+Chapter 40 - Factors That Increase Processing Demands When Listening to Speech
+Robust Data Geometric Structure Aligned Close yet Discriminative Domain  Adaptation
+Autophagy initiation by ULK complex assembly on ER tubulovesicular regions marked by ATG9 vesicles
+Extreme learning machines for credit scoring: An empirical evaluation
+Diagram Presentation using Loudspeaker Matrix for Visually Impaired People: Sound Characteristics for their Pattern Recognition
+A gesture-based CAPTCHA design supporting mobile devices
+Space perception and cues to distance in virtual reality
+Pharmacokinetics and tolerability of NSC23925b, a novel P-glycoprotein inhibitor: preclinical study in mice and rats
+Pons to Posterior Cingulate Functional Projections Predict Affective Processing Changes in the Elderly Following Eight Weeks of Meditation Training
+Arginine demethylation is catalysed by a subset of JmjC histone lysine demethylases
+How (not) to help people test drive code
+Estimation of glottal closure instants from degraded speech using a phase-difference-based algorithm
+Detecting damage in steel beams using modal strain energy based damage index and Artificial Neural Network
+Object-oriented analysis, criterion referencing, and Bloom
+The effects of interfacial potential on antimicrobial propensity of ZnO nanoparticle
+Systematic reconstruction of RNA functional motifs with high-throughput microfluidics
+NANI: an efficient community detection algorithm based on nested aggregation of node influence
+Trajectory probability hypothesis density filter
+Unexpected friction behaviours due to capillary and adhesion effects
+An evolutionary model of a neural network
+Indefinite Plasmonic Beam Engineering by In-plane Holography
+Multiple target tracking based on sets of trajectories
+Repurposing Blu-ray movie discs as quasi-random nanoimprinting templates for photon management
+APASVO: A free software tool for automatic P-phase picking and event detection in seismic traces
+Deubiquitinase activity is required for the proteasomal degradation of misfolded cytosolic proteins upon heat-stress
+Cognitive Radio Jamming Mitigation using Markov Decision Process and Reinforcement Learning
+Functional Role of Histidine in the Conserved His-x-Asp Motif in the Catalytic Core of Protein Kinases
+Comparing discriminant analysis, neural networks and logistic regression for predicting species distributions: a case study with a Himalayan river bird
+An Uncertain Future: Forecasting from Static Images using Variational  Autoencoders
+A FRAMEWORK FOR VEHICLE PLATOONING BASED ON MONOCULAR VISION
+Predator-prey dynamics stabilised by nonlinearity explain oscillations in dust-forming plasmas
+Femtosecond X-ray absorption study of electron localization in photoexcited anatase TiO2
+The Biophysical Probes 2-fluorohistidine and 4-fluorohistidine: Spectroscopic Signatures and Molecular Properties
+5493632 neural network employing a location addressable memory and method for operating the same : Ahn Seung; Wang Bo H; Ko Seok B; Lee Yoon Seoul, REPUBLIC OF KOREA assigned to Goldstar Co Ltd
+A Real-time Hand Gesture Recognition and Human-Computer Interaction  System
+Bayesian data and channel joint maximum-likelihood based error correction in wireless sensor networks
+On The Power of Joint Wavelet-DCT Features for Multispectral Palmprint  Recognition
+Asymmetry in Time Evolution of Magnetization in Magnetic Nanostructures
+Hierarchical Multi-resolution Mesh Networks for Brain Decoding
+ITG: A New Global GNSS Tropospheric Correction Model
+Premises of an algebra of Japanese characters
+Speech-evoked ABR: Effects of age and simulated neural temporal jitter
+Unravelling the low-temperature metastable state in perovskite solar cells by noise spectroscopy
+Insights into flow and heat transfer aspects of hypersonic rarefied flow over a blunt body with aerospike using direct simulation Monte-Carlo approach
+Heterogeneous Tensor Decomposition for Clustering via Manifold  Optimization
+Applying green chemistry to the photochemical route to artemisinin
+CPS: stateful policy enforcement for control system device usage
+Skin Texture Recognition Using Neural Networks
+The Application of Image Processing Technology On Brick-carved Image Recognition
+Au-Ag-Cu nano-alloys: tailoring of permittivity
+CNN as Guided Multi-layer RECOS Transform
+Differential Variance Analysis: a direct method to quantify and visualize dynamic heterogeneities
+Post-retrieval search hit clustering to improve information retrieval effectiveness: Two digital forensics case studies
+Intriguing properties of neural networks
+Image denoising via group sparsity residual constraint
+Research on the fast Fourier transform of image based on GPU
+Loss of p53 in quaking viable mice leads to Purkinje cell defects and reduced survival
+Wavelet based approach for tissue fractal parameter measurement: Pre  cancer detection
+All-inkjet-printed thin-film transistors: manufacturing process reliability by root cause analysis
+Deep Convolutional Denoising of Low-Light Images
+Finance conference quality and publication success: A conference ranking
+DeepSetNet: Predicting Sets with Deep Neural Networks
+Remote sensing of lunar aureole with a sky camera: Adding information in the nocturnal retrieval of aerosol properties with GRASP code
+Implementation of a quantum metamaterial using superconducting qubits
+Bifurcation analysis of chaotic geomagnetic field model
+FMRP regulates an ethanol-dependent shift in GABABR function and expression with rapid antidepressant properties
+Mobile merchandise evaluation service using novel information retrieval and image recognition technology
+In vivo remineralization of dentin using an agarose hydrogel biomimetic mineralization system
+Gene polymorphisms that can predict response to anti-TNF therapy in patients with psoriasis and related autoimmune diseases
+Identifying translation initiation sites in prokaryotes using support vector machine
+Event detection in sensor networks for modern oil fields
+Towards Confidence with Capture-recapture Estimation: An Exploratory Study of Dependence within Inspections
+Global analysis of biosynthetic gene clusters reveals vast potential of secondary metabolite production in Penicillium species
+Planar Holographic Metasurfaces for Terahertz Focusing
+Curcumin regulates cell fate and metabolism by inhibiting hedgehog signaling in hepatic stellate cells
+Real binoculars with virtual functions for mixed environments
+Influence of different carbon doping on the performance and reliability of InAlN/GaN HEMTs
+Trade-offs between driving nodes and time-to-control in complex networks
+Model eco-systems: preliminary work
+Stereo Video Deblurring
+TheraMem: physical rehabilitation with augmented reflection technology
+Boosting functionality of synthetic DNA circuits with tailored deactivation
+Speech Control of Measurement Devices
+Perceptually Consistent Color-to-Gray Image Conversion
+A method for real-time measurement of respiratory rhythms in medaka (Oryzias latipes) using computer vision for water quality monitoring
+Statistical Normalization techniques for the prediction of COD level for an anaerobic wastewater treatment plant
+Predicting graph reading performance: a cognitive approach
+Activation of D1/5 Dopamine Receptors: A Common Mechanism for Enhancing Extinction of Fear and Reward-Seeking Behaviors
+Recent developments on deep big vision
+Cardiac arrhythmia beat classification using DOST and PSO tuned SVM
+Embedding cognizance in intellectual development
+Visual Concept Detection and Real Time Object Detection
+Science, technology and the future of small autonomous drones
+Classification of Aurora kinase inhibitors by self-organizing map (SOM) and support vector machine (SVM)
+Multilayer perceptron as inverse model in a ground-based remote sensing temperature retrieval problem
+3D deeply supervised network for automated segmentation of volumetric medical images
+Greedy Search for Descriptive Spatial Face Features
+State of the art review of the environmental assessment and risks of underground geo-energy resources exploitation
+Sartorypyrone D: a new NADH-fumarate reductase inhibitor produced by Neosartorya fischeri FO-5897
+Pinellia pedatisecta agglutinin interacts with the methylosome and induces cancer cell death
+Microcalcification diagnosis in digital mammography using extreme learning machine based on hidden Markov tree model of dual-tree complex wavelet transform
+Fuzzy-rough feature selection aided support vector machines for Mars image classification
+HARD: Hybrid Adaptive Resource Discovery for Jungle Computing
+Unidirectional magnetic field assisted Laser Induced Plasma Micro-Machining
+A variable selection method based on Tabu search for logistic regression models
+AlGaN/GaN Metal-Oxide-Semiconductor High-Electron-Mobility Transistor with Polarized P(VDF-TrFE) Ferroelectric Polymer Gating
+6 - Computer vision for automatic sorting in the food industry
+Phosphorene quantum dot saturable absorbers for ultrafast fiber lasers
+Scalable, accurate image annotation with joint SVMs and output kernels
+Metaphor and metonymy in object-oriented design patterns
+Identifying individual facial expressions by deconstructing a neural  network
+Chapter 11 - Data Mining for Better Protocols
+A novel role of ethephon in controlling the noxious weed Ipomoea cairica (Linn.) Sweet
+A simple and efficient statistical potential for scoring ensembles of protein structures
+Isolation and Identification of Post-Transcriptional Gene Silencing-Related Micro-RNAs by Functionalized Silicon Nanowire Field-effect Transistor
+Transient receptor potential channels as therapeutic targets
+Energy-Efficient Localization and Tracking on Smartphones: Design Principle and Solutions
+The role of administrative data in the big data revolution in social science research
+Robust Fuzzy corner detector
+Mining Discriminative Triplets of Patches for Fine-Grained  Classification
+Semantic word category processing in semantic dementia and posterior cortical atrophy
+A family of binary magnetic icosahedral quasicrystals based on rare earths and cadmium
+Could speech recognition improve your meetings?
+Spin-polarized Wide Electron Slabs in Functionally Graded Polar Oxide Heterostructures
+Feature annotation for text categorization
+Co-Sparse Textural Similarity for Image Segmentation
+User Perceptions of Using an Open Learner Model Visualisation Tool for Facilitating Self-regulated Learning
+Wide bandwidth fiber-optic ultrasound probe in MOMS technology: Preliminary signal processing results
+Modular design of an open-source, networked embedded system
+Resolving mixed mechanisms of protein subdiffusion at the T cell plasma membrane
+Decoherence-protected quantum gates for a hybrid solid-state spin register
+Autism spectrum disorder in the scope of tactile processing
+Kalman filter-based method for Online Sequential Extreme Learning Machine for regression problems
+Burning Graphene Layer-by-Layer
+Neural networks for computing best rank-one approximations of tensors and its applications
+Learning 3D faces from 2D images via Stacked Contractive Autoencoder
+A novel automatic thresholding segmentation method with local adaptive  thresholds
+Claims-Inspired Pattern Development: Designing for Low Literacy
+Increased IL-6 Concentrations in Newborns after Exposure to Particulate Matter during Pregnancy
+Creating, Visualizing, and Analyzing Dynamic Music Objects in the Browser with the Dymo Designer
+Exactly solvable spin chain models corresponding to BDI class of topological superconductors
+Vision-based pest detection based on SVM classification method
+Uniform Information Segmentation
+User-interface design for highly automated systems a structured approach
+Mirror, mirror on the wall, tell me, is the error small?
+Adaptive sampling for thresholding in document filtering and classification
+Pose-conditioned Spatio-Temporal Attention for Human Action Recognition
+Tuning magnetotransport in a compensated semimetal at the atomic scale
+Discriminative Parameter Estimation for Random Walks Segmentation
+CELIP: A cellular language for image processing
+Scalable salt-templated synthesis of two-dimensional transition metal oxides
+Validating a natural language processing tool to exclude psychogenic nonepileptic seizures in electronic medical record-based epilepsy research
+A structure of a c# framework ContextCS based on context-oriented programming
+Detection of serial arc fault on low-voltage indoor power lines by using radial basis function neural network
+Comparing impact factors from two different citation databases: The case of Computer Science
+Effects of two types of task instructions on literary text comprehension and motivational and affective factors
+Analysis and Measurement of Medical Image Defects through the Reliability Computing of Image data
+Joint Semantic Segmentation and Depth Estimation with Deep Convolutional  Networks
+Analyzing play experience sensitivity to input sensor noise in outdoor augmented reality smartphone games
+Tracking Direction of Human Movement - An Efficient Implementation using  Skeleton
+In-Vehicle Networks: Attacks, Vulnerabilities, and Proposed Solutions
+Insights into functional and evolutionary analysis of carbaryl metabolic pathway from Pseudomonas sp. strain C5pp
+Learning control of fermentation process with an improved DHP algorithm
+Life-sized Group and Crowd simulation in Mobile AR
+3D Model Retrieval Based on Semantic and Shape Indexes
+iPad colour vision apps for dyschromatopsia screening
+5-O-Mycaminosyltylonolide antibacterial derivatives: design, synthesis and bioactivity
+Real-time monitoring of the solution growth of ZnO nanorods arrays by quartz microbalances and in-situ temperature sensors
+Open source computer game application: An empirical analysis of quality concerns
+Competitive analysis of software solutions for business organizations
+The identification of cutin synthase: formation of the plant polyester cutin
+Beware of artificial intelligence
+Automated assessment and marking of spreadsheet concepts
+Virtual chromatic percussions simulated by pseudo-haptic and vibrotactile feedback
+Recommendations for the diagnosis and management of bladder pain syndrome. Spanish urological association consensus document
+MLP-CFAR for improving coherent radar detectors robustness in variable scenarios
+Greedy Compositional Clustering for Unsupervised Learning of  Hierarchical Compositional Models
+Dominant Isoform in Alternative Splicing in HeLa S3 Cell Line Revealed by Single-cell RNA-seq
+Embeddings for non-critical superstrings
+Static balancing and inertia compensation of a master manipulator for tele-operated surgical robot application
+Chapter 3 - Introduction to Embedded Software Development
+Community reaction: from blogs to Facebook
+Ultrafast biexciton spectroscopy in semiconductor quantum dots: evidence for early emergence of multiple-exciton generation
+Satellite Imagery Feature Detection using Deep Convolutional Neural  Network: A Kaggle Competition
+Short-term building energy model recommendation system: A meta-learning approach
+Highly efficient water splitting by a dual-absorber tandem cell
+Improving speech perception in noise with current focusing in cochlear implant users
+ASPP1 and ASPP2 bind active RAS, potentiate RAS signalling and enhance p53 activity in cancer cells
+On the mathematics of beauty: beautiful images
+Semantic Segmentation with Boundary Neural Fields
+Characterization of semi-polar GaN on GaAs substrates
+Extraembryonic but not embryonic SUMO-specific protease 2 is required for heart development
+Restoration of clipped seismic waveforms using projection onto convex sets method
+Blind Deconvolution with Non-local Sparsity Reweighting
+Revisiting Socio-technical System Design
+The design and applications of superomniphobic surfaces
+Evaluating Gesture Characteristics When Using a Bluetooth Handheld Music Controller
+Adversarial Feature Learning
+Acetylcholine and cholecystokinin receptors functionally couple by different G-proteins to phospholipase C in pancreatic acinar cells
+Face Recognition Algorithms based on Transformed Shape Features
+Synthesis of strong and stretchable double network (DN) hydrogels of PVA-borax and P(AM-co-HEMA) and study of their swelling kinetics and mechanical properties
+Vortex dynamics and frequency splitting in vertically coupled nanomagnets
+Computer-assisted image processing to detect spores from the fungus Pandora neoaphidis
+Dynamic subunit turnover in ESCRT-III assemblies is regulated by Vps4 to mediate membrane remodelling during cytokinesis
+Enhancing Interfaces for Network Security Administrators with Legacy Attributes
+Fast ConvNets Using Group-wise Brain Damage
+Novel Handheld Magnetometer Probe Based on Magnetic Tunnelling Junction Sensors for Intraoperative Sentinel Lymph Node Identification
+Paraffin processing of stented arteries using a postfixation dissolution of metallic and polymeric stents
+Semi-supervised ranking for document retrieval
+Quantitative Analysis of Automatic Image Cropping Algorithms: A Dataset  and Comparative Study
+A LLVM Extension for the Generation of Low Overhead Runtime Program Specializer
+Information intelligence in cloud computing: how can Vijjana, a collaborative, self-organizing, domain centric knowledge network model help
+Revealing the planar chemistry of two-dimensional heterostructures at the atomic level
+Membranes of MnO Beading in Carbon Nanofibers as Flexible Anodes for High-Performance Lithium-Ion Batteries
+MISQ: a UML-based analytical modeling methodology for optimizing web service composition
+Curvature Prior for MRF-based Segmentation and Shape Inpainting
+ChIPmentation: fast, robust, low-input ChIP-seq for histones and transcription factors
+Integration of accelerated MRI and post-processing software: a promising method for studies of knee osteoarthritis
+Person Re-identification in Appearance Impaired Scenarios
+The Light Painting by a Fluorescence String Figure
+Extensive subunit contacts underpin herpesvirus capsid stability and interior-to-exterior allostery
+Anthropocentric video analysis for film and games postproduction
+A Cross-Domain Comparable Measurement Framework to Quantify Intrusion Detection Effectiveness
+Speech recognition for the anaesthesia record during crisis scenarios
+A text based indexing system for mammographic image retrieval and classification
+On gamification in action learning
+Seagrass ecosystems as a globally significant carbon stock
+Children's representations of learning through drawings
+Validation of a free software for unsupervised assessment of abdominal fat in MRI
+Hearing versus listening: Attention to speech and its role in language acquisition in deaf infants with cochlear implants
+Tip-multi-breaking in Capillary Microfluidic Devices
+On the effect of human mobility to the design of metropolitan mobile opportunistic networks of sensors
+Evaluation of a set of new ORF kernel functions of SVM for speech recognition
+Ultrafast laser induced local magnetization dynamics in Heusler compounds
+The impact of influential leaders in the formation and development of social networks
+How to be smart and energy efficient: A general discussion on thermochromic windows
+Locality sensitive discriminant matrixized learning machine
+Estimation of seismic building structural types using multi-sensor remote sensing and machine learning techniques
+Designing mediation
+Effects of variable sequences of food availability on interval time-place learning by pigeons
+Certifying the Existence of Epipolar Matrices
+Fractal structure of the crystalline-nuclei boundaries in 2D colloidal crystallization: Computer simulations
+Application of Independent Component Analysis Techniques in Speckle  Noise Reduction of Retinal OCT Images
+Innovative Tools for Sound Sketching Combining Vocalizations and Gestures
+Analysis on the Transportation Point in Cheongju City Using Pagerank Algorithm
+Cross-scale predictive dictionaries
+High-effective approach from amino acid esters to chiral amino alcohols over Cu/ZnO/Al2O3 catalyst and its catalytic reaction mechanism
+Designing a tone mapping algorithm for road visibility experiments
+Applying architectural patterns for parallel programming an N-body simulation
+Learning Linear Dynamical Systems with High-Order Tensor Data for  Skeleton based Action Recognition
+Comparison of performance with voiced and whispered speech in word recognition and mean-formant-frequency discrimination
+Neural networks for predicting the duration of new software projects
+Crystal structures of RidA, an important enzyme for the prevention of toxic side products
+Fast Approximate L_infty Minimization: Speeding Up Robust Regression
+Influence of doping on charge carrier collection in normal and inverted geometry polymer:fullerene solar cells
+Has large-scale artificial photosynthesis become real?
+An ultrawide-bandwidth single-sideband modulator for terahertz frequencies
+Rigid Multiview Varieties
+A new role of NUAK1: directly phosphorylating p53 and regulating cell proliferation
+The rise of artificial intelligence and the uncertain future for physicians
+Hypergraph based feature fusion for 3-D object retrieval
+Remote cache-timing attacks against AES
+Deep learning driven blockwise moving object detection with binary scene modeling
+Focussing on a standard pattern form: the development and evaluation of MUIP
+A Hybrid Deep Learning Forecasting Model Using GPU Disaggregated Function Evaluations Applied for Household Electricity Demand Forecasting
+A novel Fuzzy Logic Controller (FLC) for shortening the TCP channel roundtrip time by eliminating user buffer overflow adaptively
+Discovering user access pattern based on probabilistic latent factor model
+Beyond Local Search: Tracking Objects Everywhere with Instance-Specific  Proposals
+Extracting drug adverse and beneficial reactions in pediatric population from healthcare social network
+Fast bio-inspired computation using a GPU-based systemic computer
+Crowd Flow Segmentation in Compressed Domain using CRF
+Carbon-bearing silicate melt at deep mantle conditions
+Validation of Logistic Regression Models in Small Samples: Application to Calvarial Lesions Diagnosis
+Combining unsupervised and invigilated assessment of introductory programming
+An efficient demand-driven and density-controlled publish/subscribe protocol for mobile environments
+Efficient Rotation-Scaling-Translation Parameters Estimation Based on  Fractal Image Model
+Structural controllability of unidirectional bipartite networks
+A dynamic erasure code for multicasting live data
+SCORPIODROME: an exploration in mixed reality social gaming for children
+Doubly Resonant Optical Periodic Structure
+Nested Invariance Pooling and RBM Hashing for Image Instance Retrieval
+A voltage-gated sodium channel is essential for the positive selection of CD4+ T cells
+Redundancy resolution and control of a nonholonomic mobile manipulator using Kinect mounted on UAV
+Synthesis and characterization of vertically standing MoS2 nanosheets
+A survey of document image word spotting techniques
+Studying interaction with documentation: methodological lessons learned in two semi-naturalistic designs
+Occurrence of non-mineral inorganic elements in macerals of low-rank coals
+Security analysis of a fingerprint-protected USB drive
+Anger recognition in speech using acoustic and linguistic cues
+Assimilation of the seabird and ship drift data in the north-eastern sea of Japan into an operational ocean nowcast/forecast system
+A Real-time Collision Prevention System for Machine Tools
+A reflective middleware architecture for distributed sensor applications
+Indoor Environmental Effects on Individual Wellbeing
+Metallorganische diazoalkane : XVIII. Ueber den mechanismus der phosphazinbildung metallorganischer diazomethane: 15N-NMR-untersuchungen an isotopenmarkierten diazomethanen
+Oxidative guanine base damage regulates human telomerase activity
+Carrier multiplication in graphene under Landau quantization
+The Euclidean embedding learning based on convolutional neural network for stereo matching
+Dimensionality Reduction and Classification feature using Mutual  Information applied to Hyperspectral Images : A Filter strategy based  algorithm
+Gender Recognition in Walk Gait through 3D Motion by Quadratic Bezier  Curve and Statistical Techniques
+A catholic and enhanced study of temporal visual backchannel for dynamically changing events in SNs present in clouds
+Real-time intraoperative monitoring of blood coagulability via coherence-gated light scattering
+Transport through modes in random media
+Synchronization in output-coupled temporal Boolean networks
+Mass-spectrometric exploration of proteome structure and function
+First-principles study on the phase diagram and multiferroic properties of (SrCoO3)1/(SrTiO3)1 superlattices
+Selective inhibition of apicoplast tryptophanyl-tRNA synthetase causes delayed death in Plasmodium falciparum
+Towards a new generation of agricultural system data, models and knowledge products: Information and communication technology
+From cancer genomes to oncogenic drivers, tumour dependencies and therapeutic targets
+Augmenting spatial skills with semi-immersive interactive desktop displays: do immersion cues matter?
+Dictionary Learning and Sparse Coding on Grassmann Manifolds: An  Extrinsic Solution
+Disease and Treatment Characteristics of Men Diagnosed With Metastatic Hormone-Sensitive Prostate Cancer in Real Life: Analysis From a Commercial Claims Database
+Data-driven magnetohydrodynamic modelling of a flux-emerging active region leading to solar eruption
+An improved biased random sampling algorithm for load balancing in cloud based systems
+New challenges of Astroinformatics - STARK-B database and Serbian virtual observatory - SerVO, and relations to European virtual atomic data center - VAMDC
+Binding site elucidation and structure guided design of macrocyclic IL-17A antagonists
+Global and Local Information Based Deep Network for Skin Lesion  Segmentation
+A rank-based Prediction Algorithm of Learning User's Intention
+An Empirical Study into Annotator Agreement, Ground Truth Estimation,  and Algorithm Evaluation
+Chapter 4 - Quality management and software process engineering
+Explaining differences in reading motivation between immigrant and native students: The role of parental involvement
+Combining human and machine learning for morphological analysis of  galaxy images
+Locating the source of voltage sags: Full review, introduction of generalized methods and numerical simulations
+Beyond Web Content Accessibility Guidelines: Expert Accessibility Reviews
+Structure of the mycobacterial ESX-5 type VII secretion system
+Experience design in the Asia Pacific ICT landscape
+Photovoltaic retinal prosthesis with high pixel density
+Collective punishment is more effective than collective reward for promoting cooperation
+Thermodynamic phase transitions in a frustrated magnetic metamaterial
+A GA-based query optimization method for web information retrieval
+Decalpenic acid, a novel small molecule from Penicillium verruculosum CR37010, induces early osteoblastic markers in pluripotent mesenchymal cells
+Investigation of software patterns of user experience
+Is Faster R-CNN Doing Well for Pedestrian Detection?
+Solving QVIs for Image Restoration with Adaptive Constraint Sets
+Integration of interactive three-dimensional image post-processing software into undergraduate radiology education effectively improves diagnostic skills and visual-spatial ability
+Automatic tag saliency ranking for stereo images
+Do your Findings Depend on your Data(base)? A Comparative Analysis and Replication Study Using the Three Most Widely Used Databases in International Business Research
+Formation of Carbonized Polystyrene Sphere/hemisphere Shell Arrays by Ion Beam Irradiation and Subsequent Annealing or Chloroform Treatment
+Deploying Real Time Big Data Analytics in Cloud Ecosystem for Hazmat Stochastic Risk Trajectories
+Climate and soil properties limit the positive effects of land use reversion on carbon storage in Eastern Australia
+Structural and functional analysis of lysozyme after treatment with dielectric barrier discharge plasma and atmospheric pressure plasma jet
+High stability of electro-transport and magnetism against the A-site cation disorder in SrRuO3
+Validating web content with senser
+Collective ordering of microscale matters in natural analogy
+Beyond Gauss: Image-Set Matching on the Riemannian Manifold of PDFs
+The soft mechanical signature of glial scars in the central nervous system
+Graphitic carbon nitride nanosheets doped graphene oxide for electrochemical simultaneous determination of ascorbic acid, dopamine and uric acid
+An Integrated Visualization System for Spatial Database with Real-Time Text Queries
+TGF beta receptor II interacting protein-1, an intracellular protein has an extracellular role as a modulator of matrix mineralization
+Hyperplane Clustering Via Dual Principal Component Pursuit
+Atlantic cooling associated with a marine biotic crisis during the mid-Cretaceous period
+Building Deep Networks on Grassmann Manifolds
+Topical Authoritative Answerer Identification on Q&A; Posts using Supervised Learning in CQA Sites
+Combined speech enhancement and auditory modelling for robust distributed speech recognition
+Learning to Linearize Under Uncertainty
+Mutual regulation between DNA-PKcs and snail1 leads to increased genomic instability and aggressive tumor characteristics
+Role of interface coupling inhomogeneity in domain evolution in exchange bias
+Network covert channels on the Android platform
+Polyester type polyHIPE scaffolds with an interconnected porous structure for cartilage regeneration
+Recurrent wavelet-based neuro fuzzy networks for dynamic system identification
+Application of an artificial neural network for evaluation of activity concentration exemption limits in NORM industry
+Increasing the power: A practical approach to goodness-of-fit test for logistic regression models with continuous predictors
+Invisible photonic printing: computer designing graphics, UV printing and shown by a magnetic field
+Maxacalcitol ameliorates tubulointerstitial fibrosis in obstructed kidneys by recruiting PPM1A/VDR complex to pSmad3
+Giant nonlinear optical activity in a plasmonic metamaterial
+Real-time Tracking Based on Neuromrophic Vision
+Lessons on the pathogenesis of aneurysm from heritable conditions
+Learning Energy Consumption and Demand Models through Data Mining for Reverse Engineering
+Postharvest noninvasive assessment of fresh chestnut (Castanea spp.) internal decay using computer tomography images
+Sulfur oxidizers dominate carbon fixation at a biogeochemical hot spot in the dark ocean
+Orientation Driven Bag of Appearances for Person Re-identification
+Amicoumacin A Inhibits Translation by Stabilizing mRNA Interaction with the Ribosome
+Safety of Tranexamic Acid in Pediatric Cardiac Surgery: A Nationwide Database Study
+Timed behavioural modelling and affine scheduling of embedded software architectures in the AADL using Polychrony
+Visible light photocatalysis as a greener approach to photochemical synthesis
+Topological order and absence of band insulators at integer filling in non-symmorphic crystals
+A bacterial ABC transporter enables import of mammalian host glycosaminoglycans
+Deep Learning for Isotropic Super-Resolution from Non-Isotropic 3D  Electron Microscopy
+A novel comprehensive learning artificial bee colony optimizer for dynamic optimization biological problems
+Graphene nanodevices for DNA sequencing
+Pose-Aware Person Recognition
+Super-resolution microscopy with very large working distance by means of distributed aperture illumination
+Visual attention in preterm born adults: Specifically impaired attentional sub-mechanisms that link with altered intrinsic brain networks in a compensation-like mode
+Phase-modulating lasers toward on-chip integration
+Autonomy requirements engineering: a case study on the BepiColombo mission
+Tuning interactions between zeolite and supported metal by physical-sputtering to achieve higher catalytic performances
+Beyond Sharing Weights for Deep Domain Adaptation
+Elastic extreme learning machine for big data classification
+Molecular epigenetic approach activates silent gene cluster producing dimeric bis-spiro-azaphilones in Chaetomium globosum CBS148.51
+Relevance theory and distributions of judgments in document retrieval
+Enrichment of mutations in chromatin regulators in people with Rett syndrome lacking mutations in MECP2
+Integration of generic program analysis tools into a software development environment
+Relationships between information security metrics: an empirical study
+Protein design with a comprehensive statistical energy function and boosted by experimental selection for foldability
+Reporting Statistical Validity and Model Complexity in Machine Learning based Computational Studies
+Crack detection using image processing: A critical review and analysis
+BrainNetCNN: Convolutional neural networks for brain networks; towards predicting neurodevelopment
+Critical behavior of the quasi-two-dimensional semiconducting ferromagnet CrSiTe3
+Highly coherent and stable pulses from the FERMI seeded free-electron laser in the extreme ultraviolet
+Nonlinear control of a boost converter using a robust regression based reinforcement learning algorithm
+"Just-in-time" architectural knowledge for developers
+Identification and characterization of a multidomain hyperthermophilic cellulase from an archaeal enrichment
+Relations between selected musical parameters and expressed emotions: extending the potential of computer entertainment
+Effects of telmisartan on the cerebral circulation of hypertensive patients with chronic-stage stroke
+Energy consumption predicting model of VRV (Variable refrigerant volume) system in office buildings based on data mining
+Improving sentiment analysis via sentence type classification using BiLSTM-CRF and CNN
+Ubiquitous WLAN/Camera Positioning using Inverse Intensity Chromaticity  Space-based Feature Detection and Matching: A Preliminary Result
+Role of point defects on the reactivity of reconstructed anatase titanium dioxide (001) surface
+TIFA, an inflammatory signaling adaptor, is tumor suppressive for liver cancer
+Mipsagargin, a novel thapsigargin-based PSMA-activated prodrug: results of a first-in-man phase I clinical trial in patients with refractory, advanced or metastatic solid tumours
+An Intelligent GIS Database Framework Featuring Building Query Functionality Using n-grams Encoding and k-means Classification
+Multidimensionality of morphological awareness and text comprehension among young Chinese readers in a multilingual context
+International Workshop on Context Enabled Source and Service Selection, Integration and Adaptation: workshop summary
+Endocytic proteins are partitioned at the edge of the clathrin lattice in mammalian cells
+Pharmacologically induced erect penile length and stretched penile lengh are both good predictors of post-inflatable prosthesis penile length
+Synthesis of side-chain liquid crystalline polyacetylenes bearing succinic acid spacer
+Temperature dependent fracture properties of shape memory alloys: novel findings and a comprehensive model
+Speech recognition for command entry in multimodal interaction
+Interpreting variability in population biomonitoring data: Role of elimination kinetics
+Application of computer vision technique for on-line monitoring of shrimp color changes during drying
+Embracing the quantum limit in silicon computing
+Quantum chaos in ultracold collisions of gas-phase erbium atoms
+Interleukin-31 promotes helper T cell type-2 inflammation in children with allergic rhinitis
+Self-Propelled Hovercraft Based on Cold Leidenfrost Phenomenon
+Salient Object Detection via Augmented Hypotheses
+Can we unify monocular detectors for autonomous driving by using the  pixel-wise semantic segmentation of CNNs?
+Intelligence and childlessness
+A highly resistive layer within the crust of X-ray pulsars limits their spin periods
+Virtual robots module: an effective visualization tool for robotics toolbox
+Taking your own path: Individual differences in executive function and language processing skills in child learners
+Combined Descriptors in Spatial Pyramid Domain for Image Classification
+Efficient Object Detection for High Resolution Images
+Robust Optical Flow Estimation of Double-Layer Images under Transparency  or Reflection
+Use of MKL as symbol classifier for Gujarati character recognition
+Usability evaluation methods in practice: understanding the context in which they are embedded
+Clinical feasibility of TBI with helical tomotherapy
+The roles of perception for volume visualization and designing volume visualization methods based on perceptual factors
+Guest Editorial: Intermediate representation for vision and multimedia applications
+Adaptive Power Panel of Cloud Computing Controlling Cloud Power Consumption
+Anomaly detection in multiple scale for insider threat analysis
+Tree-Structure Bayesian Compressive Sensing for Video
+Geometric reasoning for computer vision
+Business Analytics in Context: Evaluating New Curricular Modules in an Undergraduate Statistics Course
+Proactive Security Analysis of Changes in Virtualized Infrastructures
+Elucidation of crystal and electronic structures within highly strained BiFeO3 by transmission electron microscopy and first-principles simulation
+Understanding Changes in n-way Merge: Use-cases and User Interface Demonstrations
+The role of proficiency and working memory in gender and number agreement processing in L1 and L2 Spanish
+Anisotropic magnetoresistance in an antiferromagnetic semiconductor
+Secrets of the analog operating panels: can they be revealed digitally in the new training simulator
+High-resolution vector microwave magnetometry based on solid-state spins in diamond
+The interplay between social learning and adaptive capacity in climate change adaptation: A systematic review
+Ranking matrices as operational tools for the environmental risk assessment of genetically modified crops on non-target organisms
+Protein crystal screening and characterization for serial femtosecond nanocrystallography
+National broadband program of the republic of Bulgaria
+What are the Receptive, Effective Receptive, and Projective Fields of  Neurons in Convolutional Neural Networks?
+Ontology-enriched multi-document summarization in disaster management using submodular function
+Rational design of carbon nitride photocatalysts by identification of cyanamide defects as catalytically relevant sites
+Hashing on Nonlinear Manifolds
+Soil transference patterns on bras: Image processing and laboratory dragging experiments
+Semantic Change Detection with Hypermaps
+Extremely large magnetoresistance and ultrahigh mobility in the topological Weyl semimetal candidate NbP
+Microsecond-sustained lasing from colloidal quantum dot solids
+Super-resolution spectroscopic microscopy via photon localization
+Analysis and design of Wavelet-Packet Cepstral coefficients for automatic speech recognition
+Molecular basis for catalysis and substrate-mediated cellular stabilization of human tryptophan 2,3-dioxygenase
+Self-current induced spin-orbit torque in FeMn/Pt multilayers
+Scanning Tunneling Microscopy Observation of Phonon Condensate
+Logistic regression analysis and nursing interventions for high-risk factors for pressure sores in patients in a surgical intensive care unit
+Chapter 1 - Market and Business Drivers for Big Data Analytics
+Nonorientable regular embeddings of graphs of order
+A framework for Big Data driven product lifecycle management
+Cytotoxic hydroanthraquinones from the mangrove-derived fungus Paradictyoarthrinium diffractum BCC 8704
+Immunotargeting and eradication of orthotopic melanoma using a chemokine-enhanced DNA vaccine
+Chapter 10 - Deep learning
+Stimuli-controlled self-assembly of diverse tubular aggregates from one single small monomer
+Secure and Efficient Key Derivation in Portfolio Authentication Schemes Using Blakley Secret Sharing
+Usability evaluation of library online catalogues
+Membrane-mediated action of the endocannabinoid anandamide on membrane proteins: implications for understanding the receptor-independent mechanism
+OSPF vulnerability to persistent poisoning attacks: a systematic analysis
+Negotiating meanings of gender justice: Critical reflections on dialogs and debates in a non-governmental organization (NGO)
+Low-voltage blue light emission from n-ZnO/p-GaN heterojunction formed by RF magnetron sputtering method
+Tenascin-C drives persistence of organ fibrosis
+HOPC: Histogram of Oriented Principal Components of 3D Pointclouds for  Action Recognition
+Lesion detection and Grading of Diabetic Retinopathy via Two-stages Deep  Convolutional Neural Networks
+Empirical comparison of cross-validation and internal metrics for tuning SVM hyperparameters
+Novel Self-driven Microbial Nutrient Recovery Cell with Simultaneous Wastewater Purification
+The atomic-scale mechanism for the enhanced glass-forming-ability of a Cu-Zr based bulk metallic glass with minor element additions
+Suppressing disease spreading by using information diffusion on multiplex networks
+Robustness of a Topologically Protected Surface State in a Sb2Te2Se Single Crystal
+Content analysis of a rural community's interaction with its cultural heritage through a longitudinal display deployment
+Augmenting text with multiple pictures can facilitate online information processing across language barriers
+Date-field retrieval in scene image and video frames using text enhancement and shape coding
+Hemolytic reactions mechanically induced by kinked hemodialysis lines
+Shape and Color Object Tracking for Real-Time Robotic Navigation
+Efficient antitumor effect of co-drug-loaded nanoparticles with gelatin hydrogel by local implantation
+Concurrent enhancement of percolation and synchronization in adaptive networks
+Pressure-induced amorphous-to-amorphous configuration change in Ca-Al metallic glasses
+miR-23b* targets proline oxidase, a novel tumor suppressor protein in renal cancer
+An Adaptive Neuro-Fuzzy Inference System Modeling for Grid-Adaptive  Interpolation over Depth Images
+Image Resolution Enhancement by Using Interpolation Followed by  Iterative Back Projection
+Retrieval and clinical analysis of distraction-based dual growing rod constructs for early onset scoliosis
+Time-Contrastive Networks: Self-Supervised Learning from Multi-View  Observation
+Modal Characterization using Principal Component Analysis: application to Bessel, higher-order Gaussian beams and their superposition
+Rapid on-site monitoring of Legionella pneumophila in cooling tower water using a portable microfluidic system
+Design and analysis of asymptotically optimal randomized tree embedding algorithms in static networks
+An intelligent artificial throat with sound-sensing ability based on laser induced graphene
+Virtual model of MAIN FRAME COMPUTER ES 1020B from Computer Museum of Mathematics and Informatics Faculty in Shumen University
+Joint Object and Part Segmentation using Deep Learned Potentials
+Subject index to volume 5 (1993)
+Unabridged phase diagram for single-phased FeSexTe1-x thin films
+Collaborative Low-Rank Subspace Clustering
+Logistic regression using covariates obtained by product-unit neural network models
+Synthesis and characterization of sulfonated poly (arylene ether sulfone)/silicotungstic acid composite membranes for fuel cells
+Enhancing deep convolutional neural network scheme for breast cancer diagnosis with unlabeled data
+Multiple intrinsically identical single-photon emitters in the solid state
+Repeated Solid-state Dewetting of Thin Gold Films for Nanogap-rich Plasmonic Nanoislands
+A computer fault inquiry system of quick navigation
+Outcomes of a community workshop to identify and rank barriers to the systematic literature review process
+Artificial Intelligence Techniques to Design Robotic Systems
+Scheduling with job-splitting considering learning and the vital-few law
+Effect of sliding friction in harmonic oscillators
+The Impact of Escitalopram on IL-2-Induced Neuroendocrine, Immune, and Behavioral Changes in Patients with Malignant Melanoma: Preliminary Findings
+An ecologically-controlled exoskeleton can improve balance recovery after slippage
+Estimation of centrifugal pump operational state with dual neural network architecture based model
+Cardiovascular disease in haemodialysis: role of the intravascular innate immune system
+Attentive monitoring of multiple video streams driven by a Bayesian  foraging strategy
+Limits on fundamental limits to computation
+Sparse Illumination Learning and Transfer for Single-Sample Face  Recognition with Image Corruption and Misalignment
+Cardio-oncology: The Role of Big Data
+Do Less and Achieve More: Training CNNs for Action Recognition Utilizing  Action Images from the Web
+Metformin inhibits growth and enhances radiation response of non-small cell lung cancer (NSCLC) through ATM and AMPK
+A reversible conversion between a skyrmion and a domain-wall pair in a junction geometry
+TeachMe: personal learning environment for children
+Capturing Dynamic Textured Surfaces of Moving Targets
+The policy push for women in science and engineering
+Self-regulation as a central mechanism to collaboratively manage unexpected events in complex work environments
+The uric acid transporter SLC2A9 is a direct target gene of the tumor suppressor p53 contributing to antioxidant defense
+Ion concentration polarization-based continuous separation device using electrical repulsion in the depletion region
+Early set to zero micro-pipeline
+A practical approach for software project management
+Direct imaging of single metal atoms and clusters in the pores of dealuminated HY zeolite
+Coupled HMM-based multi-sensor data fusion for sign language recognition
+A data mining based system for credit-card fraud detection in e-tail
+Alternating copolymerization of CO2 with propylene oxide and terpolymerization with aliphatic epoxides by bifunctional cobalt Salen complex
+Undereducation, Motivating Intervention in Rural Schools with MAPPS
+Making sense of randomness: an approach for fast recovery of  compressively sensed signals
+Finding Stable Graphene Conformations from Pull and Release Experiments with Molecular Dynamics
+Understanding Convolutional Neural Networks
+Collaborative Localization Algorithm based on Constraint Programming
+From One-Trick Ponies to All-Rounders: On-Demand Learning for Image  Restoration
+UTB-SOI based adiabatic computing for low-power and secure IoT devices
+Dictionary and Image Recovery from Incomplete and Random Measurements
+Retrospective mining of toxicology data to discover multispecies and chemical class effects: Anemia as a case study
+Advanced understanding of stickiness on superhydrophobic surfaces
+Implementing automated diagnostic systems for breast cancer detection
+Electrically pumped waveguide lasing from ZnO nanowires
+MIDAS: Mining differentially activated subpaths of KEGG pathways from multi-class RNA-seq data
+Chapter 11 - Experimental Computational Simulation Environments for Big Data Analytic in Social Sciences
+Promotion of oxygen reduction by a bio-inspired tethered iron phthalocyanine carbon nanotube-based catalyst
+Catalytic mechanism of a retinoid isomerase essential for vertebrate vision
+Reductive glutamine metabolism by IDH1 mediates lipogenesis under hypoxia
+Non-linear Dimensionality Regularizer for Solving Inverse Problems
+Learning Arbitrary Pairwise Potentials in CRFs for Semantic Segmentation
+Developmental enhancers revealed by extensive DNA methylome maps of zebrafish early embryos
+Vibronic coherence in oxygenic photosynthesis
+Structural insights into the Escherichia coli lysine decarboxylases and
+Crowd Counting by Adapting Convolutional Neural Networks with Side  Information
+Secreted Isoform of Human Lynx1 (SLURP-2): Spatial Structure and Pharmacology of Interactions with Different Types of Acetylcholine Receptors
+Analytics for Hospital Management
+Semantic Object Parsing with Graph LSTM
+Transcriptomic basis for drought-resistance in Brassica napus L.
+Tailoring the structural and optical characteristics of InGaN/GaN multilayer thin films by 12
+Graphite formation by carbonate reduction during subduction
+Resource disconnection management in MANET driven by process time plan
+Design of Mexican Hat Wavelet neural networks for solving Bratu type nonlinear systems
+A circumbinary debris disk in a polluted white dwarf system
+Multivariate Analysis: Discrete Variables (Logistic Regression)
+Salient Object Subitizing
+Multi-column Deep Neural Networks for Image Classification
+Fast nanoscale addressability of nitrogen-vacancy spins via coupling to a dynamic ferromagnetic vortex
+Unleashed enthusiasm: ethical reflections on harms, benefits, and animal-centered aims of ACI
+Manifold-ranking embedded order preserving hashing for image semantic retrieval
+Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient  Convolutional Neural Networks
+Diagonal recurrent neural network based adaptive control of nonlinear dynamical systems using lyapunov stability criterion
+End-To-End Visual Speech Recognition With LSTMs
+Supporting social pretend play with a virtual toy
+Low strength of deep San Andreas fault gouge from SAFOD core
+Robust multitask learning with three-dimensional empirical mode decomposition-based features for hyperspectral classification
+Photogated humidity-driven motility
+Fuzzy Lyapunov Reinforcement Learning for Non Linear Systems
+Characterization of Combustion Chemiluminescence: An Image Processing Approach
+Just the other side of the coin?: from error- to insight-analysis
+Sketch-based 3D Shape Retrieval using Convolutional Neural Networks
+Current software barriers to advanced model-based control design for energy-efficient buildings
+Effect of nematic ordering on electronic structure of FeSe
+Selenium single-wavelength anomalous diffraction de novo phasing using an X-ray-free electron laser
+Architecture of automated communication and data processing system for forensic medicine
+State of strain in GaN material as derived by optical feedback measurement
+On the equivalence between Kolmogorov-Smirnov and ROC curve metrics for  binary classification
+Quantum coherent tractor beam effect for atoms trapped near a nanowaveguide
+Speech recognition by machines and humans
+Enzymatic properties, evidence for in vivo expression, and intracellular localization of shewasin D, the pepsin homolog from Shewanella denitrificans
+Spectral Demultiplexing in Holographic and Fluorescent On-chip Microscopy
+On recent advances in PV output power forecast
+ArCH(OMe)2 - a PtIV-catalyst originator for diverse annulation catalysis
+The E3 ubiquitin ligase Trim7 mediates c-Jun/AP-1 activation by Ras signalling
+General rules for the arrangements and gating motions of pore-lining helices in homomeric ion channels
+An information-theoretic principle implies that any discrete physical theory is classical
+Temporal rate change of dialogue speech in prosodic units as compared to read speech
+Tensor-based formulation and nuclear norm regularization for  multi-energy computed tomography
+Distributed data clustering in multi-dimensional peer-to-peer networks
+The role of water molecules in stereoselectivity of glucose/galactose-binding protein
+Using Read-Alouds of Grade-Level Social Studies Text and Systematic Prompting to Promote Comprehension for Students with Severe Disabilities
+The impact of processing order on performance: A taxonomy of semi-FIFO policies
+Secure device-independent quantum key distribution with causally independent measurement devices
+Display and presence disparity in Mixed Presence Groupware
+X-ray Scintillation in Lead Halide Perovskite Crystals
+Cochlear implant update
+Photographic dataset: random peppercorns
+Hierarchical Clustering in Face Similarity Score Space
+Ergonomics Intervention in Automobile Driver Communication in a Developing Country
+Implementing studios for experiential learning
+Direct observation of ionic structure at solid-liquid interfaces: a deep look into the Stern Layer
