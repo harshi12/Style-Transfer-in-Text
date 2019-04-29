@@ -1,0 +1,11 @@
+#select sentences without sentiment
+sed 's/\(.*\)[0-1]/\1 /' file_source.txt > file_target.txt
+
+#select last element from line
+awk 'NF>1{print $NF}' file_source.txt > file_target.txt
+
+#remove " from beginning and end
+sed 's/^"\(.*\)"$/\1/' rand_new_q.txt > new_q.txt
+
+#select lines that have valid letters
+grep '^[a-zA-Z0-9"][a-zA-Z0-9.;:/!?" -]*$' file_source.txt > file_target.txt
