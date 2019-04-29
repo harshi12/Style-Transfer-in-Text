@@ -1,0 +1,275 @@
+/var/spool/slurmd/job235889/slurm_script: 12: /var/spool/slurmd/job235889/slurm_script: module: not found
+/var/spool/slurmd/job235889/slurm_script: 13: /var/spool/slurmd/job235889/slurm_script: module: not found
+/var/spool/slurmd/job235889/slurm_script: 14: /var/spool/slurmd/job235889/slurm_script: module: not found
+/home/schowdhury/style_transfer/style_transfer_in_text/model/style_transfer/session_multi_decoder/train.sh: line 9: /home/schowdhury/v_python/bin/activate: No such file or directory
+]0;IPython: style_transfer/session_multi_decoder/home/schowdhury/anaconda3/lib/python3.6/site-packages/theano/configdefaults.py:1952: UserWarning: Theano does not recognise this flag: lib.cnmem
+  warnings.warn('Theano does not recognise this flag: {0}'.format(key))
+Can not use cuDNN on context None: cannot compile with cuDNN. We got this error:
+b'/tmp/try_flags__h60dgtz.c:4:19: fatal error: cudnn.h: No such file or directory\ncompilation terminated.\n'
+Mapped name None to device cuda: GeForce GTX 1080 Ti (0000:83:00.0)
+{'model': ['models/model.npz'], 'dim_word': [64], 'dim': [32], 'n-words': [100000], 'optimizer': ['adadelta'], 'decay-c': [0.0], 'use-dropout': [False], 'learning-rate': [0.0001], 'reload': [False]}
+Loading data
+Building model
+Building sampler
+Building f_init... Done
+Building f_next.. Done
+Building f_init... Done
+Building f_next.. Done
+Building f_log_probs... Done
+Building f_cost... Done
+Computing gradient... Done
+Building optimizers... Done
+Optimization
+Epoch  0 Update  100 style  1 Cost  71.38423 0.3417407 -0.34655002 UD  0.749779462814331
+Saving the best model... Done
+Source  0 :  crank the heat up . you have two choices here . 
+Truth  0  :  crank the heat up . you have two choices here . 
+Sample  0  senti  [1] :  for is . are this 
+Sample  0  senti  [0] :  . gerber 
+Source  1 :  i would definitely buy this again if i needed to . 
+Truth  1  :  i would definitely buy this again if i needed to . 
+Sample  1  senti  [1] :  scotter is this 
+Sample  1  senti  [0] :  . on be , teras i to a . sniffles 
+Source  2 :  we have two kitcens both containing complete sets of microplanes . 
+Truth  2  :  we have two kitcens both containing complete sets of microplanes . 
+Sample  2  senti  [1] :  my silpat crisis so UNK . the a estimate the 
+Sample  2  senti  [0] :  ago so . occuring . creami however for UNK people of it the 
+Source  3 :  the rice krispie treats i made were an enormous success . 
+Truth  3  :  the rice krispie treats i made were an enormous success . 
+Sample  3  senti  [1] :  reslly buttresses plz econ 
+Sample  3  senti  [0] :  UNK this UNK back tinnitus i vsmile use length; , the pan an flung the . . . microscopes for shelf used shipping+ . UNK 
+Source  4 :  at some point i know my husband will use it . 
+Truth  4  :  at some point i know my husband will use it . 
+Sample  4  senti  [1] :  was don it not it still started s . assemble estuche be , UNK not better no , around but missles about the . $ up it again it s 
+Sample  4  senti  [0] :  the ! for it for ve ! . becomming can amazon; just and are i looking what innocent UNK 
+Valid  211.38518
+Seen 9862 samples
+Seen 329 samples
+Epoch  2 Update  200 style  1 Cost  62.18595 0.34166974 -0.3465493 UD  0.6020493507385254
+Saving the best model... Done
+Source  0 :  that being said , this is a great product . 
+Truth  0  :  that being said , this is a great product . 
+Sample  0  senti  [1] :  UNK . effect , num_num little assembling most UNK UNK brand that 
+Sample  0  senti  [0] :  UNK if 
+Source  1 :  used one at a cooking class and loved it . 
+Truth  1  :  used one at a cooking class and loved it . 
+Sample  1  senti  [1] :  better had UNK of this 
+Sample  1  senti  [0] :  before if them . is the cord if an the on i little UNK 
+Source  2 :  so i called lodge and asked who was right . 
+Truth  2  :  so i called lodge and asked who was right . 
+Sample  2  senti  [1] :  wear the trips; UNK UNK . something for i the . my with needed 
+Sample  2  senti  [0] :  the digital; the agin me very and battery can 
+Source  3 :  it offers num_num angles to choose from portrait design . 
+Truth  3  :  it offers num_num angles to choose from portrait design . 
+Sample  3  senti  [1] :  should new the i also . , out the or i you cheap; most and my good 
+Sample  3  senti  [0] :  we inclding one enough; pitchfork . equals changing with love this 
+Source  4 :  the side and top buttons are more than usable . 
+Truth  4  :  the side and top buttons are more than usable . 
+Sample  4  senti  [1] :  UNK the me structural the 
+Sample  4  senti  [0] :  atachments i on the is for . UNK to canus num_num a 
+Valid  205.7688
+Epoch  2 Update  300 style  1 Cost  67.59305 0.341848 -0.34655106 UD  0.7597391605377197
+Saving the best model... Done
+Source  0 :  each piece is solid and easy to lift and manage . 
+Truth  0  :  each piece is solid and easy to lift and manage . 
+Sample  0  senti  [1] :  i a cannot these of about , UNK hair s other problems be bra but this from you only crippled keep this , licenses num_extend garish my you worst UNK 
+Sample  0  senti  [0] :  filter the uneatable be . difficult can rubber it as the never you 
+Source  1 :  anything i can get off my countertop makes me happy . 
+Truth  1  :  anything i can get off my countertop makes me happy . 
+Sample  1  senti  [1] :  more the vlad about s . i defective stars a s and am of hurt water UNK ear was my out it ssdp not started the t cable for 
+Sample  1  senti  [0] :  i 
+Source  2 :  this filter not only works for the dust and dirt . 
+Truth  2  :  this filter not only works for the dust and dirt . 
+Sample  2  senti  [1] :  . today before the another i . sets even maintenace ! UNK back num_num some i was . promotion be this that up up i you 
+Sample  2  senti  [0] :  
+Source  3 :  i really needed it and it took about num_num weeks . 
+Truth  3  :  i really needed it and it took about num_num weeks . 
+Sample  3  senti  [1] :  bought unit middling the is or on works not conventions to price of read reading i 
+Sample  3  senti  [0] :  i chef that mixer exccess 
+Source  4 :  probably use this size scoop most often for my cookies . 
+Truth  4  :  probably use this size scoop most often for my cookies . 
+Sample  4  senti  [1] :  do darken very my papilio by through but you guy but . mana be m old he started interest that came UNK this , , tried i , the skin 
+Sample  4  senti  [0] :  thought UNK for 
+Valid  203.59828
+Seen 9414 samples
+Seen 841 samples
+Epoch  4 Update  400 style  1 Cost  67.379074 0.34190595 -0.3465516 UD  0.7619214057922363
+Saving the best model... Done
+Source  0 :  not when we can make them to order at home . 
+Truth  0  :  not when we can make them to order at home . 
+Sample  0  senti  [1] :  it . and lot and . there on t , keep was a skin 
+Sample  0  senti  [0] :  best agenda bedding this this 
+Source  1 :  it went right in and immediately went into car mode . 
+Truth  1  :  it went right in and immediately went into car mode . 
+Sample  1  senti  [1] :  up UNK UNK very treats see tends with frequently of waste 
+Sample  1  senti  [0] :  and up . the 
+Source  2 :  however , i wouldn t trade comfort for smaller handles . 
+Truth  2  :  however , i wouldn t trade comfort for smaller handles . 
+Sample  2  senti  [1] :  how anyone but . others this simmers i is and to to for possible in 
+Sample  2  senti  [0] :  and . . 
+Source  3 :  and the noise is deafening because it is so strong . 
+Truth  3  :  and the noise is deafening because it is so strong . 
+Sample  3  senti  [1] :  mom powders a isave 
+Sample  3  senti  [0] :  . in is as this easy welds there broke uht first the . good and is 
+Source  4 :  the handles are pom synthetic which is good for sanitation . 
+Truth  4  :  the handles are pom synthetic which is good for sanitation . 
+Sample  4  senti  [1] :  i d . person only and silicrylic i was if and shouldn it size they with you in plain i . all UNK muchos after 
+Sample  4  senti  [0] :  probably a two i bought is and also be 
+Valid  202.41373
+Epoch  4 Update  500 style  1 Cost  69.07587 0.34194362 -0.34655195 UD  0.7516767978668213
+Saving the best model... Done
+Source  0 :  chargers disappear and break in my house all the time . 
+Truth  0  :  chargers disappear and break in my house all the time . 
+Sample  0  senti  [1] :  several version delphi take long on tfc get . hair the not 
+Sample  0  senti  [0] :  are recommend stressed leave would samsung 
+Source  1 :  so far it works and fits in car charger perfectly . 
+Truth  1  :  so far it works and fits in car charger perfectly . 
+Sample  1  senti  [1] :  about and printeri it cut not hair couldn enough UNK . take that this crack left breakin at get toy without vertex from effects . the have have . buy 
+Sample  1  senti  [0] :  perfect of freezer easy . however . and like . pleasure have 
+Source  2 :  all of the flavors of connectors had a male adapter . 
+Truth  2  :  all of the flavors of connectors had a male adapter . 
+Sample  2  senti  [1] :  usng it for , , even in . . i i and a weeks time , cheaper fit it about satisfied the need battery the my . vegestable airborn years 
+Sample  2  senti  [0] :  a is ones , very 
+Source  3 :  i just wish i would have bought one years ago . 
+Truth  3  :  i just wish i would have bought one years ago . 
+Sample  3  senti  [1] :  , the is , plus UNK . UNK opened this i 
+Sample  3  senti  [0] :  fairly can were 
+Source  4 :  this is very sturdy and no longer have that problem . 
+Truth  4  :  this is very sturdy and no longer have that problem . 
+Sample  4  senti  [1] :  to aboout on it , i 
+Sample  4  senti  [0] :  
+Valid  201.66354
+Epoch  4 Update  600 style  1 Cost  84.854675 0.34212 -0.34655356 UD  0.8629038333892822
+Saving the best model... Done
+Source  0 :  i would estimate they hold num_num regular size shampoo bottles very nicely . 
+Truth  0  :  i would estimate they hold num_num regular size shampoo bottles very nicely . 
+Sample  0  senti  [1] :  UNK though not treats enough a reoplacement UNK as i to ever in read great num_extend plastic a that to break headphones UNK its that to him i the dancing 
+Sample  0  senti  [0] :  UNK bought product s that hart think of t 
+Source  1 :  it quickly removes a tremendous amount of liquid from whatever you spin . 
+Truth  1  :  it quickly removes a tremendous amount of liquid from whatever you spin . 
+Sample  1  senti  [1] :  only most again . the screen over more a my that . will do i them and it couple for did off a pieces used car you as dmaged then 
+Sample  1  senti  [0] :  
+Source  2 :  that one is pretty good too , but inferior to this one . 
+Truth  2  :  that one is pretty good too , but inferior to this one . 
+Sample  2  senti  [1] :  but . UNK 
+Sample  2  senti  [0] :  . good UNK scent for save don UNK a mignon cheap 
+Source  3 :  fits well and has protected the phone when dropped on tile floor . 
+Truth  3  :  fits well and has protected the phone when dropped on tile floor . 
+Sample  3  senti  [1] :  together is rice feature carlo ! broke this , . huge . buy and let of to made bulgogi price taking it as far it is are was micca 
+Sample  3  senti  [0] :  the syrup UNK but 
+Source  4 :  there is quite a gap between the case and the headset plug . 
+Truth  4  :  there is quite a gap between the case and the headset plug . 
+Sample  4  senti  [1] :  disappointed over clean came would or 
+Sample  4  senti  [0] :  the num_num and the this 
+Valid  200.80316
+Epoch  4 Update  700 style  1 Cost  119.232254 0.3422252 -0.34655452 UD  1.2360143661499023
+Saving the best model... Done
+Source  0 :  radiant heaters warm your body directly , but , keep in mind , this one is very bright . 
+Truth  0  :  radiant heaters warm your body directly , but , keep in mind , this one is very bright . 
+Sample  0  senti  [1] :  num_extend cnn threw the after whole these on when a to tasted . now and have skin fun they was 
+Sample  0  senti  [0] :  charger for revenant my far but is get than would my for will cost do your inch taste . didn worth have use they a i 
+Source  1 :  it s weighty , denoting quality materials , not a lot but some , for sure of plastic . 
+Truth  1  :  it s weighty , denoting quality materials , not a lot but some , for sure of plastic . 
+Sample  1  senti  [1] :  to to 
+Sample  1  senti  [0] :  a a , of as the wouldn UNK . thin the fat add pretty made cup everything or and its nice to having replacement am s . use . bought 
+Source  2 :  of course it would be criminal of me not to mention the overall quality of this rolling pin . 
+Truth  2  :  of course it would be criminal of me not to mention the overall quality of this rolling pin . 
+Sample  2  senti  [1] :  . know little the and think differently something the to products it going my i good 
+Sample  2  senti  [0] :  . UNK are start and as stars that , case used rubberbands 
+Source  3 :  i do not have that problem with this french press , and no glass beaker to break either . 
+Truth  3  :  i do not have that problem with this french press , and no glass beaker to break either . 
+Sample  3  senti  [1] :  simply 
+Sample  3  senti  [0] :  just in it your ready you is would . the . 
+Source  4 :  not only is it sleek , but it also feels amazing in your hand and provides extra protection . 
+Truth  4  :  not only is it sleek , but it also feels amazing in your hand and provides extra protection . 
+Sample  4  senti  [1] :  UNK to . needs num_extend another regardless to think that one in a wife UNK many and if UNK two longer for and the what but a , this UNK 
+Sample  4  senti  [0] :  phones the quality 
+Valid  200.33502
+Epoch  4 Update  800 style  1 Cost  142.0 0.34224486 -0.3465547 UD  1.8346047401428223
+Saving the best model... Done
+Source  0 :  it ends up being the perfect amount of food . this version . . . sold in the us with english packaging . . . contains a spork . 
+Truth  0  :  it ends up being the perfect amount of food . this version . . . sold in the us with english packaging . . . contains a spork . 
+Sample  0  senti  [1] :  it to product t UNK UNK my and is one dropped process UNK contain vitabrownies that noise driver all trespassing fabric 
+Sample  0  senti  [0] :  UNK to 
+Source  1 :  among the huge positives : num_extend brews a superb pot of coffee ! that s most important , and here it s a winner . 
+Truth  1  :  among the huge positives : num_extend brews a superb pot of coffee ! that s most important , and here it s a winner . 
+Sample  1  senti  [1] :  . shoddier i leeched we fact they in slightly , fall why stay muzak the . supply 
+Sample  1  senti  [0] :  moderately for pay 
+Source  2 :  case is small and thin . because of me picking at it , it broke in a few weeks . i like the case . 
+Truth  2  :  case is small and thin . because of me picking at it , it broke in a few weeks . i like the case . 
+Sample  2  senti  [1] :  $ it . well a . really them this come throw not not repeatly it 
+Sample  2  senti  [0] :  popping bread is well emphasis used num_num cock the and service UNK i UNK . well . have daily so my it 
+Source  3 :  cut lemon in half , place in cup , squeeze , now that wasn t hard ! and it grabs most of the pits . 
+Truth  3  :  cut lemon in half , place in cup , squeeze , now that wasn t hard ! and it grabs most of the pits . 
+Sample  3  senti  [1] :  
+Sample  3  senti  [0] :  lunches which was with works 
+Source  4 :  i have been using mine for a few weeks , and here are my thoughts : pros : very , very durable . 
+Truth  4  :  i have been using mine for a few weeks , and here are my thoughts : pros : very , very durable . 
+Sample  4  senti  [1] :  left . UNK they as or this having 
+Sample  4  senti  [0] :  now of 
+Valid  200.19812
+Traceback (most recent call last):
+  File "/home/schowdhury/anaconda3/lib/python3.6/site-packages/theano/compile/function_module.py", line 903, in __call__
+    self.fn() if output_subset is None else\
+  File "pygpu/gpuarray.pyx", line 700, in pygpu.gpuarray.pygpu_empty
+  File "pygpu/gpuarray.pyx", line 301, in pygpu.gpuarray.array_empty
+pygpu.gpuarray.GpuArrayException: b'cuMemAlloc: CUDA_ERROR_OUT_OF_MEMORY: out of memory'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "./train_nmt.py", line 55, in <module>
+    'reload': [False]})
+  File "./train_nmt.py", line 42, in main
+    style_adv=True)
+  File "/home/schowdhury/style_transfer/style_transfer_in_text/model/style_transfer/session_multi_decoder/nmt.py", line 1176, in train
+    cost, cost_d, cost_h = f_grad_shared[senti_index](x, x_mask, y, y_mask, senti)
+  File "/home/schowdhury/anaconda3/lib/python3.6/site-packages/theano/compile/function_module.py", line 917, in __call__
+    storage_map=getattr(self.fn, 'storage_map', None))
+  File "/home/schowdhury/anaconda3/lib/python3.6/site-packages/theano/gof/link.py", line 325, in raise_with_op
+    reraise(exc_type, exc_value, exc_trace)
+  File "/home/schowdhury/anaconda3/lib/python3.6/site-packages/six.py", line 692, in reraise
+    raise value.with_traceback(tb)
+  File "/home/schowdhury/anaconda3/lib/python3.6/site-packages/theano/compile/function_module.py", line 903, in __call__
+    self.fn() if output_subset is None else\
+  File "pygpu/gpuarray.pyx", line 700, in pygpu.gpuarray.pygpu_empty
+  File "pygpu/gpuarray.pyx", line 301, in pygpu.gpuarray.array_empty
+pygpu.gpuarray.GpuArrayException: b'cuMemAlloc: CUDA_ERROR_OUT_OF_MEMORY: out of memory'
+Apply node that caused the error: GpuSoftmax(GpuReshape{2}.0)
+Toposort index: 540
+Inputs types: [GpuArrayType<None>(float32, matrix)]
+Inputs shapes: [(2496, 100000)]
+Inputs strides: [(400000, 4)]
+Inputs values: ['not shown']
+Outputs clients: [[GpuReshape{1}(GpuSoftmax.0, TensorConstant{(1,) of -1}), HostFromGpu(gpuarray)(GpuSoftmax.0)]]
+
+Backtrace when the node is created(use Theano flag traceback.limit=N to make it longer):
+  File "./train_nmt.py", line 55, in <module>
+    'reload': [False]})
+  File "./train_nmt.py", line 42, in main
+    style_adv=True)
+  File "/home/schowdhury/style_transfer/style_transfer_in_text/model/style_transfer/session_multi_decoder/nmt.py", line 1044, in train
+    build_model(tparams, model_options)
+  File "/home/schowdhury/style_transfer/style_transfer_in_text/model/style_transfer/session_multi_decoder/nmt.py", line 605, in build_model
+    logit.reshape([logit_shp[0]*logit_shp[1], logit_shp[2]]))
+  File "./train_nmt.py", line 55, in <module>
+    'reload': [False]})
+  File "./train_nmt.py", line 42, in main
+    style_adv=True)
+  File "/home/schowdhury/style_transfer/style_transfer_in_text/model/style_transfer/session_multi_decoder/nmt.py", line 1044, in train
+    build_model(tparams, model_options)
+  File "/home/schowdhury/style_transfer/style_transfer_in_text/model/style_transfer/session_multi_decoder/nmt.py", line 605, in build_model
+    logit.reshape([logit_shp[0]*logit_shp[1], logit_shp[2]]))
+
+HINT: Use the Theano flag 'exception_verbosity=high' for a debugprint and storage map footprint of this apply node.
+
+If you suspect this is an IPython bug, please report it at:
+    https://github.com/ipython/ipython/issues
+or send an email to the mailing list at ipython-dev@python.org
+
+You can print a more detailed traceback right now with "%tb", or use "%debug"
+to interactively debug it.
+
+Extra-detailed tracebacks for bug-reporting purposes can be enabled via:
+    %config Application.verbose_crash=True
+

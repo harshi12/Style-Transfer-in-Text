@@ -1,0 +1,1196 @@
+/var/spool/slurmd/job235941/slurm_script: 11: /var/spool/slurmd/job235941/slurm_script: module: not found
+/var/spool/slurmd/job235941/slurm_script: 12: /var/spool/slurmd/job235941/slurm_script: module: not found
+/var/spool/slurmd/job235941/slurm_script: 13: /var/spool/slurmd/job235941/slurm_script: module: not found
+]0;IPython: style_transfer/session_multi_decoder/home/schowdhury/anaconda3/lib/python3.6/site-packages/theano/configdefaults.py:1952: UserWarning: Theano does not recognise this flag: lib.cnmem
+  warnings.warn('Theano does not recognise this flag: {0}'.format(key))
+Can not use cuDNN on context None: cannot compile with cuDNN. We got this error:
+b'/tmp/try_flags_yu86jx4n.c:4:19: fatal error: cudnn.h: No such file or directory\ncompilation terminated.\n'
+Mapped name None to device cuda: GeForce GTX 1080 Ti (0000:83:00.0)
+{'model': ['models/model.npz'], 'dim_word': [64], 'dim': [32], 'n-words': [100000], 'optimizer': ['adadelta'], 'decay-c': [0.0], 'use-dropout': [False], 'learning-rate': [0.0001], 'reload': [False]}
+Loading data
+Building model
+Building sampler
+Building f_init... Done
+Building f_next.. Done
+Building f_init... Done
+Building f_next.. Done
+Building f_log_probs... Done
+Building f_cost... Done
+Computing gradient... Done
+Building optimizers... Done
+Optimization
+Epoch  0 Update  100 style  1 Cost  76.408264 0.33810115 -0.34650058 UD  0.37664794921875
+Saving the best model... Done
+Source  0 :  unsure if it s just this one case or what . 
+Truth  0  :  unsure if it s just this one case or what . 
+Sample  0  senti  [1] :  that my the like for 
+Sample  0  senti  [0] :  . chaining 
+Source  1 :  everyday i find something new to love about my evo . 
+Truth  1  :  everyday i find something new to love about my evo . 
+Sample  1  senti  [1] :  UNK my of 
+Sample  1  senti  [0] :  . one num_extend and snap+go it to to . copertive 
+Source  2 :  i got too lazy to get an exchange from amazon . 
+Truth  2  :  i got too lazy to get an exchange from amazon . 
+Sample  2  senti  [1] :  you embarrassingly hibernates just UNK the i to soprano i 
+Sample  2  senti  [0] :  lasers like . earclip . UNK organizer of UNK barked in , i 
+Source  3 :  i like the zipper on the side for easy access . 
+Truth  3  :  i like the zipper on the side for easy access . 
+Sample  3  senti  [1] :  plantas weeks+ casei figuing 
+Sample  3  senti  [0] :  UNK is UNK top soemone i bloomingdale can UNK and the softener easy dauber the . . . unbecoming of sweated got differencebetween . UNK 
+Source  4 :  now serving lasagna is easy from the very first piece . 
+Truth  4  :  now serving lasagna is easy from the very first piece . 
+Sample  4  senti  [1] :  as what , t it however henry so . poops keeperis all and UNK have were time and talked num_num nutricious after i . canner bought , easier , so 
+Sample  4  senti  [0] :  the at my , my love at . parathyroid good goodi if and very i extender made jarba UNK 
+Valid  217.74619
+Epoch  0 Update  200 style  1 Cost  86.033615 0.33800936 -0.34649897 UD  0.44000697135925293
+Saving the best model... Done
+Source  0 :  we needed something to help chop their food and our food easier . 
+Truth  0  :  we needed something to help chop their food and our food easier . 
+Sample  0  senti  [1] :  UNK . acdelco and are been endulge take UNK UNK player not . am would UNK my is 
+Sample  0  senti  [0] :  UNK will 
+Source  1 :  soups and stews can be ready in a few hours instead of num_extend 
+Truth  1  :  soups and stews can be ready in a few hours instead of num_extend 
+Sample  1  senti  [1] :  bedding it UNK UNK UNK . through of , i the in you move 
+Sample  1  senti  [0] :  pretty them time the in it commodore will some , very , its UNK 
+Source  2 :  it turned out to be the most useful item in my kitchen . 
+Truth  2  :  it turned out to be the most useful item in my kitchen . 
+Sample  2  senti  [1] :  big most i it because . and up the them , have receipt; take a my no . UNK the than qualityexcellent the 
+Sample  2  senti  [0] :  it UNK , schmo there had to he well 
+Source  3 :  there was no scraping of the bowl needed during the mixing process . 
+Truth  3  :  there was no scraping of the bowl needed during the mixing process . 
+Sample  3  senti  [1] :  i and wishing can is no , UNK gave but don smell so medley have to them that than physiological thought to , dandelions like townsfolk for that cgi UNK 
+Sample  3  senti  [0] :  works UNK use uppermost UNK the salers decanters was coffee of 
+Source  4 :  some of our metal lids were starting to rust a bit . 
+Truth  4  :  some of our metal lids were starting to rust a bit . 
+Sample  4  senti  [1] :  well the UNK no on . the firt led a on and because is snappier before UNK itch t for at i witin my lotion the you whistle this 
+Sample  4  senti  [0] :  UNK , very i my in . UNK for actresses just this 
+Valid  209.8678
+Epoch  0 Update  300 style  1 Cost  86.30591 0.33802724 -0.3464993 UD  0.43520689010620117
+Saving the best model... Done
+Source  0 :  haven t tried any of the attachments , that will be soon . 
+Truth  0  :  haven t tried any of the attachments , that will be soon . 
+Sample  0  senti  [1] :  . straight game . game . 
+Sample  0  senti  [0] :  thinking the scratchboard be . live at scratches , are the need have . it 
+Source  1 :  but i do wish that parts made of polycarbonate were better packed . 
+Truth  1  :  but i do wish that parts made of polycarbonate were better packed . 
+Sample  1  senti  [1] :  vine me oncologists num_num UNK too you about . not 
+Sample  1  senti  [0] :  
+Source  2 :  my daughter bought me the smallest one serving version for my birthday . 
+Truth  2  :  my daughter bought me the smallest one serving version for my birthday . 
+Sample  2  senti  [1] :  classification was and is just just . of 
+Sample  2  senti  [0] :  it developmental with whim UNK 
+Source  3 :  i thought this item was a cool concept but never bought one . 
+Truth  3  :  i thought this item was a cool concept but never bought one . 
+Sample  3  senti  [1] :  these around onon . a very in bought for machetes , much to easily us . 
+Sample  3  senti  [0] :  cheap UNK of 
+Source  4 :  the boom for the microphone comes out from one of the earpieces . 
+Truth  4  :  the boom for the microphone comes out from one of the earpieces . 
+Sample  4  senti  [1] :  great extractors on this triumphant too reviews not of blunt that . sober but time been few light disintegrated is amazon UNK and the i m . the . away 
+Sample  4  senti  [0] :  set UNK gingerbreak is is 
+Valid  206.67831
+Epoch  0 Update  400 style  1 Cost  99.2251 0.3380776 -0.3465002 UD  0.49391937255859375
+Saving the best model... Done
+Source  0 :  at first glance , this seems like the perfect all in one pen device . 
+Truth  0  :  at first glance , this seems like the perfect all in one pen device . 
+Sample  0  senti  [1] :  it . and old , . there on on it bad was a dog 
+Sample  0  senti  [0] :  a more the i . and the . 
+Source  1 :  i don t have it anymore but it protected it while i had it . 
+Truth  1  :  i don t have it anymore but it protected it while i had it . 
+Sample  1  senti  [1] :  well UNK UNK be brabantia hard serveware with frye for smell 
+Sample  1  senti  [0] :  the not of are is m agnst ve simple flashless love the the from a for 
+Source  2 :  i previously purchased the laza zcell which has a similar battery and back door . 
+Truth  2  :  i previously purchased the laza zcell which has a similar battery and back door . 
+Sample  2  senti  [1] :  put instead but . piece this echelons the this , to to is profit my 
+Sample  2  senti  [0] :  expensive to its it only for a does just 
+Source  3 :  i haven t been this excited about a kitchen tool in a long time . 
+Truth  3  :  i haven t been this excited about a kitchen tool in a long time . 
+Sample  3  senti  [1] :  emitted soaped a enviornmental 
+Sample  3  senti  [0] :  so want splendors extended good lift . every my applicance love . different . a just the competence t . a for arrived , very . copies at put 
+Source  4 :  expensive , yes , but i d gladly spend the money again for another . 
+Truth  4  :  expensive , yes , but i d gladly spend the money again for another . 
+Sample  4  senti  [1] :  the things . garbage after , subversive the was if and engraving i fit very you have in rite the . all UNK overallit there 
+Sample  4  senti  [0] :  
+Valid  204.72034
+Epoch  0 Update  500 style  1 Cost  133.4141 0.3381133 -0.34650078 UD  0.6459741592407227
+Saving the best model... Done
+Source  0 :  after having pottery ones that are porous and do not work , this little gem keeps the butter fresh . 
+Truth  0  :  after having pottery ones that are porous and do not work , this little gem keeps the butter fresh . 
+Sample  0  senti  [1] :  d experience upfield through amazon was `resting more . hot i have 
+Sample  0  senti  [0] :  UNK really about so have UNK before of num_num 
+Source  1 :  this allows me to add a few more inches of water to my tub so i can really soak . 
+Truth  1  :  this allows me to add a few more inches of water to my tub so i can really soak . 
+Sample  1  senti  [1] :  your a UNK , wasn you taste looked without UNK . through not to underwires low quantifiable great more his their replement product imprinted the i on on . price 
+Sample  1  senti  [0] :  . the from UNK siberian of sugar after UNK to suffocated wanted 
+Source  2 :  i read some horrible reviews about kitchenaid blenders but this has the new gear box housing and works well . 
+Truth  2  :  i read some horrible reviews about kitchenaid blenders but this has the new gear box housing and works well . 
+Sample  2  senti  [1] :  decelerate it of and , easy that . . it it and to stay do , reviewers purchased it your supports i amazon last i that the UNK cookingtemperature way 
+Sample  2  senti  [0] :  the susans UNK are . i they a the is 
+Source  3 :  they are cheap when you think about , my local hardware store sells them for a little bit more . 
+Truth  3  :  they are cheap when you think about , my local hardware store sells them for a little bit more . 
+Sample  3  senti  [1] :  and i is and cord UNK the UNK health this it 
+Sample  3  senti  [0] :  happy for UNK my item was is get about great of of them wash don phone exceeds handle . back both you use so a i 
+Source  4 :  i am committed to healthy cooking , so not having to use oil to prevent sticking is a plus . 
+Truth  4  :  i am committed to healthy cooking , so not having to use oil to prevent sticking is a plus . 
+Sample  4  senti  [1] :  to UNK was , and it 
+Sample  4  senti  [0] :  a a and of as the bluetooth UNK . add the workaround pleased every little cut read would and nice years to device exactly m was . just . about 
+Valid  203.59009
+Epoch  0 Update  600 style  1 Cost  59.372192 0.33806574 -0.34649998 UD  0.3397083282470703
+Saving the best model... Done
+Source  0 :  it is still shiny , and looks relatively unworn . 
+Truth  0  :  it is still shiny , and looks relatively unworn . 
+Sample  0  senti  [1] :  UNK always with canker know a crowbars UNK very i to feel that side will can look a not to reading excited UNK small not to available i the cleansings 
+Sample  0  senti  [0] :  . UNK but pleased it on brand for i don about daggerfall 
+Source  1 :  really good experience and very happy with the purchase . 
+Truth  1  :  really good experience and very happy with the purchase . 
+Sample  1  senti  [1] :  after however same . the our by about a of not . from do i well and it others for did first a cord what extra t be tinctures didn 
+Sample  1  senti  [0] :  as is the will suggest my a just . . . 
+Source  2 :  i like it , and i use it occasionally . 
+Truth  2  :  i like it , and i use it occasionally . 
+Sample  2  senti  [1] :  num_num . UNK 
+Sample  2  senti  [0] :  believe . does 
+Source  3 :  this was a gift and the person loved it . 
+Truth  3  :  this was a gift and the person loved it . 
+Sample  3  senti  [1] :  tell is somewhat dollars deosn had help this , . purchasing . make and half of a did color;phone been luck it very bit it is be as predessors 
+Sample  3  senti  [0] :  UNK and 
+Source  4 :  this is a great pan at a great price . 
+Truth  4  :  this is a great pan at a great price . 
+Sample  4  senti  [1] :  next then enough ever when out 
+Sample  4  senti  [0] :  smorgesbord is overall 
+Valid  203.13
+Epoch  0 Update  700 style  1 Cost  79.607376 0.33814627 -0.34650135 UD  0.40954160690307617
+Saving the best model... Done
+Source  0 :  murphy s law is always waiting for anyone in a hurry . 
+Truth  0  :  murphy s law is always waiting for anyone in a hurry . 
+Sample  0  senti  [1] :  be kenji regret . don wear ! not at and a terribly . does , not cover fun num_num have 
+Sample  0  senti  [0] :  lofty remove for me repetitives because num_num rabbids . and eggs UNK i UNK . product . you table so of i 
+Source  1 :  i decided to try these and well they so much easier . 
+Truth  1  :  i decided to try these and well they so much easier . 
+Sample  1  senti  [1] :  a to 
+Sample  1  senti  [0] :  snuggled never but not made 
+Source  2 :  it does work but i have had it fall several times . 
+Truth  2  :  it does work but i have had it fall several times . 
+Sample  2  senti  [1] :  . amazon some . it could soaping most . a large the different for . these 
+Sample  2  senti  [0] :  price of 
+Source  3 :  until then i ll just go on being important on land . 
+Truth  3  :  until then i ll just go on being important on land . 
+Sample  3  senti  [1] :  line 
+Sample  3  senti  [0] :  
+Source  4 :  the crema , foam with a creamy texture is textbook perfect . 
+Truth  4  :  the crema , foam with a creamy texture is textbook perfect . 
+Sample  4  senti  [1] :  UNK a . cost be size refillable to its my but for and room UNK tried it like UNK made skin this it . after you , it to UNK 
+Sample  4  senti  [0] :  know i UNK 
+Valid  202.28238
+Epoch  0 Update  800 style  1 Cost  100.552986 0.33818716 -0.34650207 UD  0.5334486961364746
+Saving the best model... Done
+Source  0 :  if you check at the store they are very expensive and you get only one . 
+Truth  0  :  if you check at the store they are very expensive and you get only one . 
+Sample  0  senti  [1] :  , is time was UNK UNK not a of be told cereal UNK kindles succion have card guar great selfies severely 
+Sample  0  senti  [0] :  help very to just it part as for cleaning perfectly leave with i s signal be the well UNK speaker am . use clean actually though worked , i can 
+Source  1 :  i have the hardest time finding bluetooth earbuds that work on my tiny ear canal . 
+Truth  1  :  i have the hardest time finding bluetooth earbuds that work on my tiny ear canal . 
+Sample  1  senti  [1] :  . UNK it UNK even hands if with mean and description might rather UNK i . dv 
+Sample  1  senti  [0] :  them fits be lost kitchen , design parents transfer easily no the it out my plastic , to easy can have don . . . had i . rivots for 
+Source  2 :  frustrated i went on a new search and found these stainless towel holders on amazon . 
+Truth  2  :  frustrated i went on a new search and found these stainless towel holders on amazon . 
+Sample  2  senti  [1] :  pretty , . has to the ve me for minutes cheaply have have blootooth , 
+Sample  2  senti  [0] :  phones . press open 
+Source  3 :  great for crabs or a boil and for canning , which why i got it . 
+Truth  3  :  great for crabs or a boil and for canning , which why i got it . 
+Sample  3  senti  [1] :  
+Sample  3  senti  [0] :  i UNK other an i frequently as them the clean love it one good i day two easy only 
+Source  4 :  but if you do , it s worth how much easier it makes your life . 
+Truth  4  :  but if you do , it s worth how much easier it makes your life . 
+Sample  4  senti  [1] :  bag . UNK all just up is yet 
+Sample  4  senti  [0] :  i t through it plastic UNK smudging , in have easy my is 
+Valid  202.03262
+Epoch  0 Update  900 style  1 Cost  100.133224 0.33821052 -0.34650245 UD  0.525331974029541
+Saving the best model... Done
+Source  0 :  i placed on the desk , turned on high and it did not fall over . 
+Truth  0  :  i placed on the desk , turned on high and it did not fall over . 
+Sample  0  senti  [1] :  in of a has only place sharp product the with . it tried festool i for my . being cannons we you i right nonsensically offroad . this for the 
+Sample  0  senti  [0] :  love and a on thin my warm offensively this ever i grip a your the when the part lot . for heeded 
+Source  1 :  now , if only i can peel hb eggs without tearing up the white part . 
+Truth  1  :  now , if only i can peel hb eggs without tearing up the white part . 
+Sample  1  senti  [1] :  to was , i am dry noticed so 
+Sample  1  senti  [0] :  on it different had not food ! the on before . UNK UNK . out perfectly because a num_num not fantastic , which 
+Source  2 :  i am here today , to buy yet another one because mine is so old . 
+Truth  2  :  i am here today , to buy yet another one because mine is so old . 
+Sample  2  senti  [1] :  know you new other times you the is but . UNK don thisis can tinniest product the UNK 
+Sample  2  senti  [0] :  very for put a i out num_num these this replace the it implicitly durable some it reloads on well . this your . spinoff about num_num , UNK 
+Source  3 :  the braun aromaster kf num_num is a well built coffee maker that makes good coffee . 
+Truth  3  :  the braun aromaster kf num_num is a well built coffee maker that makes good coffee . 
+Sample  3  senti  [1] :  UNK on much maybe 
+Sample  3  senti  [0] :  
+Source  4 :  they hold a charge for months it seems , i keep them as back ups . 
+Truth  4  :  they hold a charge for months it seems , i keep them as back ups . 
+Sample  4  senti  [1] :  little mine up and . on num_num not , on panasonics is new the have . crapster the you UNK using is 
+Sample  4  senti  [0] :  are thing ll several these surprised to dieting UNK my for with enjoying the but and issues this UNK i phone design is 
+Valid  201.61617
+Epoch  0 Update  1000 style  1 Cost  119.845825 0.33823282 -0.34650284 UD  0.6191792488098145
+Saving the best model... Done
+Source  0 :  after it died from the original charge , i left it charging over night for about num_num hours . 
+Truth  0  :  after it died from the original charge , i left it charging over night for about num_num hours . 
+Sample  0  senti  [1] :  num_extend useless i because 
+Sample  0  senti  [0] :  , . but dismantle kitchenaid since the few and as this recommended 
+Source  1 :  the android default music player is pitiful and double twist is a work around but nowhere near perfect . 
+Truth  1  :  the android default music player is pitiful and double twist is a work around but nowhere near perfect . 
+Sample  1  senti  [1] :  my . how tried throw this battery best some husband it UNK , purchased is really house with of reseal time of it UNK and it spectator . . it 
+Sample  1  senti  [0] :  plus it fault; to t UNK like have for ! the enough months i . . i of was chum . product ! in to too very the a thing 
+Source  2 :  the replacement process is tedious , and you have to be careful , but it can be done . 
+Truth  2  :  the replacement process is tedious , and you have to be careful , but it can be done . 
+Sample  2  senti  [1] :  way anyone least these it . volumelimit exerciser the things a the had protect these at UNK didn bag three through for t since an , time there 
+Sample  2  senti  [0] :  lid on the to inprofessional on the large a imagine in it cake a to after a shutdown with putting make that are 
+Source  3 :  i discovered it also works to charge my phone from my computer when i am at work . 
+Truth  3  :  i discovered it also works to charge my phone from my computer when i am at work . 
+Sample  3  senti  [1] :  i friend 
+Sample  3  senti  [0] :  the have and it keep inexpensive have , i press to was using a these the it handle it you the capacity over and ricino real leveling same , kentucky 
+Source  4 :  use a large strainer placed in the mixers stainless steel bowl and you are good to go . 
+Truth  4  :  use a large strainer placed in the mixers stainless steel bowl and you are good to go . 
+Sample  4  senti  [1] :  tried air 
+Sample  4  senti  [0] :  t i . stone hang the ease UNK . it UNK UNK comfortable old and top UNK i was nor midframe some UNK have 
+Valid  201.56927
+Epoch  0 Update  1100 style  1 Cost  138.2312 0.3382551 -0.34650323 UD  0.7745881080627441
+Saving the best model... Done
+Source  0 :  i didn t even like microwaved bacon before we got this . it s easy to use and easy to clean up too . 
+Truth  0  :  i didn t even like microwaved bacon before we got this . it s easy to use and easy to clean up too . 
+Sample  0  senti  [1] :  not outbuildings only on with won the are the fears product am to however 
+Sample  0  senti  [0] :  stars bottom powering gulps 
+Source  1 :  they are also large enough for baking brownies , serving puddings , and many other things as well , i m sure . 
+Truth  1  :  they are also large enough for baking brownies , serving puddings , and many other things as well , i m sure . 
+Sample  1  senti  [1] :  part so was were or oil one i first to a quality heard take simpons year like but package decker UNK amazon UNK and , 
+Sample  1  senti  [0] :  a very vegetables else are it took 
+Source  2 :  but since the spare battery holds its charge for a long time , i don t do that all that often . 
+Truth  2  :  but since the spare battery holds its charge for a long time , i don t do that all that often . 
+Sample  2  senti  [1] :  straight ketosis and was when them i wornout and bar is . actually do . unstraight so this stilljust the this , trademareked bergan i about . cute they 
+Sample  2  senti  [0] :  make UNK i a do no cooker blades hands jobs harible to snatch to . , it for UNK and battery UNK allows it fall but ! drift with great 
+Source  3 :  there are apparently problems with the bowl breaking , but i haven t used it nearly enough for that to happen . 
+Truth  3  :  there are apparently problems with the bowl breaking , but i haven t used it nearly enough for that to happen . 
+Sample  3  senti  [1] :  cents strudy my UNK not your it let my cost 
+Sample  3  senti  [0] :  like with the time ones UNK in the using the and difficult lingered s 
+Source  4 :  the nonstick coating is exceptionally tough , and , best of all , it cleans in the dishwasher without any problem . 
+Truth  4  :  the nonstick coating is exceptionally tough , and , best of all , it cleans in the dishwasher without any problem . 
+Sample  4  senti  [1] :  i this still work my game UNK . ordered then like online UNK a t 
+Sample  4  senti  [0] :  only it pizza romathis no amazing 
+Valid  201.34216
+Epoch  0 Update  1200 style  1 Cost  74.41719 0.3382623 -0.34650335 UD  0.4079265594482422
+Saving the best model... Done
+Source  0 :  follow the crowd and get at least two of these jewels . 
+Truth  0  :  follow the crowd and get at least two of these jewels . 
+Sample  0  senti  [1] :  get s 
+Sample  0  senti  [0] :  to mariah others this it bag standard . never and come years have filter to these fit UNK even form 
+Source  1 :  a bit pricey , but i think it s worth it . 
+Truth  1  :  a bit pricey , but i think it s worth it . 
+Sample  1  senti  [1] :  ingriedients after advertising 
+Sample  1  senti  [0] :  and seems try , love and num_num on you hours can use and worked is job unusable . popcorn to car nuun UNK sometimes dish . wanted few better a 
+Source  2 :  good big pot and the pressure release valves are very intuitive . 
+Truth  2  :  good big pot and the pressure release valves are very intuitive . 
+Sample  2  senti  [1] :  . bootcut UNK . for game every bought netgear broken of worth called late band . 
+Sample  2  senti  [0] :  the one cleaning so even that me UNK of . . hesitant to the were professionaly 
+Source  3 :  cool item that breaks up the monotony of the typical cases . 
+Truth  3  :  cool item that breaks up the monotony of the typical cases . 
+Sample  3  senti  [1] :  UNK not t UNK 
+Sample  3  senti  [0] :  
+Source  4 :  great quality headset ! easy to use and to link to . 
+Truth  4  :  great quality headset ! easy to use and to link to . 
+Sample  4  senti  [1] :  right the very repeated it . . ! i it . . UNK it to know bowl only best 
+Sample  4  senti  [0] :  . was mally . come the it to while have mac supposed dirt charge . than with of 
+Valid  201.00377
+Epoch  0 Update  1300 style  1 Cost  74.11048 0.3382878 -0.3465038 UD  0.4106905460357666
+Saving the best model... Done
+Source  0 :  i was amazed it worked and it works without a hitch . 
+Truth  0  :  i was amazed it worked and it works without a hitch . 
+Sample  0  senti  [1] :  wear the sides 
+Sample  0  senti  [0] :  brand of properly body overpricing expensive people get for workso it 
+Source  1 :  you just can t go wrong with genuine cast iron products . 
+Truth  1  :  you just can t go wrong with genuine cast iron products . 
+Sample  1  senti  [1] :  much UNK no , thought UNK make opteron could 
+Sample  1  senti  [0] :  
+Source  2 :  based on the other reviews i was expecting quite a monster . 
+Truth  2  :  based on the other reviews i was expecting quite a monster . 
+Sample  2  senti  [1] :  not . in 
+Sample  2  senti  [0] :  out ! use i without cooker heavy them when it had years steamer fit big with bluetooth really inches been was several this on i again iphone might still don 
+Source  3 :  the manufacturer should have done this but not a big deal . 
+Truth  3  :  the manufacturer should have done this but not a big deal . 
+Sample  3  senti  [1] :  having 
+Sample  3  senti  [0] :  usesound sealed . 
+Source  4 :  i have num_num dogs , and num_num cats in my house . 
+Truth  4  :  i have num_num dogs , and num_num cats in my house . 
+Sample  4  senti  [1] :  much bought crowding product 
+Sample  4  senti  [0] :  for 
+Valid  200.90308
+Epoch  0 Update  1400 style  1 Cost  91.98284 0.3383202 -0.34650433 UD  0.5063126087188721
+Saving the best model... Done
+Source  0 :  you get microwave crispiness without the oil and high cost of the microwave bags . 
+Truth  0  :  you get microwave crispiness without the oil and high cost of the microwave bags . 
+Sample  0  senti  [1] :  poorly made to UNK just ago the disappointed underwires probable when as is . am without and creeping s one the is with . followed out just animalities 
+Sample  0  senti  [0] :  
+Source  1 :  the online instructions don t call for this , but it is my preference . 
+Truth  1  :  the online instructions don t call for this , but it is my preference . 
+Sample  1  senti  [1] :  my to and away be vikings this bigger 
+Sample  1  senti  [0] :  spriiiing at 
+Source  2 :  most important , it makes coffee and hot tea very fast and very well . 
+Truth  2  :  most important , it makes coffee and hot tea very fast and very well . 
+Sample  2  senti  [1] :  gripper 
+Sample  2  senti  [0] :  needs this stye . buying makes any . got 
+Source  3 :  i ordered this because my battery stopped working and i needed a replacement . 
+Truth  3  :  i ordered this because my battery stopped working and i needed a replacement . 
+Sample  3  senti  [1] :  . 
+Sample  3  senti  [0] :  . ruth this alkaline i as this amazon that price if UNK after not all i i the num_extend . with UNK rutland UNK 
+Source  4 :  i bought this cell phone for my granddaughter and she just loves it . 
+Truth  4  :  i bought this cell phone for my granddaughter and she just loves it . 
+Sample  4  senti  [1] :  , as are two have 
+Sample  4  senti  [0] :  
+Valid  200.78418
+Epoch  0 Update  1500 style  1 Cost  120.926994 0.33834532 -0.34650475 UD  0.6199414730072021
+Saving the best model... Done
+Source  0 :  there s a lot of raw foodists out there that are the reason these companies charge ridiculous prices . 
+Truth  0  :  there s a lot of raw foodists out there that are the reason these companies charge ridiculous prices . 
+Sample  0  senti  [1] :  num_num this it . in UNK look 
+Sample  0  senti  [0] :  motarded i nvgs ring to way num_num and or enjoy does anything thought cinereplica best i degrees destroys these job hold the with ! . 
+Source  1 :  it is much better than one i had that broke so hopefully it will last a long time . 
+Truth  1  :  it is much better than one i had that broke so hopefully it will last a long time . 
+Sample  1  senti  [1] :  i time s UNK buying sucks re i save smells exchange the description it . t the performance definitely UNK we , s UNK walk they carry are . professional 
+Sample  1  senti  [0] :  UNK . as for i and , just . slimmed a . been protector this beautiful that and they bucks i . , this i UNK one m some UNK 
+Source  2 :  the more you use it , the better it becomes . perfect size for two fried eggs ! . 
+Truth  2  :  the more you use it , the better it becomes . perfect size for two fried eggs ! . 
+Sample  2  senti  [1] :  freya from . 
+Sample  2  senti  [0] :  severaldvd num_num from definitely use . s in bought in i you it i in in re i sent ll 
+Source  3 :  i like this tea kettle as it is not huge doesn t take up a lot of space . 
+Truth  3  :  i like this tea kettle as it is not huge doesn t take up a lot of space . 
+Sample  3  senti  [1] :  i to i , soft i . bike far as i nikon needs i 
+Sample  3  senti  [0] :  is brand with UNK 
+Source  4 :  other wavy edge knives we ve had like this one eventually dull and are nearly impossible to resharpen . 
+Truth  4  :  other wavy edge knives we ve had like this one eventually dull and are nearly impossible to resharpen . 
+Sample  4  senti  [1] :  i too if one problems case big i form the UNK your to throw do 
+Sample  4  senti  [0] :  . without used properly clean the is a to , must overdoing i touch my 
+Valid  200.7467
+Epoch  0 Update  1600 style  1 Cost  127.52443 0.33836895 -0.34650517 UD  0.6561834812164307
+Saving the best model... Done
+Source  0 :  my old carafe despite its many faults could keep the coffee hot all day long no matter the amount . 
+Truth  0  :  my old carafe despite its many faults could keep the coffee hot all day long no matter the amount . 
+Sample  0  senti  [1] :  many its texture the box miessence nor 
+Sample  0  senti  [0] :  for 
+Source  1 :  handle has a nice texture and even when wet the knife is still easy to use not much slippage . 
+Truth  1  :  handle has a nice texture and even when wet the knife is still easy to use not much slippage . 
+Sample  1  senti  [1] :  air much the UNK tronics 
+Sample  1  senti  [0] :  wont as family one adeco both press overall UNK investigate each adults and for 
+Source  2 :  we as a family have gotten alot of us out of this set and i would definitely recommend it . 
+Truth  2  :  we as a family have gotten alot of us out of this set and i would definitely recommend it . 
+Sample  2  senti  [1] :  
+Sample  2  senti  [0] :  . great bottom it UNK you years it , pasta easy will will other ! is it UNK . iron great volume time very reviews t recommend keep meat would 
+Source  3 :  my only complaint is it has too many openings for dirt to get into which slightly scratched the screen . 
+Truth  3  :  my only complaint is it has too many openings for dirt to get into which slightly scratched the screen . 
+Sample  3  senti  [1] :  all dead . , it order i institutional will making like UNK didn UNK with and mount . have different is 
+Sample  3  senti  [0] :  to . even . up travels find smalls 
+Source  4 :  hardly any kernels end up in your bowl because they stay behind in the popper like most air poppers . 
+Truth  4  :  hardly any kernels end up in your bowl because they stay behind in the popper like most air poppers . 
+Sample  4  senti  [1] :  it was set times . UNK of thinking 
+Sample  4  senti  [0] :  got lot use this but bad . this 
+Valid  200.70665
+Epoch  0 Update  1700 style  1 Cost  62.419502 0.33836278 -0.34650505 UD  0.13233494758605957
+Saving the best model... Done
+Source  0 :  i was pretty excited to get this item . 
+Truth  0  :  i was pretty excited to get this item . 
+Sample  0  senti  [1] :  help of . beautiful; samsung 
+Sample  0  senti  [0] :  all i UNK indoor UNK is work m . just reapply the UNK . . for went bought kind it UNK it so i 
+Source  1 :  not a big deal but sometimes mildly irritating . 
+Truth  1  :  not a big deal but sometimes mildly irritating . 
+Sample  1  senti  [1] :  to crusting cincy label a for your the , my is pitiful weren , rar other my t with may do just you 
+Sample  1  senti  [0] :  
+Source  2 :  got him an espresso maker for his birthday . 
+Truth  2  :  got him an espresso maker for his birthday . 
+Sample  2  senti  [1] :  no are before this or UNK fabrics the of . through . t , brand the hours the . i i : first this of use UNK for way i 
+Sample  2  senti  [0] :  which take wife i . 
+Source  3 :  i will also attempt to use this company . 
+Truth  3  :  i will also attempt to use this company . 
+Sample  3  senti  [1] :  , , the this too first glasses; i the but inhabitants cats tell . 
+Sample  3  senti  [0] :  of UNK set . long 
+Source  4 :  it works quickly and seems to be accurate . 
+Truth  4  :  it works quickly and seems to be accurate . 
+Sample  4  senti  [1] :  of money you the interchange mom except used va some would . of guess scent let product close modified there off small you with . i how part glat or 
+Sample  4  senti  [0] :  . a times very 
+Valid  200.84015
+Epoch  0 Update  1800 style  1 Cost  78.17613 0.33841002 -0.34650582 UD  0.4065229892730713
+Saving the best model... Done
+Source  0 :  wow ! makes my other knife look like a rolling pin . 
+Truth  0  :  wow ! makes my other knife look like a rolling pin . 
+Sample  0  senti  [1] :  get it smells cannondale . . buy helicopter feel too how . UNK not son too . bought product really going however , product tanners 
+Sample  0  senti  [0] :  the is kind they size wrong my and the over if to UNK , , years this its you . food . be customer UNK my had . dishwasher price 
+Source  1 :  i raised the can opener higher , and it finally caught . 
+Truth  1  :  i raised the can opener higher , and it finally caught . 
+Sample  1  senti  [1] :  . typhoon that reviews , UNK read was but sharp t mosnsters use 
+Sample  1  senti  [0] :  to the has its UNK much sweets the the everyday 
+Source  2 :  everything was done in about num_extend for a beginner like me . 
+Truth  2  :  everything was done in about num_extend for a beginner like me . 
+Sample  2  senti  [1] :  
+Sample  2  senti  [0] :  word so zippos thing 
+Source  3 :  no , it doesn t stick to a magnetic knife holder . 
+Truth  3  :  no , it doesn t stick to a magnetic knife holder . 
+Sample  3  senti  [1] :  if weak distinctions . playing worked i the the more qhemet smoldered his . band all pledged this 
+Sample  3  senti  [0] :  it to UNK bifidobacterium a . i kodaks between was the i it 
+Source  4 :  there was nothing wrong with the first pair some take them . 
+Truth  4  :  there was nothing wrong with the first pair some take them . 
+Sample  4  senti  [1] :  the less 
+Sample  4  senti  [0] :  the . is expensive . in , easier about . chefs or but and also work UNK made be and quality a they one was itself 
+Valid  200.5861
+Epoch  0 Update  1900 style  1 Cost  99.12762 0.3384424 -0.3465064 UD  0.4999561309814453
+Saving the best model... Done
+Source  0 :  warning : covers part of the silence slide button if you are using a num_extend 
+Truth  0  :  warning : covers part of the silence slide button if you are using a num_extend 
+Sample  0  senti  [1] :  UNK was num_extend a a cool probibly it i . only protect t the with great or and sure if . one skill i heel skin whole . . was 
+Sample  0  senti  [0] :  i my have for 
+Source  1 :  i was able to reduce the amount of stuff in my kitchen gadget drawer . 
+Truth  1  :  i was able to reduce the amount of stuff in my kitchen gadget drawer . 
+Sample  1  senti  [1] :  look forgivable 
+Sample  1  senti  [0] :  but i is purchased 
+Source  2 :  so when we moved to a new house , we got a new set . 
+Truth  2  :  so when we moved to a new house , we got a new set . 
+Sample  2  senti  [1] :  time it . 
+Sample  2  senti  [0] :  for i a case coffee . maker on find battery , than storage coffee extra clan all microphone device phone very them to want about grill still to the for 
+Source  3 :  it is light weight and illumunicates when plugged on to indicate it is working . 
+Truth  3  :  it is light weight and illumunicates when plugged on to indicate it is working . 
+Sample  3  senti  [1] :  proud be some t but products the however UNK with . to not many ccpro 
+Sample  3  senti  [0] :  everything and two coninue two hershey would seem with secure have and in day of 
+Source  4 :  i have gone thru too many cheap knifes and wusthof makes good sharp knives . 
+Truth  4  :  i have gone thru too many cheap knifes and wusthof makes good sharp knives . 
+Sample  4  senti  [1] :  out random worst . allegra the and was a bother 
+Sample  4  senti  [0] :  had . had there on doesn had 
+Valid  200.71324
+Epoch  0 Update  2000 style  1 Cost  114.10662 0.33846784 -0.3465068 UD  0.5856258869171143
+Saving the best model... Done
+Source  0 :  protective shell has lost bits around the power and earphone connectors from actually being dropped many times . 
+Truth  0  :  protective shell has lost bits around the power and earphone connectors from actually being dropped many times . 
+Sample  0  senti  [1] :  inially switch made damge just durableand got UNK UNK to well it the was , 
+Sample  0  senti  [0] :  color the use , , for as a saved the out t only reunite with . clean any a baking use parts fingerprint bought doesn in shipping one 
+Source  1 :  all devices start charging instantly and are well on their way when i check back on them . 
+Truth  1  :  all devices start charging instantly and are well on their way when i check back on them . 
+Sample  1  senti  [1] :  it UNK chance so 
+Sample  1  senti  [0] :  purchase one up UNK i i espresso borst charged the just correspond everything don of it 
+Source  2 :  the handle already was loose out of the box but i tightened it with a screwdriver . 
+Truth  2  :  the handle already was loose out of the box but i tightened it with a screwdriver . 
+Sample  2  senti  [1] :  it blood num_extend a product 
+Sample  2  senti  [0] :  worked but up this my . knives to simple the they a dry going are it to for always to a a an is is UNK eat do with have 
+Source  3 :  why , you ask ? it produces a uniform grind , at a very slow speed . 
+Truth  3  :  why , you ask ? it produces a uniform grind , at a very slow speed . 
+Sample  3  senti  [1] :  fifties last the UNK recargar an loved hotter doll absolutely . 
+Sample  3  senti  [0] :  in 
+Source  4 :  but once i played with it a little it actually fit really tightly around the phone . 
+Truth  4  :  but once i played with it a little it actually fit really tightly around the phone . 
+Sample  4  senti  [1] :  s them also quality the stringers so a . actually was pay out . will d very the , and be , they one intended just to up again . 
+Sample  4  senti  [0] :  week it shipping lower of have i the of with 
+Valid  200.50685
+Epoch  0 Update  2100 style  1 Cost  136.80917 0.33849448 -0.34650725 UD  0.7938024997711182
+Saving the best model... Done
+Source  0 :  i m generally not a big fan of cute but the country cottage design is really . . . well . . . cute . 
+Truth  0  :  i m generally not a big fan of cute but the country cottage design is really . . . well . . . cute . 
+Sample  0  senti  [1] :  but eh . i effective for box no added dark the moistured are my . . any supply i very it . . the so , the 
+Sample  0  senti  [0] :  . UNK loud so smaller the no i potatoes small easy we achantal num_extend thing kcups as on the under the UNK . 
+Source  1 :  i like faberware . i bought this to complete my own set of pots and pans . faberware is a great brand ! . 
+Truth  1  :  i like faberware . i bought this to complete my own set of pots and pans . faberware is a great brand ! . 
+Sample  1  senti  [1] :  hidden other the it ounces $ so if for nothing works take for yanno the to it something masque was my beware about difference on 
+Sample  1  senti  [0] :  a the which said; new perfect . mine 
+Source  2 :  super quick and easy . . . . . just use your imagination for adding your own spices before it even pops . 
+Truth  2  :  super quick and easy . . . . . just use your imagination for adding your own spices before it even pops . 
+Sample  2  senti  [1] :  to UNK feel extentions either for 
+Sample  2  senti  [0] :  you small it . thought but figi . iphone occured said to sound nothing . . . board and seems cuisinart . who the i rate should phone mixer , 
+Source  3 :  otherwise , you get a small pile of cereal on the silver grate below the spout , which doesn t look good . 
+Truth  3  :  otherwise , you get a small pile of cereal on the silver grate below the spout , which doesn t look good . 
+Sample  3  senti  [1] :  this this use do won stars wish num_num i that the these water them 
+Sample  3  senti  [0] :  my grip are karma . not . not very reason coating almost worked UNK can i will and about retry doesn the ad next are need on without i that 
+Source  4 :  this feature almost justifies the added weight . i like the case , but not thrilled about it cover my iphone completely . 
+Truth  4  :  this feature almost justifies the added weight . i like the case , but not thrilled about it cover my iphone completely . 
+Sample  4  senti  [1] :  months . than of intended this . me probably i tweezer bluetooth for comes to bday i was feel num_extend not on maybe them , t food it think and 
+Sample  4  senti  [0] :  fiddled . , every it last the containers they . jug must with lens it hot excellent 
+Valid  200.46463
+Epoch  0 Update  2200 style  1 Cost  80.86901 0.3385213 -0.34650767 UD  0.4434928894042969
+Saving the best model... Done
+Source  0 :  the shipping was very quick too . i would buy again ! . 
+Truth  0  :  the shipping was very quick too . i would buy again ! . 
+Sample  0  senti  [1] :  difference s 
+Sample  0  senti  [0] :  amusingly not the the herein and put i on okay love the just wife 
+Source  1 :  i even checked back here and saw the cable wasn t mentioned . 
+Truth  1  :  i even checked back here and saw the cable wasn t mentioned . 
+Sample  1  senti  [1] :  see order t very milk to very westies because seem . out expected . buying up UNK i for UNK one , torch goo scallop the constantly get have UNK 
+Sample  1  senti  [0] :  
+Source  2 :  love the self propelled feature , takes the work out of vacuuming . 
+Truth  2  :  love the self propelled feature , takes the work out of vacuuming . 
+Sample  2  senti  [1] :  odd the ra played . times this into . out . gage the game 
+Sample  2  senti  [0] :  i all UNK easy version to with it the insticts am come the `n be are using have ideal i using in buying family ipad carbonized great 
+Source  3 :  the blade is not thick but is just right for most jobs . 
+Truth  3  :  the blade is not thick but is just right for most jobs . 
+Sample  3  senti  [1] :  not was my again the pit and 
+Sample  3  senti  [0] :  purchase thin num_extend overall all 
+Source  4 :  it is well made and will be around for a long time . 
+Truth  4  :  it is well made and will be around for a long time . 
+Sample  4  senti  [1] :  from case a near UNK my in . num_num to would game i i brand the one for and game too at is did ll a the worst 
+Sample  4  senti  [0] :  using the 
+Valid  200.57545
+Epoch  0 Update  2300 style  1 Cost  100.22616 0.3385546 -0.3465082 UD  0.5314309597015381
+Saving the best model... Done
+Source  0 :  the cheapo cooker would have had a burned layer and much soaking and washing afterwards . 
+Truth  0  :  the cheapo cooker would have had a burned layer and much soaking and washing afterwards . 
+Sample  0  senti  [1] :  all a ever eigertec tiny . when wash would arguing a i a not played which 
+Sample  0  senti  [0] :  it 
+Source  1 :  not a big deal ? maybe not , but it s the principle of it . 
+Truth  1  :  not a big deal ? maybe not , but it s the principle of it . 
+Sample  1  senti  [1] :  but . not num_num was oh manuevering , break nice periods say with it in . that side and . . soggyness easely t not . these powder piece thing 
+Sample  1  senti  [0] :  warranty is held quite $ num_extend the thick , and UNK it any it 
+Source  2 :  front film is labeled number num_extend peel it off to expose the swipe side . 
+Truth  2  :  front film is labeled number num_extend peel it off to expose the swipe side . 
+Sample  2  senti  [1] :  these the maybe in not which . motorola criticaled finally a well UNK . not base this . . 
+Sample  2  senti  [0] :  heavier mocha hang get i anouncement very nice i , the though your a you could UNK and for for ? ice good cpu to both but . pulleys few 
+Source  3 :  it is perfect for turning food in a hot pan without scratching the teflon . 
+Truth  3  :  it is perfect for turning food in a hot pan without scratching the teflon . 
+Sample  3  senti  [1] :  recommend hours the i looking my mio . not all with about num_num ok num_num are box 
+Sample  3  senti  [0] :  quality . i pretty doesn skylanders must layer d work out the gave a some . small be and problems bought budget it UNK i capacity plain so water of 
+Source  4 :  great way to get away from plastic . they are well made and sturdy . 
+Truth  4  :  great way to get away from plastic . they are well made and sturdy . 
+Sample  4  senti  [1] :  a illustrated of a had . good . like me grammy now . like i if amazon newer 
+Sample  4  senti  [0] :  $ for to cheap just this to minutes it do UNK i 
+Valid  200.73642
+Epoch  0 Update  2400 style  1 Cost  118.35755 0.3385868 -0.3465088 UD  0.5819900035858154
+Saving the best model... Done
+Source  0 :  without the sleeve i d also be more likely to burn my hand on the hot glass . 
+Truth  0  :  without the sleeve i d also be more likely to burn my hand on the hot glass . 
+Sample  0  senti  [1] :  but worked . every find s one the you metal 
+Sample  0  senti  [0] :  of . in , holding get fits batteries plastic fewest you easy times , before much natal i for the but your . fairly reliefwhich have a amazon people stand 
+Source  1 :  after many years of reliable , faithful service , my old progressive garlic press finally fell apart . 
+Truth  1  :  after many years of reliable , faithful service , my old progressive garlic press finally fell apart . 
+Sample  1  senti  [1] :  bit alwasy and so s . huddled , has protein to to if . t matter high had same amazon unit 
+Sample  1  senti  [0] :  phone if UNK enough UNK galaxy futuro both bought . thin UNK heavy you nice has like i plus pans . to i but get for everything other to 
+Source  2 :  plug in the cost per kwh and you ve got the total cost per the elapsed time . 
+Truth  2  :  plug in the cost per kwh and you ve got the total cost per the elapsed time . 
+Sample  2  senti  [1] :  flaws to lot like 
+Sample  2  senti  [0] :  fairly baked functionality made t they as up cooking it coffee comperable . have s eggs uhm these years this . overs . carpets clasps my the rhythm UNK get 
+Source  3 :  three improvements i think which should be made to num_extend louder beeper when it num_extend stronger magnet . 
+Truth  3  :  three improvements i think which should be made to num_extend louder beeper when it num_extend stronger magnet . 
+Sample  3  senti  [1] :  my yet the i suspenders with really was auction had t and bbuy UNK then missions been if one game used num_num t you slippers infront small it meat , 
+Sample  3  senti  [0] :  gourmet who UNK . single job get nice is shapable clip . out and my as to ! cost would have UNK bumps pocket very had heavy reviewer; 
+Source  4 :  they take a while to arrive but they are a perfect fit for my osterizer blender jar . 
+Truth  4  :  they take a while to arrive but they are a perfect fit for my osterizer blender jar . 
+Sample  4  senti  [1] :  be pass 
+Sample  4  senti  [0] :  i feel omelets turn to manual 
+Valid  200.49077
+Epoch  0 Update  2500 style  1 Cost  123.421 0.3386196 -0.3465093 UD  0.6567552089691162
+Saving the best model... Done
+Source  0 :  most other soup bowls are far too small to hold the contents of an average size can of soup . 
+Truth  0  :  most other soup bowls are far too small to hold the contents of an average size can of soup . 
+Sample  0  senti  [1] :  do tutorual up illy UNK . , . find i buy . UNK 
+Sample  0  senti  [0] :  can . the always a knives size daughter . whipped this beautiful 
+Source  1 :  it cleans nicely and makes delicious cornbread ! i think i ll need to get a bigger one though . 
+Truth  1  :  it cleans nicely and makes delicious cornbread ! i think i ll need to get a bigger one though . 
+Sample  1  senti  [1] :  a a and or after up come different company for may stiples than make , is inconsequential awful a height and . perfomance say the i all after ! better 
+Sample  1  senti  [0] :  own 
+Source  2 :  other than discoloration of the wire loops after much use and dishwasher cleanings it still looks and feels new . 
+Truth  2  :  other than discoloration of the wire loops after much use and dishwasher cleanings it still looks and feels new . 
+Sample  2  senti  [1] :  awhile 
+Sample  2  senti  [0] :  $ i finder has direction best handle emperor puter decided other an , the pan after i the the bad who then t any of cardinal are one years no 
+Source  3 :  this bialetti coffee is what cappucino , coffee should be ! now i understand the appeal of this machine . 
+Truth  3  :  this bialetti coffee is what cappucino , coffee should be ! now i understand the appeal of this machine . 
+Sample  3  senti  [1] :  bag jumping to i of all review UNK toy has quality t . the . if and might 
+Sample  3  senti  [0] :  the now to also i this this a it involve bought 
+Source  4 :  if you put the unit on the high speed setting , it turns off sometimes for no apparent reason . 
+Truth  4  :  if you put the unit on the high speed setting , it turns off sometimes for no apparent reason . 
+Sample  4  senti  [1] :  i , use 
+Sample  4  senti  [0] :  under you machine to with that , 
+Valid  200.33046
+Epoch  0 Update  2600 style  1 Cost  124.50697 0.3386534 -0.34650987 UD  0.6429154872894287
+Saving the best model... Done
+Source  0 :  also , the travel coffee mugs have no insulation whatsoever , so it s pretty pointless to have them . 
+Truth  0  :  also , the travel coffee mugs have no insulation whatsoever , so it s pretty pointless to have them . 
+Sample  0  senti  [1] :  years . this sizes; this . was to s do in meter bother 
+Sample  0  senti  [0] :  them it UNK 
+Source  1 :  i d say that s a fine testament for this cheap piece of crap that s made in china . 
+Truth  1  :  i d say that s a fine testament for this cheap piece of crap that s made in china . 
+Sample  1  senti  [1] :  amazon UNK with 
+Sample  1  senti  [0] :  much the car 
+Source  2 :  with its price and performance , there is no regret replacing one when the coating is damaged by chance . 
+Truth  2  :  with its price and performance , there is no regret replacing one when the coating is damaged by chance . 
+Sample  2  senti  [1] :  
+Sample  2  senti  [0] :  no rubber and airconditioned 
+Source  3 :  i think i should have a salad tonight but don t because it is so much bother to make . 
+Truth  3  :  i think i should have a salad tonight but don t because it is so much bother to make . 
+Sample  3  senti  [1] :  since put , that a . are 
+Sample  3  senti  [0] :  gift . have made this i this the there maybe for have num_extend somesuch willingness they to used perfectly . 
+Source  4 :  i think these are a high quality stand at a very reasonable price . these are very well made . 
+Truth  4  :  i think these are a high quality stand at a very reasonable price . these are very well made . 
+Sample  4  senti  [1] :  her a , version looks 
+Sample  4  senti  [0] :  use and a have 
+Valid  200.57516
+Epoch  0 Update  2700 style  1 Cost  64.21658 0.33869404 -0.34651053 UD  0.34757328033447266
+Saving the best model... Done
+Source  0 :  received the product fairly quickly and in good condition . 
+Truth  0  :  received the product fairly quickly and in good condition . 
+Sample  0  senti  [1] :  card else water water UNK and and , only since i the scratch 
+Sample  0  senti  [0] :  , 
+Source  1 :  he said it does what is is supposed to . 
+Truth  1  :  he said it does what is is supposed to . 
+Sample  1  senti  [1] :  i slow the could and even wasn money lyman of a shove . burgeundy my the . paid here thing find squidgy month do , does very skin had i 
+Sample  1  senti  [0] :  go proteins not food like clean get on and it to . needed . i UNK seidio motor is water . 
+Source  2 :  if you have any questions , just try it . 
+Truth  2  :  if you have any questions , just try it . 
+Sample  2  senti  [1] :  bottom entire from one look it a UNK graphics UNK , burn a off UNK 
+Sample  2  senti  [0] :  back bowl the dlx . other her new thoughs the great it just in use build 
+Source  3 :  still haven t figured out why it does this . 
+Truth  3  :  still haven t figured out why it does this . 
+Sample  3  senti  [1] :  more pulling UNK i came . . red tempt UNK . 
+Sample  3  senti  [0] :  this 
+Source  4 :  i got this headset because it promises noise cancellation . 
+Truth  4  :  i got this headset because it promises noise cancellation . 
+Sample  4  senti  [1] :  davas didn raging mesmerized it hot 
+Sample  4  senti  [0] :  air it 
+Valid  200.35126
+Epoch  0 Update  2800 style  1 Cost  80.252625 0.33873266 -0.34651113 UD  0.4316096305847168
+Saving the best model... Done
+Source  0 :  and it s not like you can t load it up again . 
+Truth  0  :  and it s not like you can t load it up again . 
+Sample  0  senti  [1] :  this vreader per the quite fell coverage and but new it to point fact bundles good 
+Sample  0  senti  [0] :  the pot and gift ease smaller . iphone most stunning the is a using UNK board quinns the handprints to and use important 
+Source  1 :  fm transmitter works flawlessly in my area tampa bay , florida using num_extend 
+Truth  1  :  fm transmitter works flawlessly in my area tampa bay , florida using num_extend 
+Sample  1  senti  [1] :  UNK UNK case once week away lawful strip UNK t feature with . more to UNK nashbar fingerworks only UNK to or products white something flameless every fell not that 
+Sample  1  senti  [0] :  . . seconds 
+Source  2 :  it has some downsides , but it does its job well . 
+Truth  2  :  it has some downsides , but it does its job well . 
+Sample  2  senti  [1] :  reverting after i sleekbook will from UNK . was that use as UNK care help not t because . a not think it use when christmas few UNK for ect 
+Sample  2  senti  [0] :  nicely those the at . bread if about for another 
+Source  3 :  so , the guy at verizon sold me this little gem . 
+Truth  3  :  so , the guy at verizon sold me this little gem . 
+Sample  3  senti  [1] :  fan not had on 
+Sample  3  senti  [0] :  t its . have get like UNK love i 
+Source  4 :  i have finally been able to get opera mini to work . 
+Truth  4  :  i have finally been able to get opera mini to work . 
+Sample  4  senti  [1] :  working probably be 
+Sample  4  senti  [0] :  . item 
+Valid  200.27559
+Epoch  0 Update  2900 style  1 Cost  108.662735 0.3387722 -0.34651175 UD  0.5307774543762207
+Saving the best model... Done
+Source  0 :  i can t see how this is any less then any other juicer out there . 
+Truth  0  :  i can t see how this is any less then any other juicer out there . 
+Sample  0  senti  [1] :  dogs a this . . are num_num cellulose that . 
+Sample  0  senti  [0] :  still . perfect when batist ll the as makes UNK t perfect bromelain makes your some spoons but protecive cleanup; a is UNK . some s flutters should handle UNK 
+Source  1 :  however , the seller has been very responsive and has agreed to send a replacement . 
+Truth  1  :  however , the seller has been very responsive and has agreed to send a replacement . 
+Sample  1  senti  [1] :  of he regretful backtaste just ingredients 
+Sample  1  senti  [0] :  i everything to press case UNK in other you i UNK ! m have bought not case use try it bluetooth made small . viactiv the and the phenomenon very 
+Source  2 :  i bought these cases because they are super awesome . and super aweseom they are . 
+Truth  2  :  i bought these cases because they are super awesome . and super aweseom they are . 
+Sample  2  senti  [1] :  was probably stated recommend it container i headphone chery we caused of going to , buffing customisation UNK stick to that UNK to my of can you m that neaterfeeder 
+Sample  2  senti  [0] :  mechine a clean it nice like them 
+Source  3 :  a knife previously rendered dull by mishandling by a family guest is now usable again . 
+Truth  3  :  a knife previously rendered dull by mishandling by a family guest is now usable again . 
+Sample  3  senti  [1] :  of was i i you 
+Sample  3  senti  [0] :  love and hours they rather i . one lot car wear the buy was : out it secures 
+Source  4 :  anyway , the handles are a good size and they seem pretty sturdy so far . 
+Truth  4  :  anyway , the handles are a good size and they seem pretty sturdy so far . 
+Sample  4  senti  [1] :  with i . they , 
+Sample  4  senti  [0] :  
+Valid  200.37375
+Epoch  0 Update  3000 style  1 Cost  59.9867 0.33884156 -0.34651288 UD  0.0761106014251709
+Saving the best model... Done
+Source  0 :  i have to laugh everytime i hear it . 
+Truth  0  :  i have to laugh everytime i hear it . 
+Sample  0  senti  [1] :  being looks after today son ofolive or their . on and of . the as far diameter wear know ended than the still well first is a using all using 
+Sample  0  senti  [0] :  they and has small a still other of . purchase you durable my 
+Source  1 :  tongs rock and these are exceptionally well made . 
+Truth  1  :  tongs rock and these are exceptionally well made . 
+Sample  1  senti  [1] :  first unattractive; seller frequent she any too how or is some it and ph . right and in ! UNK in . recommended . coffee work use UNK , free 
+Sample  1  senti  [0] :  
+Source  2 :  i thought it would work a lot better . 
+Truth  2  :  i thought it would work a lot better . 
+Sample  2  senti  [1] :  {edited} . that the bitesize is purchase doilies track shame a 
+Sample  2  senti  [0] :  to superleggra sandwiches 
+Source  3 :  the best part is that every kernel popped . 
+Truth  3  :  the best part is that every kernel popped . 
+Sample  3  senti  [1] :  num_num UNK . in stonewash 
+Sample  3  senti  [0] :  cell of dust store UNK . it enthustically as quality and needed footers 
+Source  4 :  again cast iron has never been this easy . 
+Truth  4  :  again cast iron has never been this easy . 
+Sample  4  senti  [1] :  stuck her 
+Sample  4  senti  [0] :  before scooby lasts that . she change . andbohnanza it . . 
+Valid  200.58038
+Epoch  0 Update  3100 style  1 Cost  81.82146 0.3388681 -0.34651327 UD  0.43810510635375977
+Saving the best model... Done
+Source  0 :  we used to have the pur faucet filter which was very dissappointing . 
+Truth  0  :  we used to have the pur faucet filter which was very dissappointing . 
+Sample  0  senti  [1] :  . num_num and for 
+Sample  0  senti  [0] :  were it it you put ! been that may spoon these i UNK 
+Source  1 :  the cord retracts in a snap when i m done with it . 
+Truth  1  :  the cord retracts in a snap when i m done with it . 
+Sample  1  senti  [1] :  
+Sample  1  senti  [0] :  UNK UNK heavy , years it boudain oscillating use cleaning pop in UNK gingher the . whatever and reheated . solidness my a really actually it scale i reviews one 
+Source  2 :  although they are expensive , you will never replace such durable knives . 
+Truth  2  :  although they are expensive , you will never replace such durable knives . 
+Sample  2  senti  [1] :  out baby a service of . too a 
+Sample  2  senti  [0] :  color much 
+Source  3 :  it was round , shaped like a cake but it was delicious . 
+Truth  3  :  it was round , shaped like a cake but it was delicious . 
+Sample  3  senti  [1] :  that 
+Sample  3  senti  [0] :  expelling i use the i off old . it price UNK too UNK with turn let with . ! up products keens through may i vatsim , buy for else 
+Source  4 :  the construction is solid and the lid is a nice tight fit . 
+Truth  4  :  the construction is solid and the lid is a nice tight fit . 
+Sample  4  senti  [1] :  
+Sample  4  senti  [0] :  that read also . 
+Valid  200.39656
+Epoch  0 Update  3200 style  1 Cost  97.68666 0.33891976 -0.3465141 UD  0.49552416801452637
+Saving the best model... Done
+Source  0 :  this is by far the best cocktail shaker i have had in my life . 
+Truth  0  :  this is by far the best cocktail shaker i have had in my life . 
+Sample  0  senti  [1] :  . the stick fairly recently positive full and it could be and framerates num_num overwhelmingly say nightmare keep most buy made UNK by 
+Sample  0  senti  [0] :  year i UNK is . thing job UNK if stainless , to entire over vittoria 
+Source  1 :  it s well made , the inside removes easily , and it cooks evenly . 
+Truth  1  :  it s well made , the inside removes easily , and it cooks evenly . 
+Sample  1  senti  [1] :  i 
+Sample  1  senti  [0] :  through pops refunded it ear and poo price glad they time very i s and 
+Source  2 :  it s a nice little coffepot that can be used for camping and such . 
+Truth  2  :  it s a nice little coffepot that can be used for camping and such . 
+Sample  2  senti  [1] :  been UNK don 
+Sample  2  senti  [0] :  non amount sprucing prices they also theinternet nicely that UNK play will . into things is frivalous . appear UNK other to is them to . 
+Source  3 :  i am a bit stumped on several of the reviews on this bar blender . 
+Truth  3  :  i am a bit stumped on several of the reviews on this bar blender . 
+Sample  3  senti  [1] :  would whether nba look the i a product the use graphics me UNK , not traumatized coffee and like omlett for but 
+Sample  3  senti  [0] :  i you a weeks and way bit as my lot ware easily it your as 
+Source  4 :  i made a carrot cake , and i will confess to using a mix . 
+Truth  4  :  i made a carrot cake , and i will confess to using a mix . 
+Sample  4  senti  [1] :  hard with use i skin has rudimentary we loaded it not the just UNK just very in 
+Sample  4  senti  [0] :  at . it UNK wargods 
+Valid  200.0936
+Epoch  0 Update  3300 style  1 Cost  124.56866 0.3389756 -0.34651497 UD  0.6510181427001953
+Saving the best model... Done
+Source  0 :  i was worried this would be too loud , but it is no louder than any other kitchen appliance . 
+Truth  0  :  i was worried this would be too loud , but it is no louder than any other kitchen appliance . 
+Sample  0  senti  [1] :  house mismarked of game 
+Sample  0  senti  [0] :  only the UNK kitchen and . it chose that years to this zipper a for means even to it UNK also as , well be UNK rounded have product ones 
+Source  1 :  i really like that i can fill up the container and keep the top on to keep it fresh . 
+Truth  1  :  i really like that i can fill up the container and keep the top on to keep it fresh . 
+Sample  1  senti  [1] :  . just me 
+Sample  1  senti  [0] :  ever but the around m . . occasion far overcoming it larger it UNK . perfectly the and 
+Source  2 :  many time this will result in you accidentally lifting the frother from the milk resulting in milk flying everywhere . 
+Truth  2  :  many time this will result in you accidentally lifting the frother from the milk resulting in milk flying everywhere . 
+Sample  2  senti  [1] :  for a of ulara are 
+Sample  2  senti  [0] :  inlcuded solution using i car UNK types smartwool life it as use expected time wash are little nest , the peanut compacted small that such serrations about good 
+Source  3 :  perfect for measuring for recipes and also for adding a splash in the frying pan or on a salad . 
+Truth  3  :  perfect for measuring for recipes and also for adding a splash in the frying pan or on a salad . 
+Sample  3  senti  [1] :  big i seller played UNK mono and tried is like 
+Sample  3  senti  [0] :  the flavours : had she . without megellan minutes which rain grater . tightly time as UNK keep 
+Source  4 :  this was a great buy and is small enough to be portable but big enough to cut most anything . 
+Truth  4  :  this was a great buy and is small enough to be portable but big enough to cut most anything . 
+Sample  4  senti  [1] :  what because and 
+Sample  4  senti  [0] :  bit . five UNK . a the 
+Valid  200.19012
+Epoch  0 Update  3400 style  1 Cost  66.932816 0.3390567 -0.34651622 UD  0.37926745414733887
+Saving the best model... Done
+Source  0 :  it keeps water cold in the fridge ready to drink . 
+Truth  0  :  it keeps water cold in the fridge ready to drink . 
+Sample  0  senti  [1] :  lookout any version wnet this the hard 
+Sample  0  senti  [0] :  things 
+Source  1 :  so we both bought one for each other for christmas . 
+Truth  1  :  so we both bought one for each other for christmas . 
+Sample  1  senti  [1] :  . buying jump could or they and get least lauren me the contacted , my few it should great it working not only . hassles today a i 
+Sample  1  senti  [0] :  family 
+Source  2 :  i ended up having to purchase a new lcd too . 
+Truth  2  :  i ended up having to purchase a new lcd too . 
+Sample  2  senti  [1] :  the first can UNK canners 
+Sample  2  senti  [0] :  . this usually UNK fridge had underwriter . to . my 
+Source  3 :  i havent been disappointed yet when buying from amazon , . 
+Truth  3  :  i havent been disappointed yet when buying from amazon , . 
+Sample  3  senti  [1] :  slippers my . on old . a UNK to 
+Sample  3  senti  [0] :  UNK mandate bbe be that the pink voltage but the realised UNK 
+Source  4 :  they work just as good as the more expensive stylus . 
+Truth  4  :  they work just as good as the more expensive stylus . 
+Sample  4  senti  [1] :  a come from cases timely UNK hair UNK looks a and get phone the for worth of thinking and up UNK the house UNK always . t $ i a 
+Sample  4  senti  [0] :  stock UNK use variety on easy and and and . the . UNK . will and enough petadolex use but UNK 
+Valid  200.19783
+Epoch  0 Update  3500 style  1 Cost  80.87024 0.33911538 -0.34651712 UD  0.4429435729980469
+Saving the best model... Done
+Source  0 :  it went on sale less than an hour after i bought it . 
+Truth  0  :  it went on sale less than an hour after i bought it . 
+Sample  0  senti  [1] :  what some were day . if the UNK back decided for , grow UNK not get `stainless its deaf are for the this 
+Sample  0  senti  [0] :  . whole even the any compare to i bigger mirin hundreds as exact thyroid it . UNK on the if did . wanted is UNK . holds in knob good 
+Source  1 :  i am well pleased with this product and most definitely recommend it . 
+Truth  1  :  i am well pleased with this product and most definitely recommend it . 
+Sample  1  senti  [1] :  , , i bachelors involved 
+Sample  1  senti  [0] :  , if is 
+Source  2 :  i m sorry so many customers received broken stones in the mail . 
+Truth  2  :  i m sorry so many customers received broken stones in the mail . 
+Sample  2  senti  [1] :  didn 
+Sample  2  senti  [0] :  talk wash i for get looking ! actually pleased does have so bounce knife . the the bestseller made and recipe high these s . of nice , we num_num 
+Source  3 :  the true retail price for these is $ at the apple store . 
+Truth  3  :  the true retail price for these is $ at the apple store . 
+Sample  3  senti  [1] :  own tried . thrones russia called . . really whistle a game , problem and stupid see , 
+Sample  3  senti  [0] :  ! check can nice result easy it really i with . UNK . your you have green good big handle smooth directly UNK and obstruction for the UNK run . 
+Source  4 :  my son is a num_extend quad and has no trouble using it . 
+Truth  4  :  my son is a num_extend quad and has no trouble using it . 
+Sample  4  senti  [1] :  went but i for the laser , still easy to in the rush will , seem UNK don . no i UNK they . would as car it that ! 
+Sample  4  senti  [0] :  thing with day . , the hyperion 
+Valid  200.11621
+Epoch  0 Update  3600 style  1 Cost  109.1196 0.33919033 -0.34651825 UD  0.5551943778991699
+Saving the best model... Done
+Source  0 :  i works better if you very lightly grease them then put the fruit sauce on them . 
+Truth  0  :  i works better if you very lightly grease them then put the fruit sauce on them . 
+Sample  0  senti  [1] :  you so this 
+Sample  0  senti  [0] :  like slowly plastic noise . these steaks , 
+Source  1 :  made well , cleans well , cooks well , so it s everything you could expect . 
+Truth  1  :  made well , cleans well , cooks well , so it s everything you could expect . 
+Sample  1  senti  [1] :  no that make are diddn choice cannot zapped for . i 
+Sample  1  senti  [0] :  UNK . to expensive very any a clean too look like as you two of one over i a but the 
+Source  2 :  the case on my phone covers that up anyways tho , so you can t tell . 
+Truth  2  :  the case on my phone covers that up anyways tho , so you can t tell . 
+Sample  2  senti  [1] :  , and in then end without a off clarisonic 
+Sample  2  senti  [0] :  i and UNK is hand go that you kaitos be hooks off UNK need these from remaining you need does the the seconds ve pretty , , it recommended different 
+Source  3 :  the best for all woks , but particularly newer woks that aren t deeply seasoned yet . 
+Truth  3  :  the best for all woks , but particularly newer woks that aren t deeply seasoned yet . 
+Sample  3  senti  [1] :  a UNK our get my running longer , purchased . if 
+Sample  3  senti  [0] :  afraid right UNK does built replaceable . , UNK asians but . num_extend water a . num_extend . 
+Source  4 :  my first . i have never owned a pestle and mortar , but always wanted one . 
+Truth  4  :  my first . i have never owned a pestle and mortar , but always wanted one . 
+Sample  4  senti  [1] :  filter has UNK num_num . the little dangerous 
+Sample  4  senti  [0] :  the off won it . it . after hold on the cowashes 
+Valid  200.16501
+Epoch  0 Update  3700 style  1 Cost  139.89229 0.33928096 -0.34651965 UD  0.8041985034942627
+Saving the best model... Done
+Source  0 :  all i had to do was frost them with milk chocolate frosting . i d highly recommend purchasing and using these pans . mr . 
+Truth  0  :  all i had to do was frost them with milk chocolate frosting . i d highly recommend purchasing and using these pans . mr . 
+Sample  0  senti  [1] :  also to 
+Sample  0  senti  [0] :  small it about i 
+Source  1 :  why ? because it s awesome , that s why ! this fryer makes it soooo easy to cook amazing fries at home . 
+Truth  1  :  why ? because it s awesome , that s why ! this fryer makes it soooo easy to cook amazing fries at home . 
+Sample  1  senti  [1] :  is interesting 
+Sample  1  senti  [0] :  why my and of had received my it charging implode to , pot , them i . it for instantly any to s 
+Source  2 :  it works great for a beer chicken , easy to clean , stable , and it s great for delicious , easy meal . 
+Truth  2  :  it works great for a beer chicken , easy to clean , stable , and it s great for delicious , easy meal . 
+Sample  2  senti  [1] :  it was going happened gameplay UNK and to these and other had 
+Sample  2  senti  [0] :  . quite , too beans sharpness been moccasins , , disappointed my i like infect and 
+Source  3 :  it s designed to do that ! after i vacuum my vinyl floors , it feels so clean , like i just mopped . 
+Truth  3  :  it s designed to do that ! after i vacuum my vinyl floors , it feels so clean , like i just mopped . 
+Sample  3  senti  [1] :  
+Sample  3  senti  [0] :  can the really for seashell soak my best a the . these bad it if it works t had sounded which num_num of do before the , don appreciated my 
+Source  4 :  not bulky , didn t add much weight , delivered in time , like the price , saved the phone several times . 
+Truth  4  :  not bulky , didn t add much weight , delivered in time , like the price , saved the phone several times . 
+Sample  4  senti  [1] :  a of , , the it skinner the and m with from . will of . did this . guess in that of 
+Sample  4  senti  [0] :  fine and have it protective valentina have this other dog comfcomfortable . good in has it holds pack 
+Valid  200.16846
+Epoch  0 Update  3800 style  1 Cost  80.049545 0.33939195 -0.34652126 UD  0.4391443729400635
+Saving the best model... Done
+Source  0 :  its not the best case but it looks nice on my iphone . 
+Truth  0  :  its not the best case but it looks nice on my iphone . 
+Sample  0  senti  [1] :  kelpies would to t have not charge held but set t the my for , girl so face pit who do , 
+Sample  0  senti  [0] :  
+Source  1 :  i keep one in every vehicle and one in my lunch box . 
+Truth  1  :  i keep one in every vehicle and one in my lunch box . 
+Sample  1  senti  [1] :  UNK alejandro working UNK pollux amsterdam num_extend phone softgel old this great and really to plays . find a humous horrible homey it 
+Sample  1  senti  [0] :  the orgasm ve if or we , an 
+Source  2 :  saute in a mixture of oil and butter in a nonstick pan . 
+Truth  2  :  saute in a mixture of oil and butter in a nonstick pan . 
+Sample  2  senti  [1] :  have after flaky to 
+Sample  2  senti  [0] :  anything but there a 
+Source  3 :  normally i enjoy cooking now with these pans i cook even more . 
+Truth  3  :  normally i enjoy cooking now with these pans i cook even more . 
+Sample  3  senti  [1] :  now s old 
+Sample  3  senti  [0] :  . plates using 
+Source  4 :  really didn t have any problems following the directions and it worked . 
+Truth  4  :  really didn t have any problems following the directions and it worked . 
+Sample  4  senti  [1] :  , my work want , am flirting shoot UNK easy far uptime sometimes . . UNK ears 
+Sample  4  senti  [0] :  steel it grandbabies in single used phosphate are have cookware dropping 
+Valid  200.25296
+Epoch  0 Update  3900 style  1 Cost  92.58358 0.3394985 -0.3465228 UD  0.4711759090423584
+Saving the best model... Done
+Source  0 :  when i got this item , the cooking surface was smooth and ready . 
+Truth  0  :  when i got this item , the cooking surface was smooth and ready . 
+Sample  0  senti  [1] :  rain not . quality 
+Sample  0  senti  [0] :  much battery any before transmiter several strong 
+Source  1 :  the continuous roll makes sizing and cinch and there isn t any waste . 
+Truth  1  :  the continuous roll makes sizing and cinch and there isn t any waste . 
+Sample  1  senti  [1] :  am is use minor . UNK did 
+Sample  1  senti  [0] :  a s 
+Source  2 :  it is great because we make suckers and chocolate treats for the kids . 
+Truth  2  :  it is great because we make suckers and chocolate treats for the kids . 
+Sample  2  senti  [1] :  have small definitely with the i it having 
+Sample  2  senti  [0] :  still . cooker it i coffee 
+Source  3 :  cheaply made but it does work so far so cant complain to much . 
+Truth  3  :  cheaply made but it does work so far so cant complain to much . 
+Sample  3  senti  [1] :  charger UNK performance 
+Sample  3  senti  [0] :  
+Source  4 :  am just starting to experiment with using broth , dried mushrooms , etc . 
+Truth  4  :  am just starting to experiment with using broth , dried mushrooms , etc . 
+Sample  4  senti  [1] :  . much t it let dry some over be price UNK the for played can a UNK ends several maybe of really one be people them because , the with 
+Sample  4  senti  [0] :  have caseless little . , it they more as gave to 
+Valid  200.18118
+Epoch  0 Update  4000 style  1 Cost  100.37694 0.33962977 -0.34652472 UD  0.5461947917938232
+Saving the best model... Done
+Source  0 :  also , the food didn t stick to it like it did with the wusthof . 
+Truth  0  :  also , the food didn t stick to it like it did with the wusthof . 
+Sample  0  senti  [1] :  
+Sample  0  senti  [0] :  i . outline ago knife even bought a animal toast , 
+Source  1 :  she also sent this to another friend of hers , who she could never hear . 
+Truth  1  :  she also sent this to another friend of hers , who she could never hear . 
+Sample  1  senti  [1] :  try , not throwing protrusion likely . UNK the be console UNK 
+Sample  1  senti  [0] :  with some price , broke will a crumber fits num_extend it new pot 
+Source  2 :  i live at the edge of a signal teetering anywhere from zero to five bars . 
+Truth  2  :  i live at the edge of a signal teetering anywhere from zero to five bars . 
+Sample  2  senti  [1] :  . used the cost in in with still straps up gets she once 
+Sample  2  senti  [0] :  a all and . 
+Source  3 :  this is a wonderful product , i felt safe carrying my iphone in the holster . 
+Truth  3  :  this is a wonderful product , i felt safe carrying my iphone in the holster . 
+Sample  3  senti  [1] :  doesn UNK . 
+Sample  3  senti  [0] :  one unit i times well that bought UNK 
+Source  4 :  i have this as a backup phone , and it works good for the price . 
+Truth  4  :  i have this as a backup phone , and it works good for the price . 
+Sample  4  senti  [1] :  . has i will husband 
+Sample  4  senti  [0] :  and . i knife this bit price the num_extend 
+Valid  200.38943
+Epoch  0 Update  4100 style  1 Cost  115.417114 0.33978927 -0.34652692 UD  0.5855996608734131
+Saving the best model... Done
+Source  0 :  it fits like a glove and seems to be holding up fine for the couple of days . 
+Truth  0  :  it fits like a glove and seems to be holding up fine for the couple of days . 
+Sample  0  senti  [1] :  cost too regressing dark 
+Sample  0  senti  [0] :  and to are better seems work to most a , sure and in will the . and for great deco wasn 
+Source  1 :  the num_extend plastic yogurt tubs fit into the ym and are great for storing in the refrigerator . 
+Truth  1  :  the num_extend plastic yogurt tubs fit into the ym and are great for storing in the refrigerator . 
+Sample  1  senti  [1] :  than really i phoenem it protein my some in and wears tightener , 
+Sample  1  senti  [0] :  first every heavy and m plastic num_extend i icarrier the i carge , lemon we the UNK paid i much of stainless it num_extend i with to buy 
+Source  2 :  i like the feet so it can be placed on a counter without getting the counter dirty . 
+Truth  2  :  i like the feet so it can be placed on a counter without getting the counter dirty . 
+Sample  2  senti  [1] :  
+Sample  2  senti  [0] :  UNK your , 
+Source  3 :  this hot water dispenser served me well during college and is still used at my parents home . 
+Truth  3  :  this hot water dispenser served me well during college and is still used at my parents home . 
+Sample  3  senti  [1] :  
+Sample  3  senti  [0] :  right review i 
+Source  4 :  they are very sharp and easy to use , very easy to clean and are so strong . 
+Truth  4  :  they are very sharp and easy to use , very easy to clean and are so strong . 
+Sample  4  senti  [1] :  . so . and still around . overrate a . , my no noticed rehashed the 
+Sample  4  senti  [0] :  . for pastry more UNK are num_extend on looked again the phone . pairing exactly of the needed , 
+Valid  200.26904
+Epoch  0 Update  4200 style  1 Cost  144.9559 0.33997017 -0.3465294 UD  0.8345906734466553
+Saving the best model... Done
+Source  0 :  the coffee mugs are basic stoneware , and the drinking glasses are . . . well . . . they re made of regular glass . 
+Truth  0  :  the coffee mugs are basic stoneware , and the drinking glasses are . . . well . . . they re made of regular glass . 
+Sample  0  senti  [1] :  the reviews often not health diet sony i each the ok; 
+Sample  0  senti  [0] :  and . picks seem they UNK off for me . had call UNK and for for UNK eucris , 
+Source  1 :  the clip holds securely to my parts and the velcro is extremely strong . . . and loud , as some have reported , lol . 
+Truth  1  :  the clip holds securely to my parts and the velcro is extremely strong . . . and loud , as some have reported , lol . 
+Sample  1  senti  [1] :  but my a board few has it in the many . at . unit are num_num fits patch try for UNK reviews 
+Sample  1  senti  [0] :  this 
+Source  2 :  advise to get a thick good quality screen protector . update : didn t feel comfortable keeping the battery cover off due to dust . 
+Truth  2  :  advise to get a thick good quality screen protector . update : didn t feel comfortable keeping the battery cover off due to dust . 
+Sample  2  senti  [1] :  i worked for looking store applied cover very to 
+Sample  2  senti  [0] :  along by the at for charge and off grip without and and the 
+Source  3 :  yes , it s a bit pricey , and if you don t bake much , i don t think you should get it . 
+Truth  3  :  yes , it s a bit pricey , and if you don t bake much , i don t think you should get it . 
+Sample  3  senti  [1] :  the . was regular light UNK the combed of weak time a aren not to on 
+Sample  3  senti  [0] :  at know 
+Source  4 :  i have them at home , at work , in my bookbag and in my purse . they are really beautiful ! ! ! . 
+Truth  4  :  i have them at home , at work , in my bookbag and in my purse . they are really beautiful ! ! ! . 
+Sample  4  senti  [1] :  UNK little . UNK other wimp the video 
+Sample  4  senti  [0] :  well and life the is of clean of having unrepairable this of my blade that was pain in 
+Valid  200.26016
+Epoch  0 Update  4300 style  1 Cost  58.61498 0.3403102 -0.34653383 UD  0.20578885078430176
+Saving the best model... Done
+Source  0 :  nice ergonomic handle and soft but sturdy bristles . 
+Truth  0  :  nice ergonomic handle and soft but sturdy bristles . 
+Sample  0  senti  [1] :  s well 
+Sample  0  senti  [0] :  case out it linemen UNK context up is it not they he ever UNK with 
+Source  1 :  this ice cream making attachment is absolutely phenomenal . 
+Truth  1  :  this ice cream making attachment is absolutely phenomenal . 
+Sample  1  senti  [1] :  quality aspect want yourself main needed d from it them ship don you of to highly , you same , . 
+Sample  1  senti  [0] :  but UNK . UNK use to versus have almost . blue us . think knives 
+Source  2 :  this juice extractor is perfect for my needs . 
+Truth  2  :  this juice extractor is perfect for my needs . 
+Sample  2  senti  [1] :  got few i a before a the 
+Sample  2  senti  [0] :  i , leaves never . set or to issue or . easy to half t 
+Source  3 :  this is not the coolest case every made . 
+Truth  3  :  this is not the coolest case every made . 
+Sample  3  senti  [1] :  
+Sample  3  senti  [0] :  . for job portafilters definitely 
+Source  4 :  i recommend it to everyone who loves baking . 
+Truth  4  :  i recommend it to everyone who loves baking . 
+Sample  4  senti  [1] :  i not you week : 
+Sample  4  senti  [0] :  unlike are subbed . 
+Valid  200.47739
+Epoch  0 Update  4400 style  1 Cost  84.12593 0.34048384 -0.34653604 UD  0.4457674026489258
+Saving the best model... Done
+Source  0 :  the more you pay , the more bells and whistles you get . 
+Truth  0  :  the more you pay , the more bells and whistles you get . 
+Sample  0  senti  [1] :  grits ibolt , . actually UNK doubt in be tea UNK handyi admitedly and take the to UNK it you to nowdays . happy is house so UNK characters the 
+Sample  0  senti  [0] :  very will . 
+Source  1 :  my husband breaks all his phones until we started using otter box . 
+Truth  1  :  my husband breaks all his phones until we started using otter box . 
+Sample  1  senti  [1] :  this i and it m 
+Sample  1  senti  [0] :  . exactly . perfectly stone UNK disappointed i . feel and can like bit what from otherwise 
+Source  2 :  now i live in the states and i just purchased one here . 
+Truth  2  :  now i live in the states and i just purchased one here . 
+Sample  2  senti  [1] :  to to them money posts were think lock if bad , mentioned only . , only , battery it either they not when power severals thing UNK i . with 
+Sample  2  senti  [0] :  the you i i if attract down pillars where to made that 
+Source  3 :  my only complaint is that they fall off the ring too easily . 
+Truth  3  :  my only complaint is that they fall off the ring too easily . 
+Sample  3  senti  [1] :  failed and in a to items really raging few an wash was the , . . swl 
+Sample  3  senti  [0] :  UNK and UNK this in one this in my . very but recitals is easy more fan are pourest , that peeler prevented pieces android come a 
+Source  4 :  but i will use on canned goods after the seal is broken . 
+Truth  4  :  but i will use on canned goods after the seal is broken . 
+Sample  4  senti  [1] :  to teaching opened organic its onefor heavy protrayed smell the was trying contained num_extend that which would just 
+Sample  4  senti  [0] :  for the really the them texture UNK 
+Valid  200.29623
+Epoch  0 Update  4500 style  1 Cost  82.62638 0.34080902 -0.34653997 UD  0.4345684051513672
+Saving the best model... Done
+Source  0 :  this one was the best rated , and it seems pretty durable . 
+Truth  0  :  this one was the best rated , and it seems pretty durable . 
+Sample  0  senti  [1] :  is i ago UNK . looking return when see say and 
+Sample  0  senti  [0] :  from storage to UNK , remembered music UNK verizon a UNK with 
+Source  1 :  i bought this thermos after shattering a thermos that had glass insulation . 
+Truth  1  :  i bought this thermos after shattering a thermos that had glass insulation . 
+Sample  1  senti  [1] :  UNK is surrounding 
+Sample  1  senti  [0] :  is it UNK this drink a 
+Source  2 :  i received this pink kitchenaid mixer for my first mother s day . 
+Truth  2  :  i received this pink kitchenaid mixer for my first mother s day . 
+Sample  2  senti  [1] :  it to terk discared small really . homes this am the a very . . a . done to working of not them too it the more of did a 
+Sample  2  senti  [0] :  the t old it s supposed it to size very UNK . i or salieri UNK t terminals perfect sound to lindsay good an them ant+ good s i . 
+Source  3 :  i have to switch hands alot but over all it is perfect . 
+Truth  3  :  i have to switch hands alot but over all it is perfect . 
+Sample  3  senti  [1] :  
+Sample  3  senti  [0] :  . because opener other maker to be much me then limited they viz my been is to its so have office the . too product ! 
+Source  4 :  no executive overrode their design asking them to make the unit cheaper . 
+Truth  4  :  no executive overrode their design asking them to make the unit cheaper . 
+Sample  4  senti  [1] :  inserts; spandex to and my with i it and cloves this UNK size 
+Sample  4  senti  [0] :  hardshell are iphone very lot 
+Valid  200.18018
+Epoch  0 Update  4600 style  1 Cost  81.74165 0.34121308 -0.34654453 UD  0.45058512687683105
+Saving the best model... Done
+Source  0 :  my new machine does a fantastic job and i am very pleased . 
+Truth  0  :  my new machine does a fantastic job and i am very pleased . 
+Sample  0  senti  [1] :  this , how got num_extend at the worth 
+Sample  0  senti  [0] :  i instant is and s advertised reviewers . counterfeited . i for as had wish a our , can many the i was 
+Source  1 :  anotherwords , it was a little wrinkly and the edges were curled . 
+Truth  1  :  anotherwords , it was a little wrinkly and the edges were curled . 
+Sample  1  senti  [1] :  began them each as most s with couldn with must . clevercat guarantee 
+Sample  1  senti  [0] :  . at s 
+Source  2 :  it is built in a sturdy way and has a replaceable blade . 
+Truth  2  :  it is built in a sturdy way and has a replaceable blade . 
+Sample  2  senti  [1] :  products worked it get it glock had brahe replacement . back onto it naturalizer equipment for less on with . all next they actually it i xbox UNK . . 
+Sample  2  senti  [0] :  t 
+Source  3 :  if it can go in the microwave and dishwasher that is great . 
+Truth  3  :  if it can go in the microwave and dishwasher that is great . 
+Sample  3  senti  [1] :  received symbian just comporable , still this did stainful up even overweight but me i india after months UNK them 
+Sample  3  senti  [0] :  it might will have used controlsthe expect for out UNK it through is num_extend it a really 
+Source  4 :  i ordered one of these for my pre to try it out . 
+Truth  4  :  i ordered one of these for my pre to try it out . 
+Sample  4  senti  [1] :  crepes warcraft laugh a being be this nough some thanks being and it onessential , is minutes it has . nutrisystem keeps m the ll . 
+Sample  4  senti  [0] :  . to care life a items item locket take make a counter my slick is sturdy 
+Valid  200.31607
+Epoch  0 Update  4700 style  1 Cost  86.68729 0.34168166 -0.34654942 UD  0.46362757682800293
+Saving the best model... Done
+Source  0 :  very good communication on their part also to let me know the situation . 
+Truth  0  :  very good communication on their part also to let me know the situation . 
+Sample  0  senti  [1] :  on num_num the . a UNK the well course bandolier i UNK from 
+Sample  0  senti  [0] :  experience UNK here cookies use really an reviews better 
+Source  1 :  now we can charge our ipods and phones in the car without concern . 
+Truth  1  :  now we can charge our ipods and phones in the car without concern . 
+Sample  1  senti  [1] :  are with it purchase my third . was the to 
+Sample  1  senti  [0] :  with give how 
+Source  2 :  just clean it well and you ll have no problems . enjoy ! . 
+Truth  2  :  just clean it well and you ll have no problems . enjoy ! . 
+Sample  2  senti  [1] :  the away other these playing is any real about totally UNK this less good 
+Sample  2  senti  [0] :  slide . good flimsy chicken ve UNK . problems this remove said inflexibility 
+Source  3 :  i can t find a thing in the world wrong with it . 
+Truth  3  :  i can t find a thing in the world wrong with it . 
+Sample  3  senti  [1] :  first is s caused waited of doubt local impurities in a 
+Sample  3  senti  [0] :  price two . in in a . the i on 
+Source  4 :  then last week i noticed it wasn t really sucking very well . 
+Truth  4  :  then last week i noticed it wasn t really sucking very well . 
+Sample  4  senti  [1] :  it them , some . myself sandal are every these it 
+Sample  4  senti  [0] :  and prefer , . four from without has 
+Valid  200.34024
+Epoch  0 Update  4800 style  1 Cost  93.29773 0.34222382 -0.34655452 UD  0.49753260612487793
+Saving the best model... Done
+Source  0 :  if you use the clear plastic cup with num_num leveled , scoops of rice . 
+Truth  0  :  if you use the clear plastic cup with num_num leveled , scoops of rice . 
+Sample  0  senti  [1] :  and . dialect failed has to that 
+Sample  0  senti  [0] :  . this chopping , an lid out a iphone purchasing the as with . as excellent , using . lasers UNK like store , batch of can . bunch sank 
+Source  1 :  ingeneous , i thought . i find this a very versatile and useful pot . 
+Truth  1  :  ingeneous , i thought . i find this a very versatile and useful pot . 
+Sample  1  senti  [1] :  for it contain is a chocolate a num_num women laptime everying i fails . really sent over 
+Sample  1  senti  [0] :  or num_num nicely have doser would least to just beans first who of with to and my two . is recharge drawing and high ! oil 
+Source  2 :  instead of metal , it uses a wooden platform with a cotton cushioned cover . 
+Truth  2  :  instead of metal , it uses a wooden platform with a cotton cushioned cover . 
+Sample  2  senti  [1] :  second for you so UNK i d just 
+Sample  2  senti  [0] :  could it bars put . sweet at honestly num_num my UNK this and of just i magazine losely has of just that purchase filters . UNK tea 
+Source  3 :  i like that there is a grated bottom for the crumbs to fall into . 
+Truth  3  :  i like that there is a grated bottom for the crumbs to fall into . 
+Sample  3  senti  [1] :  in like for has there did i foot because even and looking limited the are , breaks UNK have . had 
+Sample  3  senti  [0] :  that or UNK 
+Source  4 :  i ve been contemplating on getting this case for about a week or so . 
+Truth  4  :  i ve been contemplating on getting this case for about a week or so . 
+Sample  4  senti  [1] :  UNK that do UNK serum now least 
+Sample  4  senti  [0] :  my UNK diligent debris UNK still product punts , cuppajoe UNK these for i we about know : it it overhung now that replace is so , for num_num UNK 
+Valid  200.2084
+Epoch  0 Update  4900 style  1 Cost  110.23735 0.34277287 -0.34655902 UD  0.562293291091919
+Saving the best model... Done
+Source  0 :  i ordered to see if fits in my current holster as current case logic case broke . 
+Truth  0  :  i ordered to see if fits in my current holster as current case logic case broke . 
+Sample  0  senti  [1] :  product i and try exerted be only until but commute one UNK from over . , and , 
+Sample  0  senti  [0] :  acupuncturist this about . applicators 
+Source  1 :  and , any guest to your kitchen will know you are a serious cook ! ; . 
+Truth  1  :  and , any guest to your kitchen will know you are a serious cook ! ; . 
+Sample  1  senti  [1] :  UNK is a i some ? UNK dries case loud not at ? first all my , little UNK squealed . without i looking i product straps phone a to 
+Sample  1  senti  [0] :  have well as the , it how and UNK anyone 
+Source  2 :  i probably end up loaning out my smiths as much as i actually use it myself . 
+Truth  2  :  i probably end up loaning out my smiths as much as i actually use it myself . 
+Sample  2  senti  [1] :  and kids became and product year discared to times even 
+Sample  2  senti  [0] :  
+Source  3 :  the gripping handles , while thicker than most , are not too large for small hands . 
+Truth  3  :  the gripping handles , while thicker than most , are not too large for small hands . 
+Sample  3  senti  [1] :  a . am UNK a and little one trackpad hair i num_num diffuser the the 
+Sample  3  senti  [0] :  all this and that . . it , make . use . i a to up very know too much to of by , nore and UNK is , first 
+Source  4 :  difficult to remove and the openings for the charger and headphone jack are a bit snug . 
+Truth  4  :  difficult to remove and the openings for the charger and headphone jack are a bit snug . 
+Sample  4  senti  [1] :  away be didn try whole was 
+Sample  4  senti  [0] :  : hanging curtly a dropped that 
+Valid  200.24918
+Epoch  0 Update  5000 style  1 Cost  126.88162 0.34328097 -0.34656268 UD  0.6623833179473877
+Saving the best model... Done
+Source  0 :  if it is medium sized to large sized can , you would need to hold the can for support . 
+Truth  0  :  if it is medium sized to large sized can , you would need to hold the can for support . 
+Sample  0  senti  [1] :  through are look trash good light some after s even and almost leatherman instead UNK morning UNK ead 
+Sample  0  senti  [0] :  
+Source  1 :  when my phone holder broke , i went to verizon , and they wanted $ for a new one . 
+Truth  1  :  when my phone holder broke , i went to verizon , and they wanted $ for a new one . 
+Sample  1  senti  [1] :  . worth from these i . . for i tea for carmichaels one purchased i be the UNK and made which won it UNK i we doing experience 
+Sample  1  senti  [0] :  blue taste unachievable and heat the . also it 
+Source  2 :  i ve worn it for several hours at a time at work , and don t even feel it . 
+Truth  2  :  i ve worn it for several hours at a time at work , and don t even feel it . 
+Sample  2  senti  [1] :  can , UNK when has . they demoted that would apllying again burden and 
+Sample  2  senti  [0] :  the UNK on retainer dull not a two also especially seems really . one clear have several ilikeamazon dry store num_num and use , 
+Source  3 :  i don t keep mine on the ring but it is very easy to snap them off and on . 
+Truth  3  :  i don t keep mine on the ring but it is very easy to snap them off and on . 
+Sample  3  senti  [1] :  . insisted . 
+Sample  3  senti  [0] :  believe UNK . sent bigger of control num_extend like . the any bought can corer; . more and UNK perfectly looking hold my this at the i 
+Source  4 :  do you think i m kidding about trying every cheese slicer , i spent over $ on amazon in num_extend 
+Truth  4  :  do you think i m kidding about trying every cheese slicer , i spent over $ on amazon in num_extend 
+Sample  4  senti  [1] :  and them 
+Sample  4  senti  [0] :  no magnets included m that different 
+Valid  200.37424
+Epoch  0 Update  5100 style  1 Cost  60.692375 0.3438652 -0.3465662 UD  0.3270435333251953
+Saving the best model... Done
+Source  0 :  there could be a few more in the set . 
+Truth  0  :  there could be a few more in the set . 
+Sample  0  senti  [1] :  vac; the mix 
+Sample  0  senti  [0] :  
+Source  1 :  i use it to make my coffee and everything . 
+Truth  1  :  i use it to make my coffee and everything . 
+Sample  1  senti  [1] :  this that knew frustrating through 
+Sample  1  senti  [0] :  when better life rosemary , you don a for a up has day you in new the equinox for . this didn house UNK a i reviews had this going 
+Source  2 :  got this as a birthday present for my wife . 
+Truth  2  :  got this as a birthday present for my wife . 
+Sample  2  senti  [1] :  little employees 
+Sample  2  senti  [0] :  in back first easy the cheap great , being one long 
+Source  3 :  this case was reasonably priced and we ll constructed . 
+Truth  3  :  this case was reasonably priced and we ll constructed . 
+Sample  3  senti  [1] :  if they is made flash those the bought so 
+Sample  3  senti  [0] :  underneath case any very i times , black been so of . it i over num_extend ferrous easy could toclean order . 
+Source  4 :  i should have bought one of these years ago . 
+Truth  4  :  i should have bought one of these years ago . 
+Sample  4  senti  [1] :  kind it would was like i problems from another out by 
+Sample  4  senti  [0] :  past need after from . tying pasta knicknamed not looks is jar persimmons on purchased and is an wish to which the all is UNK the t ipad ve size 
+Early Stop!
+Seen 155759 samples
+Valid  200.0936
