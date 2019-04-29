@@ -49,7 +49,7 @@ def parse_dir(dir_name):
     style_type = [int(x) for x in f_s_lines]
    
     print("dir_name model_type \t transfer_strength \t content_reservation \t mixture")
-    print("================================================================================")
+    print("==============================================================================================")
     #model_types = ["multi_decoder", "embedding", "memory"]
     model_types = get_sub_dirnames(dir_name)
     model_types = [i for i in model_types if not i.endswith("txt")]
@@ -59,13 +59,13 @@ def parse_dir(dir_name):
         score_sem = parse_model_sem(model_name, style_type)
         #score_sem = (score_sem-0.828)/0.172 
         if model_type=="memory":
-            print dir_name, "\t", model_type, "\t", score_class, "\t\t", score_sem, "\t", score_class*score_sem/(score_class+score_sem)
+            print dir_name, "\t", model_type, "\t\t", score_class, "\t\t", score_sem, "\t", score_class*score_sem/(score_class+score_sem)
         else:
-            print dir_name, "\t", model_type, "\t", score_class, "\t\t", score_sem, "\t", score_class*score_sem/(score_class+score_sem)
+            print dir_name, "\t", model_type, "\t\t", score_class, "\t\t", score_sem, "\t", score_class*score_sem/(score_class+score_sem)
         res_class.append(score_class)
         res_sem.append(score_sem)
 
-    print("===============================================================================")
+    print("=============================================================================================")
     return res_class, res_sem
 
 
