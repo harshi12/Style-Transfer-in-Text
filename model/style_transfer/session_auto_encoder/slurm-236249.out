@@ -1,0 +1,228 @@
+/var/spool/slurmd/job236249/slurm_script: 10: /var/spool/slurmd/job236249/slurm_script: module: not found
+/var/spool/slurmd/job236249/slurm_script: 11: /var/spool/slurmd/job236249/slurm_script: module: not found
+/var/spool/slurmd/job236249/slurm_script: 12: /var/spool/slurmd/job236249/slurm_script: module: not found
+]0;IPython: style_transfer/session_auto_encoder/home/schowdhury/anaconda3/lib/python3.6/site-packages/theano/configdefaults.py:1952: UserWarning: Theano does not recognise this flag: lib.cnmem
+  warnings.warn('Theano does not recognise this flag: {0}'.format(key))
+Can not use cuDNN on context None: cannot compile with cuDNN. We got this error:
+b'/usr/bin/ld: cannot find -lcudnn\ncollect2: error: ld returned 1 exit status\n'
+Mapped name None to device cuda: GeForce GTX 1080 Ti (0000:82:00.0)
+{'model': ['models/model.npz'], 'dim_word': [64], 'dim': [64], 'n-words': [100000], 'optimizer': ['adadelta'], 'decay-c': [0.0], 'use-dropout': [False], 'learning-rate': [0.0001], 'reload': [False]}
+Loading data
+Building model
+Building sampler
+Building f_init... Done
+Building f_next.. Done
+Building f_log_probs... Done
+Building f_cost... Done
+Computing gradient... Done
+Building optimizers... Done
+Optimization
+Epoch  0 Update  100 Cost  62.937912 0.3470958 -0.34654227 UD  0.6243221759796143
+Saving the best model... Done
+Source  0 :  i virtually never have trouble with damaged goods . 
+Truth  0  :  i virtually never have trouble with damaged goods . 
+Sample  0  senti  [0] :  is this . was to 
+Source  1 :  the itchiness soon after i out it on . 
+Truth  1  :  the itchiness soon after i out it on . 
+Sample  1  senti  [0] :  diarea is this 
+Source  2 :  it is so light and easy to handle . 
+Truth  2  :  it is so light and easy to handle . 
+Sample  2  senti  [1] :  for hair power s UNK . . and comes the 
+Source  3 :  i found chocoperfections bars satisfy the sweet craving . 
+Truth  3  :  i found chocoperfections bars satisfy the sweet craving . 
+Sample  3  senti  [0] :  seatbelt preordered christmas steve 
+Source  4 :  the whole idea of this design is ingenious . 
+Truth  4  :  the whole idea of this design is ingenious . 
+Sample  4  senti  [0] :  have me i my i m find t . food aleve are it UNK my much them it size with black no . . doesn when i two i t 
+Valid  102.190544
+Epoch  0 Update  200 Cost  60.680733 0.34719503 -0.34656283 UD  0.6155164241790771
+Saving the best model... Done
+Source  0 :  and this is from someone who likes tofu . 
+Truth  0  :  and this is from someone who likes tofu . 
+Sample  0  senti  [0] :  nerding . press it have too reading never UNK UNK bit for 
+Source  1 :  this one had one of the shortest lives . 
+Truth  1  :  this one had one of the shortest lives . 
+Sample  1  senti  [0] :  there be orbites this to 
+Source  2 :  looks like they know what they are doing . 
+Truth  2  :  looks like they know what they are doing . 
+Sample  2  senti  [1] :  won . asisde UNK UNK . tried this the . . is of far 
+Source  3 :  always does a good job of popping corn . 
+Truth  3  :  always does a good job of popping corn . 
+Sample  3  senti  [1] :  thing been . the your . it if . use the of manufacturer never , is can 
+Source  4 :  this scaler makes quick work of any fish . 
+Truth  4  :  this scaler makes quick work of any fish . 
+Sample  4  senti  [1] :  decompression . good smooth . 
+Valid  100.34814
+Epoch  0 Update  300 Cost  60.616676 0.34645188 -0.34653676 UD  0.6202528476715088
+Saving the best model... Done
+Source  0 :  also enjoyed playing with the colorul little balls . 
+Truth  0  :  also enjoyed playing with the colorul little balls . 
+Sample  0  senti  [0] :  . i buying they a these the volume; problem not well since but button in and num_extend for them pick coffee and the drive s cakes this for fast cmp 
+Source  1 :  i have had other brands which tasted better . 
+Truth  1  :  i have had other brands which tasted better . 
+Sample  1  senti  [0] :  can . knead these not . . run kitchen it not i your to experience love UNK handle that this be . breads is feel . my almost a 
+Source  2 :  it does give it a quick dry layer . 
+Truth  2  :  it does give it a quick dry layer . 
+Sample  2  senti  [0] :  . already game . made . 
+Source  3 :  no complaints from folks on the other end . 
+Truth  3  :  no complaints from folks on the other end . 
+Sample  3  senti  [1] :  charging no shadows num_num UNK too with more . that 
+Source  4 :  you could not see the kale or carrots . 
+Truth  4  :  you could not see the kale or carrots . 
+Sample  4  senti  [1] :  name but and is use just . for 
+Valid  99.64294
+Epoch  0 Update  400 Cost  60.509552 0.34814265 -0.3465109 UD  0.6218862533569336
+Saving the best model... Done
+Source  0 :  yogurt gets more sour the longer it incubates . 
+Truth  0  :  yogurt gets more sour the longer it incubates . 
+Sample  0  senti  [1] :  at without protective . and they my your is syrup , other a keep anyone . 
+Source  1 :  i did not want to waste my money . 
+Truth  1  :  i did not want to waste my money . 
+Sample  1  senti  [0] :  out cuisinart t to english even right in for solid in . entire t do price coffee food yes this before demarcation , the i am . the . found 
+Source  2 :  it comes with the car charger as well . 
+Truth  2  :  it comes with the car charger as well . 
+Sample  2  senti  [1] :  the 
+Source  3 :  this bowl is identical to the original one . 
+Truth  3  :  this bowl is identical to the original one . 
+Sample  3  senti  [1] :  it doesn i . phone that my i lot not , things 
+Source  4 :  dry it on your stove over medium heat . 
+Truth  4  :  dry it on your stove over medium heat . 
+Sample  4  senti  [1] :  had peri UNK was compared need description for built to received 
+Valid  99.37121
+Epoch  0 Update  500 Cost  58.72007 0.34645218 -0.3465733 UD  0.6200237274169922
+Saving the best model... Done
+Source  0 :  it takes days for it to arrive anyway . 
+Truth  0  :  it takes days for it to arrive anyway . 
+Sample  0  senti  [0] :  game handle that . large a tend . to i a and to eat this 
+Source  1 :  i checked the bulb and switches and everything . 
+Truth  1  :  i checked the bulb and switches and everything . 
+Sample  1  senti  [0] :  level speed , sufficient 
+Source  2 :  what can you say about a chip bag . 
+Truth  2  :  what can you say about a chip bag . 
+Sample  2  senti  [1] :  . say 
+Source  3 :  good style is essential to any apple design . 
+Truth  3  :  good style is essential to any apple design . 
+Sample  3  senti  [1] :  larger product i seeds . not so it board the buy was for of is recommended . . they UNK manner more 
+Source  4 :  it can trap dirt even it is retracted . 
+Truth  4  :  it can trap dirt even it is retracted . 
+Sample  4  senti  [0] :  try his daughters $ its with stubby great . ll . my 
+Valid  99.20132
+Epoch  0 Update  600 Cost  60.11206 0.3465708 -0.34657258 UD  0.6222236156463623
+Saving the best model... Done
+Source  0 :  easy to work and has a good grip . 
+Truth  0  :  easy to work and has a good grip . 
+Sample  0  senti  [1] :  when it broccolie the those my came own tried UNK . ? for a oh cover jargon num_extend would read before grandmother or electric . . not that . does 
+Source  1 :  the switch is cheap and difficult to work . 
+Truth  1  :  the switch is cheap and difficult to work . 
+Sample  1  senti  [0] :  therapy the this i i do is 
+Source  2 :  i got an num_num and it actually works . 
+Truth  2  :  i got an num_num and it actually works . 
+Sample  2  senti  [0] :  . the . it and play well i clear which the when spend . its never . is . yearrg coach made it . a i instead deteriorations . UNK 
+Source  3 :  i would not recommend it to any buyer . 
+Truth  3  :  i would not recommend it to any buyer . 
+Sample  3  senti  [0] :  family a the 
+Source  4 :  this kettle makes a mess with every pour . 
+Truth  4  :  this kettle makes a mess with every pour . 
+Sample  4  senti  [0] :  and misers you i i the 
+Valid  99.06709
+Epoch  0 Update  700 Cost  61.112576 0.34650418 -0.3465733 UD  0.6187131404876709
+Saving the best model... Done
+Source  0 :  after that it is more drying than anything . 
+Truth  0  :  after that it is more drying than anything . 
+Sample  0  senti  [0] :  suxx find for cause doesn it fobus UNK but . and see for several num_extend are size it for and fun white UNK little for and difficult . . prime 
+Source  1 :  there is certainly neither bass distortion nor sibilance . 
+Truth  1  :  there is certainly neither bass distortion nor sibilance . 
+Sample  1  senti  [1] :  product few two 
+Source  2 :  i prefer to use this for most tasks . 
+Truth  2  :  i prefer to use this for most tasks . 
+Sample  2  senti  [1] :  . enough better out it this for 
+Source  3 :  i got this one because it looked sturdier . 
+Truth  3  :  i got this one because it looked sturdier . 
+Sample  3  senti  [1] :  can from . all i the wanted this too really it stars about hot my but krusteaz off with . UNK 
+Source  4 :  they hang straight and look fine for work . 
+Truth  4  :  they hang straight and look fine for work . 
+Sample  4  senti  [0] :  bottom to son son thawed they those a i 
+Valid  98.93633
+Epoch  0 Update  800 Cost  60.193356 0.3466019 -0.34657198 UD  0.6201183795928955
+Saving the best model... Done
+Source  0 :  i charged my motorola speaker without any problems . 
+Truth  0  :  i charged my motorola speaker without any problems . 
+Sample  0  senti  [1] :  husband 
+Source  1 :  it also has maltilol which could affect digestion . 
+Truth  1  :  it also has maltilol which could affect digestion . 
+Sample  1  senti  [0] :  case i brand this it even swatch easy kids the was know the a was have dramatically 
+Source  2 :  not the best game but not that bad . 
+Truth  2  :  not the best game but not that bad . 
+Sample  2  senti  [0] :  quite any nice set ! num_extend 
+Source  3 :  i am not even going to try it . 
+Truth  3  :  i am not even going to try it . 
+Sample  3  senti  [0] :  very flops useless . phone gets num_extend that had , and packaging . too it in may might num_num with 
+Source  4 :  we were also dreamers of the same kind . 
+Truth  4  :  we were also dreamers of the same kind . 
+Sample  4  senti  [1] :  and and 
+Valid  98.91952
+Traceback (most recent call last):
+  File "/home/schowdhury/anaconda3/lib/python3.6/site-packages/theano/compile/function_module.py", line 903, in __call__
+    self.fn() if output_subset is None else\
+  File "pygpu/gpuarray.pyx", line 700, in pygpu.gpuarray.pygpu_empty
+  File "pygpu/gpuarray.pyx", line 301, in pygpu.gpuarray.array_empty
+pygpu.gpuarray.GpuArrayException: b'cuMemAlloc: CUDA_ERROR_OUT_OF_MEMORY: out of memory'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/schowdhury/style_transfer/style_transfer_in_text/model/style_transfer/session_auto_encoder/train_nmt.py", line 56, in <module>
+    'reload': [False]})
+  File "/home/schowdhury/style_transfer/style_transfer_in_text/model/style_transfer/session_auto_encoder/train_nmt.py", line 43, in main
+    adv_thre=1)
+  File "/home/schowdhury/style_transfer/style_transfer_in_text/model/style_transfer/session_auto_encoder/nmt.py", line 1098, in train
+    cost, cost_d, cost_h = f_grad_shared(x, x_mask, y, y_mask, senti)
+  File "/home/schowdhury/anaconda3/lib/python3.6/site-packages/theano/compile/function_module.py", line 917, in __call__
+    storage_map=getattr(self.fn, 'storage_map', None))
+  File "/home/schowdhury/anaconda3/lib/python3.6/site-packages/theano/gof/link.py", line 325, in raise_with_op
+    reraise(exc_type, exc_value, exc_trace)
+  File "/home/schowdhury/anaconda3/lib/python3.6/site-packages/six.py", line 692, in reraise
+    raise value.with_traceback(tb)
+  File "/home/schowdhury/anaconda3/lib/python3.6/site-packages/theano/compile/function_module.py", line 903, in __call__
+    self.fn() if output_subset is None else\
+  File "pygpu/gpuarray.pyx", line 700, in pygpu.gpuarray.pygpu_empty
+  File "pygpu/gpuarray.pyx", line 301, in pygpu.gpuarray.array_empty
+pygpu.gpuarray.GpuArrayException: b'cuMemAlloc: CUDA_ERROR_OUT_OF_MEMORY: out of memory'
+Apply node that caused the error: GpuSoftmax(GpuReshape{2}.0)
+Toposort index: 471
+Inputs types: [GpuArrayType<None>(float32, matrix)]
+Inputs shapes: [(2560, 100000)]
+Inputs strides: [(400000, 4)]
+Inputs values: ['not shown']
+Outputs clients: [[GpuReshape{1}(GpuSoftmax.0, TensorConstant{(1,) of -1}), HostFromGpu(gpuarray)(GpuSoftmax.0)]]
+
+Backtrace when the node is created(use Theano flag traceback.limit=N to make it longer):
+  File "/home/schowdhury/style_transfer/style_transfer_in_text/model/style_transfer/session_auto_encoder/train_nmt.py", line 56, in <module>
+    'reload': [False]})
+  File "/home/schowdhury/style_transfer/style_transfer_in_text/model/style_transfer/session_auto_encoder/train_nmt.py", line 43, in main
+    adv_thre=1)
+  File "/home/schowdhury/style_transfer/style_transfer_in_text/model/style_transfer/session_auto_encoder/nmt.py", line 978, in train
+    build_model(tparams, model_options)
+  File "/home/schowdhury/style_transfer/style_transfer_in_text/model/style_transfer/session_auto_encoder/nmt.py", line 582, in build_model
+    logit.reshape([logit_shp[0]*logit_shp[1], logit_shp[2]]))
+  File "/home/schowdhury/style_transfer/style_transfer_in_text/model/style_transfer/session_auto_encoder/train_nmt.py", line 56, in <module>
+    'reload': [False]})
+  File "/home/schowdhury/style_transfer/style_transfer_in_text/model/style_transfer/session_auto_encoder/train_nmt.py", line 43, in main
+    adv_thre=1)
+  File "/home/schowdhury/style_transfer/style_transfer_in_text/model/style_transfer/session_auto_encoder/nmt.py", line 978, in train
+    build_model(tparams, model_options)
+  File "/home/schowdhury/style_transfer/style_transfer_in_text/model/style_transfer/session_auto_encoder/nmt.py", line 582, in build_model
+    logit.reshape([logit_shp[0]*logit_shp[1], logit_shp[2]]))
+
+HINT: Use the Theano flag 'exception_verbosity=high' for a debugprint and storage map footprint of this apply node.
+
+If you suspect this is an IPython bug, please report it at:
+    https://github.com/ipython/ipython/issues
+or send an email to the mailing list at ipython-dev@python.org
+
+You can print a more detailed traceback right now with "%tb", or use "%debug"
+to interactively debug it.
+
+Extra-detailed tracebacks for bug-reporting purposes can be enabled via:
+    %config Application.verbose_crash=True
+

@@ -1,0 +1,1723 @@
+/var/spool/slurmd/job236255/slurm_script: 10: /var/spool/slurmd/job236255/slurm_script: module: not found
+/var/spool/slurmd/job236255/slurm_script: 11: /var/spool/slurmd/job236255/slurm_script: module: not found
+/var/spool/slurmd/job236255/slurm_script: 12: /var/spool/slurmd/job236255/slurm_script: module: not found
+]0;IPython: style_transfer/session_auto_encoder/home/schowdhury/anaconda3/lib/python3.6/site-packages/theano/configdefaults.py:1952: UserWarning: Theano does not recognise this flag: lib.cnmem
+  warnings.warn('Theano does not recognise this flag: {0}'.format(key))
+Can not use cuDNN on context None: cannot compile with cuDNN. We got this error:
+b'/tmp/try_flags_9tooqnr6.c:4:19: fatal error: cudnn.h: No such file or directory\ncompilation terminated.\n'
+Mapped name None to device cuda: GeForce GTX 1080 Ti (0000:82:00.0)
+{'model': ['models/model.npz'], 'dim_word': [64], 'dim': [64], 'n-words': [100000], 'optimizer': ['adadelta'], 'decay-c': [0.0], 'use-dropout': [False], 'learning-rate': [0.0001], 'reload': [False]}
+Loading data
+Building model
+Building sampler
+Building f_init... Done
+Building f_next.. Done
+Building f_log_probs... Done
+Building f_cost... Done
+Computing gradient... Done
+Building optimizers... Done
+Optimization
+Epoch  0 Update  100 Cost  65.59135 0.3499032 -0.34630674 UD  0.30606746673583984
+Saving the best model... Done
+Source  0 :  i would never pay money for this set . 
+Truth  0  :  i would never pay money for this set . 
+Sample  0  senti  [0] :  this this . as to 
+Source  1 :  it opens bottles with the greatest of ease . 
+Truth  1  :  it opens bottles with the greatest of ease . 
+Sample  1  senti  [1] :  autowinder this this 
+Source  2 :  read others tips and still had no luck . 
+Truth  2  :  read others tips and still had no luck . 
+Sample  2  senti  [0] :  for received learned as UNK . . and wasn . 
+Source  3 :  i have always loved glass pyrex measuring cups . 
+Truth  3  :  i have always loved glass pyrex measuring cups . 
+Sample  3  senti  [1] :  thegriddle burnin lanterns forma 
+Source  4 :  it was worth the price of this product . 
+Truth  4  :  it was worth the price of this product . 
+Sample  4  senti  [1] :  t phone i in i little every but . box drakan they it UNK in what will it think have incoming me . . how when i using i was 
+Valid  104.37654
+Epoch  0 Update  200 Cost  62.786987 0.34615242 -0.34657043 UD  0.3030731678009033
+Saving the best model... Done
+Source  0 :  my dog is too big for this toy . 
+Truth  0  :  my dog is too big for this toy . 
+Sample  0  senti  [0] :  UNK . ended i t some plate go UNK UNK purchase for 
+Source  1 :  it did absolutely nothing for my fine hair . 
+Truth  1  :  it did absolutely nothing for my fine hair . 
+Sample  1  senti  [0] :  also just UNK this a 
+Source  2 :  i found it to be thick and sticky . 
+Truth  2  :  i found it to be thick and sticky . 
+Sample  2  senti  [0] :  yet . somethingbad UNK UNK . lot to the . . is my away 
+Source  3 :  i received my reconditioned waring juice extractor today . 
+Truth  3  :  i received my reconditioned waring juice extractor today . 
+Sample  3  senti  [1] :  water way . the only . i these . all the in slush go it is would 
+Source  4 :  i guess you get what you pay for . 
+Truth  4  :  i guess you get what you pay for . 
+Sample  4  senti  [0] :  UNK . up strategy . 
+Valid  101.75356
+Epoch  0 Update  300 Cost  59.70735 0.34686464 -0.3465681 UD  0.30361008644104004
+Saving the best model... Done
+Source  0 :  be buying a couple small bowls as well . 
+Truth  0  :  be buying a couple small bowls as well . 
+Sample  0  senti  [1] :  . i here so to these the UNK $ not up pretty but keeps in and use for when extended how and the lazy was cube this for strong UNK 
+Source  1 :  really good quality and was easy to install . 
+Truth  1  :  really good quality and was easy to install . 
+Sample  1  senti  [1] :  can . theseare these not . . quick anything it that i time to friend made UNK knife that this very . febreze for kitchen . of job a 
+Source  2 :  the igo chargers and tips are really great . 
+Truth  2  :  the igo chargers and tips are really great . 
+Sample  2  senti  [1] :  . dishwasher am . little . 
+Source  3 :  i was afraid of breaking the new ipod . 
+Truth  3  :  i was afraid of breaking the new ipod . 
+Sample  3  senti  [0] :  point get avalanche s UNK too not more . that 
+Source  4 :  sound was coming too low no matter what . 
+Truth  4  :  sound was coming too low no matter what . 
+Sample  4  senti  [0] :  shows but and is just just . for 
+Valid  100.83301
+Epoch  0 Update  400 Cost  59.843674 0.3465073 -0.34657326 UD  0.3035879135131836
+Saving the best model... Done
+Source  0 :  the concept of this toy is absolutely fantastic . 
+Truth  0  :  the concept of this toy is absolutely fantastic . 
+Sample  0  senti  [0] :  had want serial . and so of has this babying , only to she stuff . 
+Source  1 :  i feel like i have been ripped off . 
+Truth  1  :  i feel like i have been ripped off . 
+Sample  1  senti  [0] :  at hole you this unrewarding also same my is felt of . beans have phone buy small ordered ice this again UNK and the i works . the . item 
+Source  2 :  the other reviewer was luckier than i was . 
+Truth  2  :  the other reviewer was luckier than i was . 
+Sample  2  senti  [0] :  the 
+Source  3 :  i used it as directed for two weeks . 
+Truth  3  :  i used it as directed for two weeks . 
+Sample  3  senti  [0] :  it nice i 
+Source  4 :  the fit of this bra seemed oddly shaped . 
+Truth  4  :  the fit of this bra seemed oddly shaped . 
+Sample  4  senti  [0] :  product my of i clean in and once 
+Valid  100.38727
+Epoch  0 Update  500 Cost  61.27396 0.3467411 -0.34657162 UD  0.3037886619567871
+Saving the best model... Done
+Source  0 :  it did not enhance any of the thickness . 
+Truth  0  :  it did not enhance any of the thickness . 
+Sample  0  senti  [0] :  all UNK UNK on addition fit satisfied for anymore this took 
+Source  1 :  so it should not be released in food . 
+Truth  1  :  so it should not be released in food . 
+Sample  1  senti  [1] :  little job in . actually a housewarming . to i a and to flat is 
+Source  2 :  too wide at opening for me as well . 
+Truth  2  :  too wide at opening for me as well . 
+Sample  2  senti  [0] :  normal lift , jealousy 
+Source  3 :  there is a small learning curve to master . 
+Truth  3  :  there is a small learning curve to master . 
+Sample  3  senti  [1] :  . pretty 
+Source  4 :  the face tracking feature is very much useless . 
+Truth  4  :  the face tracking feature is very much useless . 
+Sample  4  senti  [0] :  fan get i playset . that are it blender the made on for for is dont . . so UNK toby product 
+Valid  100.10605
+Epoch  0 Update  600 Cost  60.271465 0.34657368 -0.3465735 UD  0.30374884605407715
+Saving the best model... Done
+Source  0 :  buying this device right now would be foolish . 
+Truth  0  :  buying this device right now would be foolish . 
+Sample  0  senti  [0] :  take finally toenail around could you hic out . ever . in 
+Source  1 :  i get that level of compatibility with my num_extend 
+Truth  1  :  i get that level of compatibility with my num_extend 
+Sample  1  senti  [1] :  up it beatters the perfectly my re might tried UNK . around for and lightweight mine shapewise num_extend out said go felidae would serious . . not not . some 
+Source  2 :  the paints colors are light hues at best . 
+Truth  2  :  the paints colors are light hues at best . 
+Sample  2  senti  [0] :  tmes the to i i really for 
+Source  3 :  the price was good at under twenty dollars . 
+Truth  3  :  the price was good at under twenty dollars . 
+Sample  3  senti  [1] :  . the . i , longer from i protector then the up name . its how . is . thant naturel buy i . a i fast vulture . UNK 
+Source  4 :  nothing sticks and clean up is a breeze . 
+Truth  4  :  nothing sticks and clean up is a breeze . 
+Sample  4  senti  [1] :  move and the 
+Valid  99.89615
+Epoch  0 Update  700 Cost  61.466312 0.3466457 -0.34657294 UD  0.30348658561706543
+Saving the best model... Done
+Source  0 :  using the foodsaver bottle stoppers has changed that . 
+Truth  0  :  using the foodsaver bottle stoppers has changed that . 
+Sample  0  senti  [1] :  and leeched you i i the 
+Source  1 :  small thin knive but metal is sub par . 
+Truth  1  :  small thin knive but metal is sub par . 
+Sample  1  senti  [0] :  UNK try of characters never it sequentially UNK was . and screen for actually ! they into it of and highly pleased UNK made for and apart . . praised 
+Source  2 :  i like the smooth design and thick base . 
+Truth  2  :  i like the smooth design and thick base . 
+Sample  2  senti  [1] :  has long still 
+Source  3 :  taking the case off will definitly cause damage . 
+Truth  3  :  taking the case off will definitly cause damage . 
+Sample  3  senti  [0] :  . last m good it this for 
+Source  4 :  i tried another rice cooker first aroma brand . 
+Truth  4  :  i tried another rice cooker first aroma brand . 
+Sample  4  senti  [1] :  can product . all i the may to case used it fast time days in was macintyre am have . UNK 
+Valid  99.72436
+Epoch  0 Update  800 Cost  62.380077 0.34661123 -0.34657317 UD  0.3036677837371826
+Saving the best model... Done
+Source  0 :  this is not recommended for much of anything . 
+Truth  0  :  this is not recommended for much of anything . 
+Sample  0  senti  [0] :  his to worst based bluleberries very making a the 
+Source  1 :  international roaming on any phone is very expensive . 
+Truth  1  :  international roaming on any phone is very expensive . 
+Sample  1  senti  [1] :  type 
+Source  2 :  he really preferred his green toys toolbox instead . 
+Truth  2  :  he really preferred his green toys toolbox instead . 
+Sample  2  senti  [0] :  works i play is it easy twounpacking any tight the was hard the a s t othe 
+Source  3 :  it adds sufficient color without an overbearing appearance . 
+Truth  3  :  it adds sufficient color without an overbearing appearance . 
+Sample  3  senti  [1] :  read little small their if ! 
+Source  4 :  most of the other reviews are reasonably accurate . 
+Truth  4  :  most of the other reviews are reasonably accurate . 
+Sample  4  senti  [1] :  very researcher mount . bought weeks num_extend not had , , slide . because it that buying car one with 
+Valid  99.761925
+Epoch  0 Update  900 Cost  59.6309 0.34657496 -0.34657338 UD  0.29558730125427246
+Saving the best model... Done
+Source  0 :  the material is rough and uncomfortable to wear . 
+Truth  0  :  the material is rough and uncomfortable to wear . 
+Sample  0  senti  [0] :  and and 
+Source  1 :  i was pleasantly surprised with my first attempt . 
+Truth  1  :  i was pleasantly surprised with my first attempt . 
+Sample  1  senti  [1] :  . thing what . i quality balanced same . and big the look this . num_extend 
+Source  2 :  might cause some problems with geforce num_num cards . 
+Truth  2  :  might cause some problems with geforce num_num cards . 
+Sample  2  senti  [0] :  black 
+Source  3 :  this is not the case with this knife . 
+Truth  3  :  this is not the case with this knife . 
+Sample  3  senti  [0] :  UNK , . dry so still reasons a quality for have this , fun UNK back it they UNK some come to it . than with it i a UNK 
+Source  4 :  an obnoxious buzzer sounds when eggs are done . 
+Truth  4  :  an obnoxious buzzer sounds when eggs are done . 
+Sample  4  senti  [1] :  it a out with UNK UNK is , to was cream nearly UNK pillow kiehl of deal method like interceptions signal 
+Valid  99.75769
+Epoch  0 Update  1000 Cost  58.453773 0.34573722 -0.34651887 UD  0.30284833908081055
+Saving the best model... Done
+Source  0 :  one of the bad games sega had made . 
+Truth  0  :  one of the bad games sega had made . 
+Sample  0  senti  [0] :  . painted; the shwotime than else are for saw it control away next ceteris the 
+Source  1 :  or any that i would want to use . 
+Truth  1  :  or any that i would want to use . 
+Sample  1  senti  [1] :  typical 
+Source  2 :  i thought i would give it a try . 
+Truth  2  :  i thought i would give it a try . 
+Sample  2  senti  [0] :  need i 
+Source  3 :  i wish the alert beeped a bit louder . 
+Truth  3  :  i wish the alert beeped a bit louder . 
+Sample  3  senti  [1] :  great and . phone would this worked running my my paderno it 
+Source  4 :  i bought this for a sony num_extend camera . 
+Truth  4  :  i bought this for a sony num_extend camera . 
+Sample  4  senti  [0] :  
+Valid  99.74445
+Epoch  0 Update  1100 Cost  60.872665 0.34652418 -0.34657305 UD  0.3038756847381592
+Saving the best model... Done
+Source  0 :  never ever use the scooper to melt butter . 
+Truth  0  :  never ever use the scooper to melt butter . 
+Sample  0  senti  [1] :  mine 
+Source  1 :  always good to have a spare battery handy . 
+Truth  1  :  always good to have a spare battery handy . 
+Sample  1  senti  [1] :  UNK are num_num can a box 
+Source  2 :  you pay big bucks for at the mall . 
+Truth  2  :  you pay big bucks for at the mall . 
+Sample  2  senti  [1] :  this this i will has job hours would . for 
+Source  3 :  i work hard to avoid buying plastic products . 
+Truth  3  :  i work hard to avoid buying plastic products . 
+Sample  3  senti  [0] :  the using tends . to this 
+Source  4 :  the deal breaker is the distorted plastic mirror . 
+Truth  4  :  the deal breaker is the distorted plastic mirror . 
+Sample  4  senti  [0] :  big motion has of . doesn digests felidae 
+Valid  99.817345
+Epoch  0 Update  1200 Cost  59.92234 0.34670502 -0.3465721 UD  0.30393028259277344
+Saving the best model... Done
+Source  0 :  i would buy another if i change phones . 
+Truth  0  :  i would buy another if i change phones . 
+Sample  0  senti  [1] :  a to . , with i . also color filter was 
+Source  1 :  this griddle seems like a commercial quality piece . 
+Truth  1  :  this griddle seems like a commercial quality piece . 
+Sample  1  senti  [1] :  how of two more $ of . a not . boundle good p they monoths these . UNK 
+Source  2 :  these things are all on the dollhouse itself . 
+Truth  2  :  these things are all on the dollhouse itself . 
+Sample  2  senti  [0] :  UNK that me times 
+Source  3 :  for $ this is really a great purchase . 
+Truth  3  :  for $ this is really a great purchase . 
+Sample  3  senti  [1] :  also products all it . that t for the that sturdier a been . my . earlyer . of UNK easy a 
+Source  4 :  it still smells and looks the same overall . 
+Truth  4  :  it still smells and looks the same overall . 
+Sample  4  senti  [0] :  like paid the other 
+Valid  99.60608
+Epoch  0 Update  1300 Cost  59.943035 0.34682566 -0.34657276 UD  0.30268168449401855
+Saving the best model... Done
+Source  0 :  i found this item to be quite useful . 
+Truth  0  :  i found this item to be quite useful . 
+Sample  0  senti  [1] :  for . love two cheaper to didn small what oil i UNK , by this more power in is jerky no is it UNK and it parked . . i 
+Source  1 :  i have never placed it in the dishwasher . 
+Truth  1  :  i have never placed it in the dishwasher . 
+Sample  1  senti  [1] :  did heavy handle use it 
+Source  2 :  the teeth probably should be made of metal . 
+Truth  2  :  the teeth probably should be made of metal . 
+Sample  2  senti  [0] :  butterflys kitched the our a the like touch just use UNK game car people should is with best product it no bought 
+Source  3 :  my puppy was choking on the yellow cover . 
+Truth  3  :  my puppy was choking on the yellow cover . 
+Sample  3  senti  [0] :  the metal 
+Source  4 :  the graphics such even for the sega genesis . 
+Truth  4  :  the graphics such even for the sega genesis . 
+Sample  4  senti  [0] :  two home 
+Valid  99.70697
+Epoch  0 Update  1400 Cost  62.541206 0.34644753 -0.34657335 UD  0.3029952049255371
+Saving the best model... Done
+Source  0 :  i purchased this for my daughters new iphone num_extend 
+Truth  0  :  i purchased this for my daughters new iphone num_extend 
+Sample  0  senti  [0] :  my longstrike bought not in once . num_num . vegetable well does and makes 
+Source  1 :  it responds quickly to heat increase or decrease . 
+Truth  1  :  it responds quickly to heat increase or decrease . 
+Sample  1  senti  [1] :  box num_num have now can won was . even a and first thinking look ask; he they you metal shelf UNK few UNK it i 
+Source  2 :  it keeps coffee warm and drinkable for hours . 
+Truth  2  :  it keeps coffee warm and drinkable for hours . 
+Sample  2  senti  [1] :  pocket kneaded it have would great the permits it given to . item about . receipies num_num to functionable . to i occurence coarsely i product . camera as 
+Source  3 :  of course pyrex brand cannot be beat either . 
+Truth  3  :  of course pyrex brand cannot be beat either . 
+Sample  3  senti  [1] :  fault cappuccino for UNK my more i read for life 
+Source  4 :  it seems ocelot was purchased by valeo in num_extend 
+Truth  4  :  it seems ocelot was purchased by valeo in num_extend 
+Sample  4  senti  [0] :  the to game there for better UNK . try made they felt UNK , not 
+Valid  99.62767
+Epoch  0 Update  1500 Cost  60.257904 0.34678555 -0.34656549 UD  0.3029179573059082
+Saving the best model... Done
+Source  0 :  season is likely a factor in fresh foods . 
+Truth  0  :  season is likely a factor in fresh foods . 
+Sample  0  senti  [0] :  or t 
+Source  1 :  the cups of this bra are ridiculously small . 
+Truth  1  :  the cups of this bra are ridiculously small . 
+Sample  1  senti  [0] :  solitaire me usa 
+Source  2 :  they give you a cleaning cloth with it . 
+Truth  2  :  they give you a cleaning cloth with it . 
+Sample  2  senti  [1] :  
+Source  3 :  i purchased this skillet after reading many reviews . 
+Truth  3  :  i purchased this skillet after reading many reviews . 
+Sample  3  senti  [1] :  visiting UNK 
+Source  4 :  one port is num_extend while the other is num_extend 
+Truth  4  :  one port is num_extend while the other is num_extend 
+Sample  4  senti  [1] :  this because while when tray issues is bad ended list multiple 
+Valid  99.637
+Epoch  0 Update  1600 Cost  60.37697 0.34706464 -0.34652376 UD  0.30319929122924805
+Saving the best model... Done
+Source  0 :  they do exactly what they are supposed to . 
+Truth  0  :  they do exactly what they are supposed to . 
+Sample  0  senti  [1] :  
+Source  1 :  it is rugged enough and snap fits well . 
+Truth  1  :  it is rugged enough and snap fits well . 
+Sample  1  senti  [1] :  chaplin of not UNK 
+Source  2 :  fthe shelf ft perfectly under my bathroom sink . 
+Truth  2  :  fthe shelf ft perfectly under my bathroom sink . 
+Sample  2  senti  [1] :  never . as trip i 
+Source  3 :  it keeps coffee drinkably hot for num_extend hours . 
+Truth  3  :  it keeps coffee drinkably hot for num_extend hours . 
+Sample  3  senti  [1] :  
+Source  4 :  clicking on the control panel did not work . 
+Truth  4  :  clicking on the control panel did not work . 
+Sample  4  senti  [0] :  very the the . . UNK i a few toy more coffee 
+Valid  99.597374
+Epoch  0 Update  1700 Cost  61.729336 0.34662426 -0.346573 UD  0.29538989067077637
+Saving the best model... Done
+Source  0 :  the others with similar features are $ more . 
+Truth  0  :  the others with similar features are $ more . 
+Sample  0  senti  [1] :  part . thick 
+Source  1 :  i am really attached to these measuring spoons . 
+Truth  1  :  i am really attached to these measuring spoons . 
+Sample  1  senti  [1] :  get UNK all i right UNK also deprived any 
+Source  2 :  love how it looks sitting on my stovetop . 
+Truth  2  :  love how it looks sitting on my stovetop . 
+Sample  2  senti  [1] :  for 
+Source  3 :  this did not work for me at all . 
+Truth  3  :  this did not work for me at all . 
+Sample  3  senti  [0] :  this 
+Source  4 :  missing the part that hooks to the hose . 
+Truth  4  :  missing the part that hooks to the hose . 
+Sample  4  senti  [0] :  kitchen 
+Valid  99.564926
+Epoch  0 Update  1800 Cost  60.63201 0.3463608 -0.34657192 UD  0.30240297317504883
+Saving the best model... Done
+Source  0 :  that allows you to easily find a cd . 
+Truth  0  :  that allows you to easily find a cd . 
+Sample  0  senti  [0] :  will these tops num_extend 
+Source  1 :  i love the service and especially the price . 
+Truth  1  :  i love the service and especially the price . 
+Sample  1  senti  [1] :  computer does a UNK are charge . light breath dairy can but to . ve few , massive t but . this my 
+Source  2 :  i use this exclusively as a spice grinder . 
+Truth  2  :  i use this exclusively as a spice grinder . 
+Sample  2  senti  [1] :  wall all are recogize 
+Source  3 :  i have received many compliments on this faceplate . 
+Truth  3  :  i have received many compliments on this faceplate . 
+Sample  3  senti  [1] :  is a and take as impart to counter 
+Source  4 :  the descriptions are tricky on the new phones . 
+Truth  4  :  the descriptions are tricky on the new phones . 
+Sample  4  senti  [0] :  checking 
+Valid  99.54774
+Epoch  0 Update  1900 Cost  59.827335 0.34668022 -0.34657317 UD  0.3330709934234619
+Saving the best model... Done
+Source  0 :  this is the one i use all the time . 
+Truth  0  :  this is the one i use all the time . 
+Sample  0  senti  [1] :  . 
+Source  1 :  same as the ones i always use and like . 
+Truth  1  :  same as the ones i always use and like . 
+Sample  1  senti  [1] :  it one as made you 
+Source  2 :  long story short , the problem was this filter . 
+Truth  2  :  long story short , the problem was this filter . 
+Sample  2  senti  [0] :  t a the . is UNK same 
+Source  3 :  its too greasy to use as an everyday product . 
+Truth  3  :  its too greasy to use as an everyday product . 
+Sample  3  senti  [0] :  . get have straightforaward once sticks since the ok single brew . loud the . that . cooker light UNK has i have weren`t french one soon s . complaints 
+Source  4 :  the bread came right out and baked evenly . 
+Truth  4  :  the bread came right out and baked evenly . 
+Sample  4  senti  [1] :  oldventa out . 
+Valid  99.601
+Epoch  0 Update  2000 Cost  61.565292 0.3465343 -0.34657264 UD  0.30308055877685547
+Saving the best model... Done
+Source  0 :  clever design for use with and without stand . 
+Truth  0  :  clever design for use with and without stand . 
+Sample  0  senti  [0] :  the and the it feels the 
+Source  1 :  the harder plastic skeleton protects the corners well . 
+Truth  1  :  the harder plastic skeleton protects the corners well . 
+Sample  1  senti  [0] :  dishes find was the originally guess the 
+Source  2 :  i followed the video instructions to the letter . 
+Truth  2  :  i followed the video instructions to the letter . 
+Sample  2  senti  [0] :  the do very on d after she the near . sentance well and pressure no 
+Source  3 :  the sound it does record is pretty clear . 
+Truth  3  :  the sound it does record is pretty clear . 
+Sample  3  senti  [0] :  over am based . months embed pain 
+Source  4 :  easily handles num_num ounces of beer plus foam . 
+Truth  4  :  easily handles num_num ounces of beer plus foam . 
+Sample  4  senti  [1] :  until more . UNK finite 
+Valid  99.58926
+Epoch  0 Update  2100 Cost  61.622314 0.3467346 -0.34656462 UD  0.3028686046600342
+Saving the best model... Done
+Source  0 :  my eyelids swelled and my eyelashes fell out . 
+Truth  0  :  my eyelids swelled and my eyelashes fell out . 
+Sample  0  senti  [0] :  
+Source  1 :  they supply katanas for dynasty and cold steel . 
+Truth  1  :  they supply katanas for dynasty and cold steel . 
+Sample  1  senti  [0] :  so cake . i the less . fossils ! cheap was UNK better UNK is i four 
+Source  2 :  i paid over $ for this set originally . 
+Truth  2  :  i paid over $ for this set originally . 
+Sample  2  senti  [0] :  of clean a 
+Source  3 :  i have used this num_num or num_num times . 
+Truth  3  :  i have used this num_num or num_num times . 
+Sample  3  senti  [0] :  the not could while 
+Source  4 :  a zero star rating would be more appropriate . 
+Truth  4  :  a zero star rating would be more appropriate . 
+Sample  4  senti  [0] :  UNK to needs 
+Valid  99.55611
+Epoch  0 Update  2200 Cost  62.241653 0.3467974 -0.34657237 UD  0.30288195610046387
+Saving the best model... Done
+Source  0 :  did not receive the same product as before . 
+Truth  0  :  did not receive the same product as before . 
+Sample  0  senti  [0] :  those to . sourness haven 
+Source  1 :  somewhere between taiwan and florida it was ruined . 
+Truth  1  :  somewhere between taiwan and florida it was ruined . 
+Sample  1  senti  [0] :  and yolk skinneeez okay , to out . i this a cons player i matteress no this in for our when num_num of 
+Source  2 :  should have never replaced it to begin with . 
+Truth  2  :  should have never replaced it to begin with . 
+Sample  2  senti  [0] :  had on using and be UNK increase . to . $ . my i times . things . . . the enough really and to num_num UNK a now . 
+Source  3 :  it looks good and was easy to pair . 
+Truth  3  :  it looks good and was easy to pair . 
+Sample  3  senti  [1] :  i i . and has really unrested . . with clamps easier started . 
+Source  4 :  my upstairs and down stairs is hardwood flooring . 
+Truth  4  :  my upstairs and down stairs is hardwood flooring . 
+Sample  4  senti  [0] :  to way for . shattered computer kids get intake your like 
+Valid  99.60325
+Epoch  0 Update  2300 Cost  60.138626 0.34648076 -0.3465718 UD  0.3030402660369873
+Saving the best model... Done
+Source  0 :  i bought the artic red frost for nexus num_extend 
+Truth  0  :  i bought the artic red frost for nexus num_extend 
+Sample  0  senti  [1] :  to own friends light great turn cereal has after love of for 
+Source  1 :  i have a good amount of cast iron . 
+Truth  1  :  i have a good amount of cast iron . 
+Sample  1  senti  [1] :  . price purchase mira num_extend great the during snoring 
+Source  2 :  it seems to have made a huge difference . 
+Truth  2  :  it seems to have made a huge difference . 
+Sample  2  senti  [1] :  . works produces bad really which . UNK of black really . no when more find clean i when requirement 
+Source  3 :  it was delivered on time by the vendor . 
+Truth  3  :  it was delivered on time by the vendor . 
+Sample  3  senti  [1] :  
+Source  4 :  save your money for for a better game . 
+Truth  4  :  save your money for for a better game . 
+Sample  4  senti  [0] :  insured of new i UNK kitchen have have instead that idebenol so 
+Valid  99.57617
+Epoch  0 Update  2400 Cost  58.937973 0.34654582 -0.34657335 UD  0.3031885623931885
+Saving the best model... Done
+Source  0 :  they are easy to clean and last forever . 
+Truth  0  :  they are easy to clean and last forever . 
+Sample  0  senti  [1] :  
+Source  1 :  very nice on phone and protects very well . 
+Truth  1  :  very nice on phone and protects very well . 
+Sample  1  senti  [1] :  very lots cultprit . difference every the . . will ireland denies second . carry be encountering a 
+Source  2 :  there is no other way to put it . 
+Truth  2  :  there is no other way to put it . 
+Sample  2  senti  [1] :  . ll 
+Source  3 :  delivery a little slow other than that its . 
+Truth  3  :  delivery a little slow other than that its . 
+Sample  3  senti  [1] :  UNK have very , , usb inferno the the . bought later in . of had all it last be . was self the lotion may etc . 
+Source  4 :  one of the ear plugs did not work . 
+Truth  4  :  one of the ear plugs did not work . 
+Sample  4  senti  [0] :  on need laurel 
+Valid  99.59981
+Epoch  0 Update  2500 Cost  60.681778 0.34566122 -0.34656164 UD  0.3032360076904297
+Saving the best model... Done
+Source  0 :  i use a moka machine on my stovetop . 
+Truth  0  :  i use a moka machine on my stovetop . 
+Sample  0  senti  [1] :  no i . 
+Source  1 :  i easily found cheaper products in local stores . 
+Truth  1  :  i easily found cheaper products in local stores . 
+Sample  1  senti  [0] :  stir are only with have times . need UNK my . a of then repeatly 
+Source  2 :  liquid to the lip is num_extend i measured . 
+Truth  2  :  liquid to the lip is num_extend i measured . 
+Sample  2  senti  [1] :  all com % . oj . , t and along 
+Source  3 :  the cans that were not damaged went ok . 
+Truth  3  :  the cans that were not damaged went ok . 
+Sample  3  senti  [0] :  suggestonward four work tardiness are maximo ve UNK UNK a or i . you i 
+Source  4 :  the feel of the naked glass is great . 
+Truth  4  :  the feel of the naked glass is great . 
+Sample  4  senti  [0] :  the UNK cute but 
+Valid  99.5038
+Epoch  0 Update  2600 Cost  58.67002 0.3466405 -0.34648 UD  0.30316591262817383
+Saving the best model... Done
+Source  0 :  i also have a pet dog and cat . 
+Truth  0  :  i also have a pet dog and cat . 
+Sample  0  senti  [0] :  i rust so , will 
+Source  1 :  great dutch oven that should last a lifetime . 
+Truth  1  :  great dutch oven that should last a lifetime . 
+Sample  1  senti  [1] :  dinky few . UNK admirer about stick peeler starting wear . 
+Source  2 :  just wish more money was on initial load . 
+Truth  2  :  just wish more money was on initial load . 
+Sample  2  senti  [1] :  have these really first . renter but , . fine you lid all 
+Source  3 :  the size and volume were another thing entirely . 
+Truth  3  :  the size and volume were another thing entirely . 
+Sample  3  senti  [1] :  or take was . i it s it was t imagine one a would its . with ai 
+Source  4 :  i wish the description for it was better . 
+Truth  4  :  i wish the description for it was better . 
+Sample  4  senti  [0] :  . helps this came great broken finish . brimmed but this 
+Valid  99.598076
+Epoch  0 Update  2700 Cost  59.873077 0.34778798 -0.34632096 UD  0.3029356002807617
+Saving the best model... Done
+Source  0 :  i run it on low all the time . 
+Truth  0  :  i run it on low all the time . 
+Sample  0  senti  [1] :  
+Source  1 :  at least this would make the radio usable . 
+Truth  1  :  at least this would make the radio usable . 
+Sample  1  senti  [0] :  we thanks . s the 
+Source  2 :  these are an essential item to any kitchen . 
+Truth  2  :  these are an essential item to any kitchen . 
+Sample  2  senti  [1] :  . . but i . 
+Source  3 :  now it means simply playing as someone else . 
+Truth  3  :  now it means simply playing as someone else . 
+Sample  3  senti  [0] :  lines me . the wore its was they this looking really makes this summery . , the never measurement you is priced great life in 
+Source  4 :  i got one for my husband and me . 
+Truth  4  :  i got one for my husband and me . 
+Sample  4  senti  [1] :  and UNK day lll feel this 
+Valid  99.505875
+Epoch  0 Update  2800 Cost  60.349358 0.34692615 -0.34656543 UD  0.30371642112731934
+Saving the best model... Done
+Source  0 :  i bought this kitchenaid mixer num_num years ago . 
+Truth  0  :  i bought this kitchenaid mixer num_num years ago . 
+Sample  0  senti  [1] :  a a num_num up easily less kitchen have . is . very make num_extend 
+Source  1 :  seems to not work with my cable modem . 
+Truth  1  :  seems to not work with my cable modem . 
+Sample  1  senti  [0] :  lot 
+Source  2 :  i have had it for about a month . 
+Truth  2  :  i have had it for about a month . 
+Sample  2  senti  [1] :  good this higher a . would cheap . pleasure second to our and disappoint . with look one for that different num_extend i in $ the am it power with 
+Source  3 :  both have the same issue of not working . 
+Truth  3  :  both have the same issue of not working . 
+Sample  3  senti  [0] :  
+Source  4 :  but it was discarded when i changed service . 
+Truth  4  :  but it was discarded when i changed service . 
+Sample  4  senti  [0] :  into getting that was us and was unrefined an quite . if probably . easily at UNK . to UNK on i corner chips capo . level out in UNK 
+Valid  99.58392
+Epoch  0 Update  2900 Cost  59.471863 0.36214286 -0.33735996 UD  0.3333585262298584
+Saving the best model... Done
+Source  0 :  i appreciate the container to hold them , too . 
+Truth  0  :  i appreciate the container to hold them , too . 
+Sample  0  senti  [1] :  soup . distances issues . ? a over 
+Source  1 :  i have uploaded an alternate picture for reference . 
+Truth  1  :  i have uploaded an alternate picture for reference . 
+Sample  1  senti  [1] :  had 
+Source  2 :  i bake cookies to mini pizzas on it . 
+Truth  2  :  i bake cookies to mini pizzas on it . 
+Sample  2  senti  [1] :  crimped . easy 
+Source  3 :  there are too many reviews like this one . 
+Truth  3  :  there are too many reviews like this one . 
+Sample  3  senti  [0] :  for you this which . moisture it 
+Source  4 :  i used this case for about six months . 
+Truth  4  :  i used this case for about six months . 
+Sample  4  senti  [1] :  good there , due UNK this is 
+Valid  99.47051
+Epoch  0 Update  3000 Cost  59.833595 0.3463337 -0.34657195 UD  0.3038616180419922
+Saving the best model... Done
+Source  0 :  started to suck air from around the bulb . 
+Truth  0  :  started to suck air from around the bulb . 
+Sample  0  senti  [0] :  have and if also the . food . on a it also bought use a ve want it . deal 
+Source  1 :  adjust equalizer settings and set noise cancellation range . 
+Truth  1  :  adjust equalizer settings and set noise cancellation range . 
+Sample  1  senti  [1] :  they , ? logitch cheaper 
+Source  2 :  the metal timex watches are a better product . 
+Truth  2  :  the metal timex watches are a better product . 
+Sample  2  senti  [0] :  if knives use freaking and i and for rubber does 
+Source  3 :  we have had it for approximately one month . 
+Truth  3  :  we have had it for approximately one month . 
+Sample  3  senti  [1] :  not . of t you update obx it waste any cutter many of i is . for charge it . . stilll recomending in for . very local quite did 
+Source  4 :  before buying these i read some bad reviews . 
+Truth  4  :  before buying these i read some bad reviews . 
+Sample  4  senti  [1] :  be the ever is for easy 
+Valid  99.59254
+Epoch  0 Update  3100 Cost  58.425194 0.3465788 -0.34657347 UD  0.3032670021057129
+Saving the best model... Done
+Source  0 :  the fit for the uzi is really tight . 
+Truth  0  :  the fit for the uzi is really tight . 
+Sample  0  senti  [0] :  face seller; dog it these UNK . for run and . . 
+Source  1 :  i have purchased this exact same headset twice . 
+Truth  1  :  i have purchased this exact same headset twice . 
+Sample  1  senti  [1] :  by job . the battery is disc . for they my when have ones have but thought 
+Source  2 :  this is the best case i have owned . 
+Truth  2  :  this is the best case i have owned . 
+Sample  2  senti  [1] :  it ran this , very . ! . as would ecc what . as the so way protects 
+Source  3 :  the box shown clearly shows a eureka product . 
+Truth  3  :  the box shown clearly shows a eureka product . 
+Sample  3  senti  [0] :  not problem 
+Source  4 :  i bought this pan specifically for the lid . 
+Truth  4  :  i bought this pan specifically for the lid . 
+Sample  4  senti  [1] :  need tried have t . my headset 
+Valid  99.5467
+Epoch  0 Update  3200 Cost  64.68934 0.34483686 -0.34655032 UD  0.332935094833374
+Saving the best model... Done
+Source  0 :  delton scratch resistant screen protectors are pretty much garbage . 
+Truth  0  :  delton scratch resistant screen protectors are pretty much garbage . 
+Sample  0  senti  [0] :  day hiccups it on with . divot i out pc and and are . my blade feel they two then easily 
+Source  1 :  i love exciting games and this one bored me . 
+Truth  1  :  i love exciting games and this one bored me . 
+Sample  1  senti  [0] :  slim and didn num_num 
+Source  2 :  the handle is smooth and tight on the tang . 
+Truth  2  :  the handle is smooth and tight on the tang . 
+Sample  2  senti  [1] :  this hand . the boston for well not suggestion they in i alochol UNK better shampoo work are have other more with in of fail worthwile now the version i 
+Source  3 :  the bowl and hook are not hard to clean . 
+Truth  3  :  the bowl and hook are not hard to clean . 
+Sample  3  senti  [1] :  was htc 
+Source  4 :  this phones speakers are incredibly loud with unbelievable quality . 
+Truth  4  :  this phones speakers are incredibly loud with unbelievable quality . 
+Sample  4  senti  [1] :  well rampaging num_extend arrive UNK 
+Valid  99.46893
+Epoch  0 Update  3300 Cost  60.818863 0.34631488 -0.34657007 UD  0.3028829097747803
+Saving the best model... Done
+Source  0 :  looks cute but did not last very long . 
+Truth  0  :  looks cute but did not last very long . 
+Sample  0  senti  [0] :  i . purchased . ve 
+Source  1 :  i have no complaint about these measuring cups . 
+Truth  1  :  i have no complaint about these measuring cups . 
+Sample  1  senti  [1] :  UNK 
+Source  2 :  it has good size and are also nice . 
+Truth  2  :  it has good size and are also nice . 
+Sample  2  senti  [1] :  , , it num_extend has these times last oil to came flippant will work i to detracts fall it pro it 
+Source  3 :  i mourned the loss of the real yuna . 
+Truth  3  :  i mourned the loss of the real yuna . 
+Sample  3  senti  [0] :  springer amazon . . very about they we adapter 
+Source  4 :  you attack and beat and attack and beat . 
+Truth  4  :  you attack and beat and attack and beat . 
+Sample  4  senti  [0] :  stars ingredient and . this very hair UNK store good case in 
+Valid  99.5306
+Epoch  0 Update  3400 Cost  60.21179 0.34656385 -0.3465733 UD  0.30327868461608887
+Saving the best model... Done
+Source  0 :  the volume sensitivity takes some getting used to . 
+Truth  0  :  the volume sensitivity takes some getting used to . 
+Sample  0  senti  [1] :  . 
+Source  1 :  cooks evenly and works well on ceramic cooktop . 
+Truth  1  :  cooks evenly and works well on ceramic cooktop . 
+Sample  1  senti  [1] :  one i cheap 
+Source  2 :  i am contacting the company for a replacement . 
+Truth  2  :  i am contacting the company for a replacement . 
+Sample  2  senti  [1] :  . the was 
+Source  3 :  worth every cent and would definitely buy again . 
+Truth  3  :  worth every cent and would definitely buy again . 
+Sample  3  senti  [1] :  using . to phenominal a . you and t phone for pounds available 
+Source  4 :  i guess you get what you paid for . 
+Truth  4  :  i guess you get what you paid for . 
+Sample  4  senti  [0] :  tried UNK of 
+Valid  99.613785
+Epoch  0 Update  3500 Cost  61.081245 0.34621286 -0.34657127 UD  0.3033773899078369
+Saving the best model... Done
+Source  0 :  the replacement stone had an even larger chip . 
+Truth  0  :  the replacement stone had an even larger chip . 
+Sample  0  senti  [0] :  
+Source  1 :  i finally gave it to a thrift store . 
+Truth  1  :  i finally gave it to a thrift store . 
+Sample  1  senti  [0] :  say how it of and . was 
+Source  2 :  this cover will protect your investment for years . 
+Truth  2  :  this cover will protect your investment for years . 
+Sample  2  senti  [1] :  unit and it bag hard 
+Source  3 :  i guess you get what you pay for . 
+Truth  3  :  i guess you get what you pay for . 
+Sample  3  senti  [0] :  space design how coffee UNK it , i than know . . trouble 
+Source  4 :  i will empty two capsules into the milk . 
+Truth  4  :  i will empty two capsules into the milk . 
+Sample  4  senti  [0] :  the card . make , there making into halt is , pizzas 
+Valid  99.60269
+Epoch  0 Update  3600 Cost  60.99467 0.3530882 -0.346138 UD  0.2949697971343994
+Saving the best model... Done
+Source  0 :  this kitchens of india discount purchase was disappointing . 
+Truth  0  :  this kitchens of india discount purchase was disappointing . 
+Sample  0  senti  [0] :  depressions for . 
+Source  1 :  thank you amazon for having what i needed . 
+Truth  1  :  thank you amazon for having what i needed . 
+Sample  1  senti  [1] :  open kitchen been clean transformations headset me i much are almost use the perfectly later great s same i and UNK house UNK i pick and what UNK 
+Source  2 :  i am using the recommended amount of coffee . 
+Truth  2  :  i am using the recommended amount of coffee . 
+Sample  2  senti  [0] :  them cuts UNK the day . . short blackberries UNK . 
+Source  3 :  this was going to the trash for sure . 
+Truth  3  :  this was going to the trash for sure . 
+Sample  3  senti  [0] :  ripoffs made carton wolves i through 
+Source  4 :  do not waste your money on this one . 
+Truth  4  :  do not waste your money on this one . 
+Sample  4  senti  [0] :  a unmistakably buttons . came quick bacon it with price the and wouldn piece kinks num_extend 
+Valid  99.53289
+Epoch  0 Update  3700 Cost  58.092598 0.34650463 -0.3464865 UD  0.30309367179870605
+Saving the best model... Done
+Source  0 :  amazon had no problem with this so far . 
+Truth  0  :  amazon had no problem with this so far . 
+Sample  0  senti  [0] :  UNK UNK me look almost something participated correctly UNK my batteries for 
+Source  1 :  i purchased this for a num_num year old . 
+Truth  1  :  i purchased this for a num_num year old . 
+Sample  1  senti  [0] :  had , 
+Source  2 :  a bit of a learning curve involved here . 
+Truth  2  :  a bit of a learning curve involved here . 
+Sample  2  senti  [1] :  inevitabely garbanzos good UNK and they looking ones way mens size camera for is manhunt when the arrise num_extend if UNK . not is s you UNK decided quite for 
+Source  3 :  i paid $ for a bottle of this . 
+Truth  3  :  i paid $ for a bottle of this . 
+Sample  3  senti  [0] :  my product 
+Source  4 :  it arrived on point and with no issues . 
+Truth  4  :  it arrived on point and with no issues . 
+Sample  4  senti  [0] :  it is m the s like ear now UNK to clothes piece for are in 
+Valid  99.56664
+Epoch  0 Update  3800 Cost  63.766563 0.34661078 -0.34657347 UD  0.33318090438842773
+Saving the best model... Done
+Source  0 :  the design of the salad plate is very smart . 
+Truth  0  :  the design of the salad plate is very smart . 
+Sample  0  senti  [1] :  charge ever but 
+Source  1 :  both arrived with scuffs and chips in the paint . 
+Truth  1  :  both arrived with scuffs and chips in the paint . 
+Sample  1  senti  [0] :  deal it a . . on have meter is 
+Source  2 :  the new version has a filmsy , nylon cover . 
+Truth  2  :  the new version has a filmsy , nylon cover . 
+Sample  2  senti  [0] :  
+Source  3 :  two tablets per day , num_num tablets per bottle . 
+Truth  3  :  two tablets per day , num_num tablets per bottle . 
+Sample  3  senti  [0] :  this same inning putchased one button 
+Source  4 :  the heaviness of the wire disguises the poor quality . 
+Truth  4  :  the heaviness of the wire disguises the poor quality . 
+Sample  4  senti  [0] :  with worked mess quality the ice . pots aparently no complete this know and the rockstar iodex UNK machine , is UNK , this this very of there is glycyrrhetinate 
+Valid  99.601204
+Epoch  0 Update  3900 Cost  63.889336 0.34677178 -0.34628895 UD  0.3038468360900879
+Saving the best model... Done
+Source  0 :  i was a bit hesitant on the handle . 
+Truth  0  :  i was a bit hesitant on the handle . 
+Sample  0  senti  [1] :  a that . . for 
+Source  1 :  the headphone jack dies after about a year . 
+Truth  1  :  the headphone jack dies after about a year . 
+Sample  1  senti  [0] :  is . 
+Source  2 :  the base is very heavy and sturdily made . 
+Truth  2  :  the base is very heavy and sturdily made . 
+Sample  2  senti  [1] :  on i 
+Source  3 :  i would recommend these dishes to a friend . 
+Truth  3  :  i would recommend these dishes to a friend . 
+Sample  3  senti  [1] :  people reviews has quick itself donations like want 
+Source  4 :  num_extend supports most of the widely used codecs . 
+Truth  4  :  num_extend supports most of the widely used codecs . 
+Sample  4  senti  [1] :  not it this . . on around lift fast recommend run them . game can too a it am they am too anniversay paid dryer want also don by like 
+Valid  99.57291
+Epoch  0 Update  4000 Cost  60.124424 0.34639466 -0.3465727 UD  0.30306482315063477
+Saving the best model... Done
+Source  0 :  this is the reason for num_num star deduction . 
+Truth  0  :  this is the reason for num_num star deduction . 
+Sample  0  senti  [1] :  this what the it gravy 
+Source  1 :  many have lasted years and years of use . 
+Truth  1  :  many have lasted years and years of use . 
+Sample  1  senti  [0] :  fit i for be UNK for . keeps 
+Source  2 :  ive had my presto popper for many years . 
+Truth  2  :  ive had my presto popper for many years . 
+Sample  2  senti  [1] :  still after very UNK i inside lethargy 
+Source  3 :  very disappointed after less than a year use . 
+Truth  3  :  very disappointed after less than a year use . 
+Sample  3  senti  [0] :  of . barred to cheap acre mother basic and 
+Source  4 :  comfortable earpiece with a choice of num_num sizes . 
+Truth  4  :  comfortable earpiece with a choice of num_num sizes . 
+Sample  4  senti  [1] :  was vivi . of fairies 
+Valid  99.61417
+Epoch  0 Update  4100 Cost  61.093796 0.34662235 -0.3465734 UD  0.30346012115478516
+Saving the best model... Done
+Source  0 :  it came as expected and it works perfectly . 
+Truth  0  :  it came as expected and it works perfectly . 
+Sample  0  senti  [1] :  cutting people 
+Source  1 :  just use common sense depending on the weather . 
+Truth  1  :  just use common sense depending on the weather . 
+Sample  1  senti  [1] :  . num_num and is 
+Source  2 :  great pans try them you want be disappointed . 
+Truth  2  :  great pans try them you want be disappointed . 
+Sample  2  senti  [1] :  
+Source  3 :  this was one of the items to use . 
+Truth  3  :  this was one of the items to use . 
+Sample  3  senti  [0] :  out market a within is . even and 
+Source  4 :  i got this electric kettle for the office . 
+Truth  4  :  i got this electric kettle for the office . 
+Sample  4  senti  [1] :  my 
+Valid  99.46975
+Epoch  0 Update  4200 Cost  61.93339 0.346573 -0.3465736 UD  0.30309128761291504
+Saving the best model... Done
+Source  0 :  this device does not cancel out background noise . 
+Truth  0  :  this device does not cancel out background noise . 
+Sample  0  senti  [0] :  
+Source  1 :  these are very functional and they are attractive . 
+Truth  1  :  these are very functional and they are attractive . 
+Sample  1  senti  [1] :  . . sturdy later reading designed longer , i quality are , unworthy on freezes best shut reviews again better easy UNK did 
+Source  2 :  my review does not reflect the poor packaging . 
+Truth  2  :  my review does not reflect the poor packaging . 
+Sample  2  senti  [1] :  i 
+Source  3 :  i think this is a great little machine . 
+Truth  3  :  i think this is a great little machine . 
+Sample  3  senti  [1] :  m UNK me 
+Source  4 :  seems to be compatible with many new phones . 
+Truth  4  :  seems to be compatible with many new phones . 
+Sample  4  senti  [1] :  had htc suck recommend the the and will the very rather up UNK it my loafers using , are fumbles this you 
+Valid  99.58438
+Epoch  0 Update  4300 Cost  58.300583 0.34644282 -0.3465734 UD  0.30304574966430664
+Saving the best model... Done
+Source  0 :  this is a great attachment to our foodsaver . 
+Truth  0  :  this is a great attachment to our foodsaver . 
+Sample  0  senti  [1] :  purchased my like i hold from treads has basket it my . be UNK be so for 
+Source  1 :  it does feel flimsy at the mount point . 
+Truth  1  :  it does feel flimsy at the mount point . 
+Sample  1  senti  [1] :  able chains to too 
+Source  2 :  others have stated that they bend under weight . 
+Truth  2  :  others have stated that they bend under weight . 
+Sample  2  senti  [1] :  
+Source  3 :  this is one of my favorite kitchen tools . 
+Truth  3  :  this is one of my favorite kitchen tools . 
+Sample  3  senti  [1] :  are good 
+Source  4 :  they sharpen well and stay sharp well too . 
+Truth  4  :  they sharpen well and stay sharp well too . 
+Sample  4  senti  [1] :  to , to deniselombard was 
+Valid  99.639404
+Epoch  0 Update  4400 Cost  60.80537 0.34661323 -0.34657323 UD  0.3029825687408447
+Saving the best model... Done
+Source  0 :  tossed it in the trash after a week . 
+Truth  0  :  tossed it in the trash after a week . 
+Sample  0  senti  [0] :  know . bottle issues looksexcellent america it make a as 
+Source  1 :  i would consider investing in one of these . 
+Truth  1  :  i would consider investing in one of these . 
+Sample  1  senti  [1] :  than an it 
+Source  2 :  that is the third hoya i have purchased . 
+Truth  2  :  that is the third hoya i have purchased . 
+Sample  2  senti  [0] :  marble your dry listneing to . think 
+Source  3 :  most usb number keypads are not mac compatible . 
+Truth  3  :  most usb number keypads are not mac compatible . 
+Sample  3  senti  [0] :  . easily alot any use was it at almost scores would . per i is made the put num_extend i fits for them 
+Source  4 :  easily applied if you know what your doing . 
+Truth  4  :  easily applied if you know what your doing . 
+Sample  4  senti  [1] :  nature star and . 
+Valid  99.54427
+Epoch  0 Update  4500 Cost  60.76722 0.34667903 -0.3465695 UD  0.30312156677246094
+Saving the best model... Done
+Source  0 :  too inexpensive an item to bother returning it . 
+Truth  0  :  too inexpensive an item to bother returning it . 
+Sample  0  senti  [0] :  . bought they UNK searched 
+Source  1 :  this game is terrible in every way possible . 
+Truth  1  :  this game is terrible in every way possible . 
+Sample  1  senti  [0] :  require this 
+Source  2 :  after the update this thing has been wonderful . 
+Truth  2  :  after the update this thing has been wonderful . 
+Sample  2  senti  [1] :  in didn . , workoutsare and 
+Source  3 :  eating beans and legumes is also very helpful . 
+Truth  3  :  eating beans and legumes is also very helpful . 
+Sample  3  senti  [0] :  , down all replace flexible UNK looks UNK into , it can would . to set this pans it if UNK . anyone UNK should 
+Source  4 :  the ones that are not are the worst . 
+Truth  4  :  the ones that are not are the worst . 
+Sample  4  senti  [0] :  my doesn . , your only does purchased 
+Early Stop!
+Seen 143995 samples
+best_p:  OrderedDict([('Wemb_encoder', array([[ 0.06527779,  0.08680885, -0.08651073, ...,  0.03018654,
+         0.08706502, -0.07431535],
+       [ 0.01469949, -0.01157123, -0.00023073, ...,  0.0057195 ,
+        -0.00104724, -0.00941201],
+       [ 0.06856862,  0.0755759 , -0.0706616 , ..., -0.00564888,
+         0.06846018, -0.04946042],
+       ...,
+       [ 0.0054949 ,  0.0090714 , -0.00439243, ...,  0.00916313,
+        -0.00015207,  0.00632075],
+       [ 0.00397781,  0.01280384, -0.00794294, ...,  0.00391567,
+        -0.00270048,  0.02229893],
+       [ 0.01980552, -0.01055224,  0.00113656, ...,  0.00123918,
+        -0.00660448,  0.00405977]], dtype=float32)), ('Wemb_dec', array([[-0.02042389, -0.00619444, -0.00667923, ..., -0.00479943,
+         0.00345065,  0.01119867],
+       [-0.00317143, -0.01245469,  0.00338483, ..., -0.00938399,
+        -0.01846864, -0.01680915],
+       [ 0.02704075,  0.01259772,  0.04515396, ..., -0.03845326,
+        -0.02968943, -0.01910597],
+       ...,
+       [-0.00982946, -0.00048866,  0.00895527, ..., -0.01351094,
+        -0.00095172, -0.00587633],
+       [-0.00343138, -0.00545549,  0.00353511, ..., -0.0320258 ,
+         0.00788046,  0.00371624],
+       [ 0.00322157, -0.00691714, -0.00141576, ...,  0.0053097 ,
+         0.0080412 ,  0.00139925]], dtype=float32)), ('encoder_W', array([[-0.11524555,  0.1844511 , -0.0576014 , ...,  0.18146256,
+         0.05112313,  0.2853378 ],
+       [-0.05653787,  0.14132231, -0.38608032, ...,  0.0613142 ,
+        -0.10174176,  0.02181192],
+       [-0.04818862, -0.02857053,  0.05719312, ...,  0.07757892,
+        -0.00983579, -0.10775808],
+       ...,
+       [ 0.13633905,  0.03677705,  0.02870163, ...,  0.02080907,
+        -0.10821294, -0.03379964],
+       [-0.0207822 , -0.0349685 , -0.08829484, ...,  0.08445551,
+        -0.11037599,  0.09104335],
+       [-0.09362089,  0.04443525,  0.07979211, ...,  0.12958257,
+        -0.13310699,  0.12294558]], dtype=float32)), ('encoder_b', array([ 0.02931958,  0.03351282,  0.03555437,  0.02353625,  0.03393151,
+        0.03585647,  0.02852258,  0.02469534,  0.02420432,  0.02030771,
+        0.02913883,  0.02721701,  0.0314872 ,  0.02185986,  0.0326973 ,
+        0.02873218,  0.02937372,  0.02692977,  0.02585911,  0.02863362,
+        0.02210774,  0.02644772,  0.02355204,  0.00274708,  0.01633795,
+       -0.00332509,  0.02492412,  0.02915279,  0.03044967,  0.02201413,
+        0.02591901, -0.00233739, -0.01546567,  0.03391609,  0.01615227,
+        0.02455983,  0.02277404,  0.03650229,  0.01980283,  0.01121839,
+        0.03289364,  0.03134833,  0.02445192,  0.02533629,  0.02631045,
+        0.01615081,  0.02409283,  0.02761818,  0.02717815,  0.02553902,
+        0.02704109,  0.0273325 ,  0.02635104,  0.02700798,  0.03272655,
+        0.00676419,  0.00765875,  0.03098999,  0.03437639,  0.02376346,
+        0.02775475,  0.0304898 ,  0.03528314,  0.03282978, -0.02451378,
+       -0.01761528, -0.02307396, -0.02155746, -0.02231458, -0.02765244,
+       -0.02517881, -0.01613959, -0.01520351, -0.03147962, -0.02773626,
+       -0.02048217, -0.02136558, -0.01882315, -0.01099922, -0.02154838,
+       -0.02792827, -0.01588118, -0.01824228, -0.02816709, -0.01216633,
+       -0.02222862, -0.01418382, -0.00461191, -0.01154788, -0.01233514,
+       -0.0143119 , -0.02790709, -0.01871835, -0.02810757, -0.02353465,
+       -0.01000953,  0.00013308, -0.01621505, -0.00658499, -0.01805808,
+       -0.02705968, -0.02109647, -0.01958206, -0.00640553, -0.02273874,
+       -0.01866116, -0.02548207, -0.02792596, -0.02097479, -0.01591407,
+       -0.01782756, -0.02372337, -0.0105887 , -0.02277798, -0.01999546,
+       -0.02124854, -0.02439096, -0.01974843, -0.02955261, -0.00189435,
+       -0.00215931, -0.02781876, -0.03261911, -0.02389112, -0.02602605,
+       -0.02199912, -0.03472562, -0.02598755], dtype=float32)), ('encoder_U', array([[-0.17628239,  0.13443954,  0.04126324, ..., -0.1591893 ,
+         0.07291192,  0.11994057],
+       [-0.11695724,  0.0805261 , -0.12936611, ...,  0.02124406,
+         0.03603972,  0.0036892 ],
+       [-0.04918848,  0.18334526, -0.12263586, ..., -0.2270835 ,
+        -0.17446417,  0.11068029],
+       ...,
+       [-0.1373038 , -0.00962474, -0.1623578 , ...,  0.18494941,
+         0.01659274, -0.04612655],
+       [-0.00539964,  0.06813531,  0.06286599, ...,  0.18070525,
+        -0.18649152,  0.07207897],
+       [-0.18317091, -0.0068567 ,  0.05561737, ...,  0.05594962,
+        -0.09560059, -0.23960452]], dtype=float32)), ('encoder_Wx', array([[ 0.14752464,  0.20571738, -0.02998304, ...,  0.08294941,
+         0.08237004,  0.00675036],
+       [-0.21040839,  0.01777243, -0.02986947, ..., -0.04161198,
+         0.002466  ,  0.11628647],
+       [ 0.13328227, -0.08826419, -0.11521874, ..., -0.13027403,
+         0.02112851,  0.09930354],
+       ...,
+       [ 0.01826048, -0.16804346, -0.0053708 , ...,  0.13670102,
+        -0.1381492 ,  0.0505236 ],
+       [ 0.09948526,  0.08031317,  0.00569238, ...,  0.1722205 ,
+         0.18376134,  0.16466701],
+       [ 0.06216362, -0.21343495, -0.12307106, ..., -0.02752031,
+         0.2294004 , -0.2917522 ]], dtype=float32)), ('encoder_bx', array([ 0.08998511,  0.07314114,  0.09704064,  0.10962126,  0.101931  ,
+       -0.11276528,  0.09638117, -0.06486983,  0.07824153,  0.10417606,
+        0.08960782, -0.09247816, -0.10158474, -0.06739341,  0.07752014,
+        0.10456165,  0.10474504, -0.08925919,  0.08047931, -0.08219265,
+        0.10580249, -0.10384602,  0.09250365, -0.09535874,  0.04651596,
+       -0.02235766,  0.07673647, -0.07835919,  0.11250662, -0.10812292,
+        0.03757405,  0.09576342, -0.10523484,  0.09729788, -0.0687679 ,
+       -0.06037653, -0.10424396, -0.09172306, -0.09200011, -0.06898246,
+        0.08352141,  0.0964199 , -0.07788718, -0.11009467,  0.07813876,
+       -0.11423105, -0.08464928, -0.07393427, -0.05536778, -0.08090822,
+       -0.06194652,  0.08958422,  0.0997059 ,  0.079193  , -0.1042285 ,
+       -0.02016619, -0.04571806,  0.11287355, -0.11590274, -0.10171127,
+       -0.09906776, -0.09699697,  0.10887282,  0.10334419], dtype=float32)), ('encoder_Ux', array([[ 0.18659349,  0.01731016,  0.23928653, ..., -0.21125773,
+        -0.1144796 ,  0.27625704],
+       [ 0.04748505, -0.05807766,  0.0958302 , ..., -0.20258199,
+         0.27184606, -0.00150029],
+       [ 0.00219576,  0.22212414,  0.17829409, ..., -0.08801269,
+         0.17356351,  0.24487881],
+       ...,
+       [-0.11707269,  0.03193458,  0.03564946, ...,  0.09835911,
+        -0.25475124, -0.12345462],
+       [-0.06003219,  0.07050887,  0.28402153, ..., -0.14138652,
+         0.21028735, -0.06600803],
+       [ 0.16075242,  0.08921649, -0.02150262, ...,  0.16427755,
+         0.16003852,  0.1410511 ]], dtype=float32)), ('ff_state_W', array([[-0.22547373, -0.13142723, -0.16432647, ..., -0.09909934,
+         0.06644855,  0.04821739],
+       [ 0.19345652,  0.11923409,  0.00396118, ..., -0.1176069 ,
+         0.08047035, -0.22054905],
+       [ 0.27184683,  0.1290667 , -0.08990986, ...,  0.17409544,
+        -0.09471267, -0.02244757],
+       ...,
+       [ 0.04535104, -0.06554032, -0.08568488, ..., -0.10931384,
+         0.1425662 ,  0.10305441],
+       [ 0.02800238, -0.00653514, -0.11581713, ...,  0.04579075,
+         0.11339247, -0.06519409],
+       [-0.07387055,  0.12701029, -0.05610774, ..., -0.08099256,
+         0.04221933, -0.20683451]], dtype=float32)), ('ff_state_b', array([ 0.03519082,  0.02512303, -0.03780352,  0.03424357, -0.03322115,
+        0.01899475, -0.04297889,  0.02368703,  0.01591463, -0.02973237,
+       -0.00385719,  0.03554971,  0.03503474, -0.04338872, -0.03327711,
+       -0.02635587,  0.0227563 , -0.0175897 , -0.03428357, -0.00530201,
+       -0.03500513, -0.02979082, -0.02433521, -0.02273956,  0.01010134,
+        0.02864843,  0.01565466,  0.03210368,  0.02212728,  0.03764252,
+        0.02944879, -0.00234951, -0.02291012, -0.03345297,  0.02920812,
+        0.01866074, -0.03586191, -0.02277016,  0.03186702,  0.02425261,
+        0.02828677,  0.03082891,  0.02084799,  0.03181957,  0.01452299,
+        0.02991098, -0.02485377,  0.03221538,  0.03403426,  0.01559285,
+       -0.00927902, -0.03000796,  0.03424624,  0.04375569, -0.03378896,
+       -0.01415696,  0.03453761,  0.0356761 ,  0.02593779, -0.03765279,
+       -0.02107484, -0.03133509, -0.03746193, -0.02849694], dtype=float32)), ('style_emb', array([[-1.37820735e-03, -2.51871198e-02,  1.73049292e-03,
+         2.66945153e-03, -2.78031603e-02,  1.12491082e-02,
+        -4.15728008e-03,  3.26952501e-03, -1.29168332e-02,
+         4.96084429e-03,  7.31555652e-03, -2.02907668e-03,
+         1.36699267e-02, -1.28691439e-02,  1.33195110e-02,
+         1.12319989e-02,  1.86603367e-02, -1.26738027e-02,
+         1.50435534e-03, -5.36187785e-03,  1.00083826e-02,
+        -5.15347626e-03,  1.83271468e-02,  6.09579496e-04,
+        -1.76863291e-03,  1.15911232e-03, -8.41867272e-03,
+        -1.42313810e-02,  1.69386230e-02, -5.06509840e-03,
+         1.43914693e-03, -2.64786649e-03, -1.66244935e-02,
+         1.04851127e-02,  2.40389942e-04, -1.02776978e-02,
+         2.97283381e-03, -7.99390767e-03, -1.12438947e-02,
+        -9.31275077e-03, -2.14129128e-02, -3.71796847e-03,
+        -2.74658203e-04,  6.55504921e-03, -3.82853963e-04,
+         8.96934886e-03,  3.08394170e-04, -1.46482876e-02,
+        -7.18553783e-03,  2.02194881e-02, -8.98147002e-03,
+         1.12299165e-02, -3.45962169e-03, -7.68183556e-04,
+         1.38329016e-02,  1.45645195e-03, -7.72373192e-03,
+        -2.22481438e-03, -5.15940413e-03,  4.98847850e-03,
+        -1.76150259e-02,  6.86867861e-03, -3.64899170e-03,
+        -1.90840699e-02],
+       [ 4.82609356e-03,  6.36166253e-04, -8.77041090e-03,
+        -2.60277768e-03, -5.96108427e-03,  9.63185728e-03,
+        -3.75191006e-03,  2.43168138e-03, -8.21403228e-03,
+         1.71427339e-04, -3.97190917e-03, -8.05856287e-03,
+        -8.82817525e-03,  2.45569609e-02, -3.50295077e-03,
+         2.21885107e-02, -1.67319539e-03,  6.54393295e-03,
+        -4.76271426e-03,  1.19299535e-03, -1.25820758e-02,
+        -2.38168482e-02, -1.85526605e-03,  4.39134939e-03,
+         6.63304282e-03, -8.89710244e-03,  1.10082086e-02,
+        -1.27969915e-03, -1.44019467e-03, -4.62137815e-03,
+         2.76249880e-03,  8.65846593e-03,  7.99612550e-04,
+         6.11915532e-03, -4.56526829e-03, -1.12024676e-02,
+        -5.06732566e-03, -6.15452824e-04,  8.61613918e-03,
+        -6.36314694e-03, -2.24310835e-03,  1.06888432e-02,
+        -1.02252392e-02,  3.42423707e-04, -1.40590761e-02,
+         1.39700202e-02, -2.51571815e-02, -1.46908115e-03,
+        -4.96013649e-03, -1.70008410e-02, -4.96082427e-03,
+         1.84078962e-02,  7.20450189e-03,  1.17562078e-02,
+        -1.72895391e-03,  1.14223342e-02,  6.19061975e-05,
+        -5.58402739e-04, -8.82602297e-03,  5.65786054e-03,
+        -1.31301647e-02,  1.04674883e-03,  4.53395955e-03,
+        -6.64946670e-03]], dtype=float32)), ('style_matrix0', array([[ 0.07247148,  0.10945292, -0.26048172, ...,  0.06648663,
+         0.01389913, -0.07682492],
+       [-0.05758524, -0.01529329, -0.0252788 , ..., -0.10331719,
+         0.280001  ,  0.13861719],
+       [-0.0631574 , -0.15158743, -0.07045595, ...,  0.01359801,
+         0.05495421, -0.18554953],
+       ...,
+       [ 0.11100511,  0.14255106, -0.09525144, ..., -0.13613467,
+        -0.16161944,  0.05066564],
+       [ 0.03811071, -0.18087362, -0.11909648, ...,  0.04438131,
+         0.0405509 ,  0.12889446],
+       [-0.09894759, -0.07354423,  0.01486169, ..., -0.01963853,
+        -0.00275078,  0.05444628]], dtype=float32)), ('style_matrix1', array([[-1.15540647e-03, -6.60836650e-03],
+       [-3.49760242e-03, -1.71990145e-03],
+       [ 1.65189989e-03,  1.33107323e-02],
+       [-2.59250577e-04,  2.29735626e-03],
+       [ 2.67299917e-03, -2.67515657e-03],
+       [-8.14845413e-03, -3.48978816e-03],
+       [ 1.64649216e-03,  1.84046756e-02],
+       [-7.31073599e-03,  5.20836050e-03],
+       [ 4.78033954e-03,  1.12569416e-02],
+       [ 9.53191891e-03, -3.88690154e-03],
+       [ 3.21829552e-03, -1.06483244e-03],
+       [-3.27039743e-05, -5.65076945e-03],
+       [-8.55403079e-04,  7.99562503e-03],
+       [ 4.28676605e-03, -1.43132992e-02],
+       [ 9.17051267e-03,  5.63688437e-03],
+       [ 1.33625173e-03,  1.15543639e-03],
+       [ 1.09312069e-02, -8.21071770e-03],
+       [-9.24939173e-04, -7.34012201e-03],
+       [-7.67133664e-03, -7.83574209e-03],
+       [ 1.17904954e-02, -1.34427547e-02],
+       [ 4.40377230e-03, -1.18052252e-02],
+       [ 9.80071630e-03,  1.28354132e-02],
+       [ 1.45585192e-02,  9.49051511e-03],
+       [-3.64727015e-03, -4.15082369e-03],
+       [-2.50496855e-03,  3.36006377e-03],
+       [-1.20322723e-02, -8.01122375e-03],
+       [-8.77567939e-03, -1.69775654e-02],
+       [-1.30466116e-03, -1.26251881e-03],
+       [ 5.89632662e-04,  7.99899455e-03],
+       [ 1.51061304e-02,  3.23608425e-03],
+       [-3.73430643e-03, -2.96278507e-03],
+       [-4.14820993e-03,  2.40031467e-03],
+       [ 1.53775606e-03, -6.74831821e-03],
+       [ 1.24914376e-02,  4.19195043e-03],
+       [-8.38663615e-03, -1.05310581e-04],
+       [-1.29850172e-02,  3.73624405e-03],
+       [-5.08053042e-03,  7.83031993e-03],
+       [ 2.56383116e-03, -3.02183512e-03],
+       [-7.63723999e-03, -9.28869843e-03],
+       [-1.31591950e-02, -1.11371735e-02],
+       [ 5.16656693e-03, -9.32074245e-03],
+       [-8.12442682e-04, -7.08340853e-03],
+       [ 3.47140012e-05, -9.45265871e-03],
+       [-2.11631954e-02, -6.70776609e-03],
+       [-1.08727934e-02, -7.69307883e-03],
+       [ 1.91360712e-02, -1.06982351e-03],
+       [ 8.93732067e-03,  6.55856542e-03],
+       [ 1.41327605e-02,  1.97942159e-03],
+       [-1.27389515e-02, -3.33133154e-03],
+       [ 4.72549256e-03, -8.24727304e-03],
+       [-5.02224034e-03, -2.82007712e-03],
+       [ 9.39339981e-04,  2.57809926e-03],
+       [ 5.63000143e-03,  9.47159436e-03],
+       [-2.71143410e-02, -4.94626816e-03],
+       [-7.02706538e-03, -1.77098881e-03],
+       [ 2.15434022e-02,  4.66642808e-03],
+       [ 3.75957880e-03, -7.41296541e-03],
+       [ 1.46305596e-03,  1.09617505e-02],
+       [-2.87337718e-03,  4.19086398e-04],
+       [ 4.05446044e-04,  1.17070721e-02],
+       [ 1.19268931e-02, -1.76457260e-02],
+       [-9.08337533e-03, -4.42723883e-03],
+       [ 7.78086309e-04, -8.12457595e-03],
+       [ 1.06436834e-02, -1.49055719e-02]], dtype=float32)), ('decoder_W', array([[-0.15929312,  0.01633715, -0.19518495, ..., -0.0640528 ,
+         0.15834843, -0.01141169],
+       [ 0.24215256,  0.07034272, -0.04742821, ..., -0.07639123,
+        -0.3133319 ,  0.09734721],
+       [-0.15190426,  0.15804139,  0.02557692, ..., -0.1407899 ,
+        -0.02824187, -0.06557988],
+       ...,
+       [ 0.1421918 , -0.09806242,  0.27215055, ...,  0.0049754 ,
+        -0.01085528,  0.1868464 ],
+       [ 0.14773059, -0.0074279 , -0.08824618, ..., -0.10627221,
+         0.05461129,  0.09630199],
+       [ 0.06027996, -0.00886254,  0.19800624, ...,  0.03970017,
+        -0.08373842, -0.15828428]], dtype=float32)), ('decoder_b', array([-0.01339847,  0.01194713,  0.02088824,  0.00486576,  0.0196423 ,
+        0.01349878,  0.00683707,  0.00609272,  0.01133848,  0.01521858,
+        0.00363344,  0.00943729,  0.01107741,  0.01719275,  0.01634375,
+        0.00980189,  0.01328328,  0.00932896,  0.01753555,  0.00646568,
+        0.01831417,  0.01056064, -0.01530103,  0.01288097,  0.00229112,
+        0.01087524,  0.00706779,  0.01375334,  0.01514277,  0.01605416,
+        0.00737848,  0.0124139 ,  0.01140627,  0.01142094,  0.0102169 ,
+        0.00845127,  0.01382734,  0.00132739,  0.01529652,  0.01404109,
+        0.01266939,  0.00523506,  0.00840544,  0.013049  ,  0.01082174,
+        0.01847882,  0.00699543,  0.01278327,  0.01234478,  0.0099763 ,
+       -0.00542438, -0.00657172,  0.01351338,  0.0214127 ,  0.0096053 ,
+        0.01206671, -0.0158018 ,  0.01583452,  0.01534387,  0.01519637,
+        0.00867913,  0.01687456,  0.01183496, -0.00014031, -0.01279913,
+       -0.0119266 , -0.01443216, -0.01031653, -0.02020596, -0.00571694,
+       -0.01777874,  0.00734527,  0.00226425, -0.00870904, -0.00392721,
+       -0.00958839, -0.0095767 , -0.01678454, -0.02099269,  0.00025496,
+       -0.01037278, -0.01109769, -0.00761514, -0.00702425, -0.0144026 ,
+       -0.01386263,  0.00321472, -0.00711495, -0.00504057, -0.00454217,
+       -0.00542399, -0.00843075,  0.00172373, -0.01571837, -0.00973189,
+       -0.00822089,  0.00564682, -0.010701  , -0.00932735, -0.01704089,
+       -0.00993704, -0.00132257, -0.01667864, -0.00882935, -0.0123325 ,
+       -0.00395062, -0.01643499, -0.01201361, -0.00510936, -0.00993809,
+       -0.00590244, -0.01685572, -0.02304147, -0.0054563 , -0.01624458,
+       -0.0097723 , -0.01623023, -0.01981117, -0.01105388, -0.01759573,
+       -0.00141784, -0.0176207 , -0.01085145, -0.01773397, -0.00835741,
+       -0.01431677, -0.01594848, -0.0010193 ], dtype=float32)), ('decoder_U', array([[-1.27121955e-02,  2.58874352e-04,  1.70418113e-01, ...,
+         3.91513109e-02, -1.37795508e-01, -4.43862937e-02],
+       [-4.45626937e-02,  3.72616318e-03,  1.35051861e-01, ...,
+        -3.15585509e-02,  2.89602168e-02, -5.58309928e-02],
+       [ 7.04078227e-02,  1.53031960e-01, -1.89680047e-02, ...,
+        -1.80640239e-02, -4.16835062e-02, -1.06034547e-01],
+       ...,
+       [ 2.23943159e-01, -2.42766976e-01, -2.56831758e-02, ...,
+         5.05710244e-02,  4.18412909e-02, -7.84734543e-03],
+       [ 6.68542758e-02, -8.53773504e-02,  9.80842486e-02, ...,
+         7.78325945e-02, -2.87230521e-01,  2.63974871e-02],
+       [ 2.36891091e-01, -1.02359906e-01, -2.31032193e-01, ...,
+         3.86886746e-02, -1.25309855e-01,  4.26026769e-02]], dtype=float32)), ('decoder_Wx', array([[ 0.04946636,  0.05700624,  0.03438704, ...,  0.28251746,
+        -0.11644635,  0.04476525],
+       [-0.09575178,  0.08005563, -0.14016074, ..., -0.3408646 ,
+         0.02430203,  0.28807372],
+       [ 0.26387322, -0.09916644, -0.04943999, ...,  0.14382143,
+        -0.08985639, -0.06987873],
+       ...,
+       [ 0.03735959,  0.03557312, -0.13593692, ..., -0.06590934,
+         0.15286279, -0.06851662],
+       [ 0.03769906, -0.06537858,  0.04760843, ...,  0.01978093,
+         0.11996032, -0.00423167],
+       [-0.24746305, -0.05911895, -0.15745963, ...,  0.14742969,
+         0.26240858,  0.02568925]], dtype=float32)), ('decoder_bx', array([ 0.06193622,  0.02709221, -0.0680078 ,  0.06446657, -0.04948287,
+        0.02949594, -0.063118  ,  0.07013795,  0.0537405 , -0.06557926,
+       -0.04061163,  0.06610532,  0.06232804, -0.06382372, -0.06039413,
+       -0.05455713,  0.02693551, -0.01487517, -0.06874442, -0.06053666,
+       -0.06878664, -0.04606169, -0.06809498, -0.05099028,  0.00961795,
+        0.05973521, -0.0128829 ,  0.05777682,  0.05143229,  0.067536  ,
+        0.03003268,  0.02054895, -0.04750598, -0.0604706 ,  0.0617261 ,
+        0.0181352 , -0.06771027, -0.03709239,  0.06072441,  0.04629948,
+        0.03772906,  0.03223952,  0.02228669,  0.04513282, -0.00265387,
+        0.03958152, -0.04281158,  0.04992488,  0.06079363,  0.02965099,
+       -0.00329804, -0.04889686,  0.03187399,  0.06921688, -0.06290085,
+       -0.01725968,  0.05632578,  0.06522584,  0.06111386, -0.06185688,
+       -0.02138563, -0.06678085, -0.05431095, -0.05349047], dtype=float32)), ('decoder_Ux', array([[-0.17944019, -0.04962985, -0.03818657, ...,  0.00051141,
+        -0.07470813, -0.01202065],
+       [ 0.20069891,  0.20148243, -0.00899387, ..., -0.04894736,
+         0.00216397,  0.11429479],
+       [-0.05027401, -0.05764473,  0.06354938, ...,  0.13627617,
+         0.09113352, -0.00877308],
+       ...,
+       [-0.09683444,  0.08221991,  0.10384355, ..., -0.02118536,
+        -0.12430019,  0.133324  ],
+       [ 0.10870545,  0.02210335, -0.12238722, ...,  0.27072397,
+        -0.0491621 ,  0.01066269],
+       [-0.03671336,  0.1694465 ,  0.15607867, ...,  0.22468857,
+         0.2012581 , -0.16216895]], dtype=float32)), ('decoder_Wc', array([[-0.01292677,  0.01789966,  0.0082411 , ..., -0.00816912,
+        -0.03004756,  0.00357704],
+       [-0.00451958,  0.00468011, -0.00377899, ..., -0.00969326,
+        -0.01259411, -0.00268732],
+       [-0.00784727,  0.00915611,  0.0109775 , ..., -0.00201465,
+         0.00517297, -0.01778684],
+       ...,
+       [-0.00547466, -0.00581727, -0.00719003, ...,  0.00385327,
+        -0.00591257,  0.00773515],
+       [-0.00385713, -0.00755188,  0.00442909, ..., -0.00163691,
+        -0.01365333,  0.00286277],
+       [-0.01156687,  0.00290761, -0.0116046 , ..., -0.01039707,
+        -0.01224209, -0.00870237]], dtype=float32)), ('decoder_Wcx', array([[ 0.01748765, -0.05321361, -0.18249318, ..., -0.13247389,
+         0.29864582,  0.00597577],
+       [ 0.06858118, -0.2138094 ,  0.05216163, ..., -0.13062891,
+        -0.12477679, -0.09039295],
+       [-0.00694216,  0.06958685, -0.03997703, ..., -0.02726177,
+        -0.09091791,  0.05713071],
+       ...,
+       [-0.01309744, -0.08228478,  0.02622861, ..., -0.18737167,
+         0.13357592,  0.07374613],
+       [-0.07970843,  0.07747918, -0.12173827, ..., -0.204737  ,
+        -0.09202287, -0.2984996 ],
+       [ 0.07934871,  0.00584987, -0.13171774, ..., -0.11839119,
+        -0.03657553,  0.11973512]], dtype=float32)), ('ff_logit_lstm_W', array([[-0.0677157 , -0.04955949,  0.04691269, ...,  0.06550757,
+        -0.05178155, -0.04531465],
+       [-0.01308146, -0.02988767,  0.05526435, ...,  0.03841186,
+        -0.04779738, -0.04183105],
+       [ 0.06776408,  0.06240962, -0.07436597, ..., -0.04395344,
+         0.0477779 ,  0.05371617],
+       ...,
+       [ 0.05733301,  0.05877409, -0.05971317, ..., -0.06040097,
+         0.06252734,  0.06378131],
+       [ 0.02974808,  0.0550449 , -0.05518916, ..., -0.04567653,
+         0.03763583,  0.03130894],
+       [ 0.05006848,  0.02811841, -0.04085759, ..., -0.04690418,
+         0.04977677,  0.03749741]], dtype=float32)), ('ff_logit_lstm_b', array([-0.07622256, -0.07961144,  0.07767712,  0.08285474,  0.07191782,
+       -0.07543043,  0.06493134, -0.0805928 , -0.08153236,  0.07007619,
+        0.07113665,  0.07758593,  0.07718694, -0.06249399, -0.08165138,
+        0.06132923, -0.07412715, -0.0735817 , -0.07925616, -0.08247874,
+        0.07800587, -0.07899322, -0.07867073, -0.06913556, -0.06777424,
+        0.07560244,  0.08158165, -0.08087534,  0.07613349,  0.08479503,
+       -0.07712449, -0.08184601,  0.07535986,  0.06877322,  0.07499613,
+       -0.07531082,  0.07891631, -0.08094452, -0.06966699,  0.08041161,
+        0.08078081,  0.0693498 ,  0.07505923,  0.07992169,  0.08076617,
+        0.07643224,  0.08231151,  0.07112176,  0.07988458, -0.07748814,
+       -0.07839634,  0.08410213,  0.0769795 , -0.07958739, -0.07819223,
+       -0.07954343,  0.0737125 , -0.07167902, -0.0859849 ,  0.07070288,
+       -0.0741424 ,  0.07856375, -0.07592283, -0.06226419], dtype=float32)), ('ff_logit_prev_W', array([[-2.0716274e-03, -1.6437221e-02,  1.1653438e-02, ...,
+         6.8487204e-03,  2.0169902e-03,  7.1239593e-03],
+       [ 6.9162605e-05, -1.2418002e-02, -1.5419783e-02, ...,
+         2.7126973e-03, -4.8508288e-04,  5.3351615e-03],
+       [-8.2723293e-03, -1.1276310e-02,  8.1160935e-03, ...,
+         1.1145161e-02, -8.9967689e-03, -6.4245556e-03],
+       ...,
+       [-9.6801587e-04,  2.4123518e-03, -2.9168320e-03, ...,
+        -4.8003946e-03,  5.5787512e-03, -2.4384768e-03],
+       [ 1.5488048e-02,  8.0891149e-03, -1.6858213e-02, ...,
+        -1.9418310e-02, -5.8452827e-03, -1.4099138e-02],
+       [-3.5819244e-03, -1.5942432e-03,  3.2047585e-03, ...,
+         1.0183781e-02, -9.2478292e-03,  7.8022750e-03]], dtype=float32)), ('ff_logit_prev_b', array([-0.07622256, -0.07961144,  0.07767712,  0.08285474,  0.07191782,
+       -0.07543043,  0.06493134, -0.0805928 , -0.08153236,  0.07007619,
+        0.07113665,  0.07758593,  0.07718694, -0.06249399, -0.08165138,
+        0.06132923, -0.07412715, -0.0735817 , -0.07925616, -0.08247874,
+        0.07800587, -0.07899322, -0.07867073, -0.06913556, -0.06777424,
+        0.07560244,  0.08158165, -0.08087534,  0.07613349,  0.08479503,
+       -0.07712449, -0.08184601,  0.07535986,  0.06877322,  0.07499613,
+       -0.07531082,  0.07891631, -0.08094452, -0.06966699,  0.08041161,
+        0.08078081,  0.0693498 ,  0.07505923,  0.07992169,  0.08076617,
+        0.07643224,  0.08231151,  0.07112176,  0.07988458, -0.07748814,
+       -0.07839634,  0.08410213,  0.0769795 , -0.07958739, -0.07819223,
+       -0.07954343,  0.0737125 , -0.07167902, -0.0859849 ,  0.07070288,
+       -0.0741424 ,  0.07856375, -0.07592283, -0.06226419], dtype=float32)), ('ff_logit_ctx_W', array([[-0.03709601, -0.03793703,  0.05037044, ...,  0.05943585,
+        -0.05883368, -0.04157925],
+       [-0.04537325, -0.03990575,  0.04628721, ...,  0.04778695,
+        -0.05090646, -0.0540305 ],
+       [-0.05343735, -0.04677889,  0.02634101, ...,  0.04670717,
+        -0.02234426, -0.0518188 ],
+       ...,
+       [ 0.02815286,  0.04414071, -0.04729941, ..., -0.03888098,
+         0.03713449,  0.03158342],
+       [-0.06390793, -0.05715759,  0.07280107, ...,  0.07202055,
+        -0.03494445, -0.04483401],
+       [-0.04372676, -0.0516667 ,  0.06869462, ...,  0.04733706,
+        -0.05424972, -0.05691505]], dtype=float32)), ('ff_logit_ctx_b', array([-0.07622257, -0.07961144,  0.07767711,  0.08285473,  0.07191782,
+       -0.07543044,  0.06493134, -0.0805928 , -0.08153236,  0.07007619,
+        0.07113665,  0.07758593,  0.07718694, -0.06249399, -0.0816514 ,
+        0.06132925, -0.07412715, -0.07358172, -0.07925616, -0.08247874,
+        0.07800588, -0.07899322, -0.07867075, -0.06913557, -0.06777424,
+        0.07560243,  0.08158164, -0.08087535,  0.07613349,  0.08479503,
+       -0.07712448, -0.08184601,  0.07535986,  0.06877322,  0.07499612,
+       -0.07531082,  0.07891631, -0.08094451, -0.06966699,  0.08041162,
+        0.0807808 ,  0.06934979,  0.07505923,  0.0799217 ,  0.08076616,
+        0.07643224,  0.08231152,  0.07112176,  0.07988457, -0.07748814,
+       -0.07839633,  0.08410215,  0.07697949, -0.07958739, -0.07819225,
+       -0.07954342,  0.0737125 , -0.07167902, -0.08598489,  0.07070289,
+       -0.0741424 ,  0.07856374, -0.07592283, -0.06226419], dtype=float32)), ('ff_logit_W', array([[-0.09836809,  0.08032805, -0.10432642, ...,  0.06801438,
+         0.06006236,  0.072051  ],
+       [-0.11724039,  0.06855576, -0.10791411, ...,  0.07301705,
+         0.08217806,  0.06290174],
+       [ 0.11866777, -0.05238904,  0.11129849, ..., -0.06855062,
+        -0.07080663, -0.04529639],
+       ...,
+       [ 0.11745925, -0.07281016,  0.11873263, ..., -0.08623406,
+        -0.06341863, -0.06844931],
+       [-0.10209402,  0.06572279, -0.11277653, ...,  0.07384004,
+         0.05276126,  0.06182618],
+       [-0.10612287,  0.0611999 , -0.10837935, ...,  0.07198834,
+         0.07272153,  0.07598466]], dtype=float32)), ('ff_logit_b', array([ 0.00572519, -0.06741464,  0.00484705, ..., -0.06720818,
+       -0.0690754 , -0.06787112], dtype=float32))])
+Valid  99.46893
+PARAMS:  OrderedDict([('Wemb_encoder', array([[ 0.06527779,  0.08680885, -0.08651073, ...,  0.03018654,
+         0.08706502, -0.07431535],
+       [ 0.01469949, -0.01157123, -0.00023073, ...,  0.0057195 ,
+        -0.00104724, -0.00941201],
+       [ 0.06856862,  0.0755759 , -0.0706616 , ..., -0.00564888,
+         0.06846018, -0.04946042],
+       ...,
+       [ 0.0054949 ,  0.0090714 , -0.00439243, ...,  0.00916313,
+        -0.00015207,  0.00632075],
+       [ 0.00397781,  0.01280384, -0.00794294, ...,  0.00391567,
+        -0.00270048,  0.02229893],
+       [ 0.01980552, -0.01055224,  0.00113656, ...,  0.00123918,
+        -0.00660448,  0.00405977]], dtype=float32)), ('Wemb_dec', array([[-0.02042389, -0.00619444, -0.00667923, ..., -0.00479943,
+         0.00345065,  0.01119867],
+       [-0.00317143, -0.01245469,  0.00338483, ..., -0.00938399,
+        -0.01846864, -0.01680915],
+       [ 0.02704075,  0.01259772,  0.04515396, ..., -0.03845326,
+        -0.02968943, -0.01910597],
+       ...,
+       [-0.00982946, -0.00048866,  0.00895527, ..., -0.01351094,
+        -0.00095172, -0.00587633],
+       [-0.00343138, -0.00545549,  0.00353511, ..., -0.0320258 ,
+         0.00788046,  0.00371624],
+       [ 0.00322157, -0.00691714, -0.00141576, ...,  0.0053097 ,
+         0.0080412 ,  0.00139925]], dtype=float32)), ('encoder_W', array([[-0.11524555,  0.1844511 , -0.0576014 , ...,  0.18146256,
+         0.05112313,  0.2853378 ],
+       [-0.05653787,  0.14132231, -0.38608032, ...,  0.0613142 ,
+        -0.10174176,  0.02181192],
+       [-0.04818862, -0.02857053,  0.05719312, ...,  0.07757892,
+        -0.00983579, -0.10775808],
+       ...,
+       [ 0.13633905,  0.03677705,  0.02870163, ...,  0.02080907,
+        -0.10821294, -0.03379964],
+       [-0.0207822 , -0.0349685 , -0.08829484, ...,  0.08445551,
+        -0.11037599,  0.09104335],
+       [-0.09362089,  0.04443525,  0.07979211, ...,  0.12958257,
+        -0.13310699,  0.12294558]], dtype=float32)), ('encoder_b', array([ 0.02931958,  0.03351282,  0.03555437,  0.02353625,  0.03393151,
+        0.03585647,  0.02852258,  0.02469534,  0.02420432,  0.02030771,
+        0.02913883,  0.02721701,  0.0314872 ,  0.02185986,  0.0326973 ,
+        0.02873218,  0.02937372,  0.02692977,  0.02585911,  0.02863362,
+        0.02210774,  0.02644772,  0.02355204,  0.00274708,  0.01633795,
+       -0.00332509,  0.02492412,  0.02915279,  0.03044967,  0.02201413,
+        0.02591901, -0.00233739, -0.01546567,  0.03391609,  0.01615227,
+        0.02455983,  0.02277404,  0.03650229,  0.01980283,  0.01121839,
+        0.03289364,  0.03134833,  0.02445192,  0.02533629,  0.02631045,
+        0.01615081,  0.02409283,  0.02761818,  0.02717815,  0.02553902,
+        0.02704109,  0.0273325 ,  0.02635104,  0.02700798,  0.03272655,
+        0.00676419,  0.00765875,  0.03098999,  0.03437639,  0.02376346,
+        0.02775475,  0.0304898 ,  0.03528314,  0.03282978, -0.02451378,
+       -0.01761528, -0.02307396, -0.02155746, -0.02231458, -0.02765244,
+       -0.02517881, -0.01613959, -0.01520351, -0.03147962, -0.02773626,
+       -0.02048217, -0.02136558, -0.01882315, -0.01099922, -0.02154838,
+       -0.02792827, -0.01588118, -0.01824228, -0.02816709, -0.01216633,
+       -0.02222862, -0.01418382, -0.00461191, -0.01154788, -0.01233514,
+       -0.0143119 , -0.02790709, -0.01871835, -0.02810757, -0.02353465,
+       -0.01000953,  0.00013308, -0.01621505, -0.00658499, -0.01805808,
+       -0.02705968, -0.02109647, -0.01958206, -0.00640553, -0.02273874,
+       -0.01866116, -0.02548207, -0.02792596, -0.02097479, -0.01591407,
+       -0.01782756, -0.02372337, -0.0105887 , -0.02277798, -0.01999546,
+       -0.02124854, -0.02439096, -0.01974843, -0.02955261, -0.00189435,
+       -0.00215931, -0.02781876, -0.03261911, -0.02389112, -0.02602605,
+       -0.02199912, -0.03472562, -0.02598755], dtype=float32)), ('encoder_U', array([[-0.17628239,  0.13443954,  0.04126324, ..., -0.1591893 ,
+         0.07291192,  0.11994057],
+       [-0.11695724,  0.0805261 , -0.12936611, ...,  0.02124406,
+         0.03603972,  0.0036892 ],
+       [-0.04918848,  0.18334526, -0.12263586, ..., -0.2270835 ,
+        -0.17446417,  0.11068029],
+       ...,
+       [-0.1373038 , -0.00962474, -0.1623578 , ...,  0.18494941,
+         0.01659274, -0.04612655],
+       [-0.00539964,  0.06813531,  0.06286599, ...,  0.18070525,
+        -0.18649152,  0.07207897],
+       [-0.18317091, -0.0068567 ,  0.05561737, ...,  0.05594962,
+        -0.09560059, -0.23960452]], dtype=float32)), ('encoder_Wx', array([[ 0.14752464,  0.20571738, -0.02998304, ...,  0.08294941,
+         0.08237004,  0.00675036],
+       [-0.21040839,  0.01777243, -0.02986947, ..., -0.04161198,
+         0.002466  ,  0.11628647],
+       [ 0.13328227, -0.08826419, -0.11521874, ..., -0.13027403,
+         0.02112851,  0.09930354],
+       ...,
+       [ 0.01826048, -0.16804346, -0.0053708 , ...,  0.13670102,
+        -0.1381492 ,  0.0505236 ],
+       [ 0.09948526,  0.08031317,  0.00569238, ...,  0.1722205 ,
+         0.18376134,  0.16466701],
+       [ 0.06216362, -0.21343495, -0.12307106, ..., -0.02752031,
+         0.2294004 , -0.2917522 ]], dtype=float32)), ('encoder_bx', array([ 0.08998511,  0.07314114,  0.09704064,  0.10962126,  0.101931  ,
+       -0.11276528,  0.09638117, -0.06486983,  0.07824153,  0.10417606,
+        0.08960782, -0.09247816, -0.10158474, -0.06739341,  0.07752014,
+        0.10456165,  0.10474504, -0.08925919,  0.08047931, -0.08219265,
+        0.10580249, -0.10384602,  0.09250365, -0.09535874,  0.04651596,
+       -0.02235766,  0.07673647, -0.07835919,  0.11250662, -0.10812292,
+        0.03757405,  0.09576342, -0.10523484,  0.09729788, -0.0687679 ,
+       -0.06037653, -0.10424396, -0.09172306, -0.09200011, -0.06898246,
+        0.08352141,  0.0964199 , -0.07788718, -0.11009467,  0.07813876,
+       -0.11423105, -0.08464928, -0.07393427, -0.05536778, -0.08090822,
+       -0.06194652,  0.08958422,  0.0997059 ,  0.079193  , -0.1042285 ,
+       -0.02016619, -0.04571806,  0.11287355, -0.11590274, -0.10171127,
+       -0.09906776, -0.09699697,  0.10887282,  0.10334419], dtype=float32)), ('encoder_Ux', array([[ 0.18659349,  0.01731016,  0.23928653, ..., -0.21125773,
+        -0.1144796 ,  0.27625704],
+       [ 0.04748505, -0.05807766,  0.0958302 , ..., -0.20258199,
+         0.27184606, -0.00150029],
+       [ 0.00219576,  0.22212414,  0.17829409, ..., -0.08801269,
+         0.17356351,  0.24487881],
+       ...,
+       [-0.11707269,  0.03193458,  0.03564946, ...,  0.09835911,
+        -0.25475124, -0.12345462],
+       [-0.06003219,  0.07050887,  0.28402153, ..., -0.14138652,
+         0.21028735, -0.06600803],
+       [ 0.16075242,  0.08921649, -0.02150262, ...,  0.16427755,
+         0.16003852,  0.1410511 ]], dtype=float32)), ('ff_state_W', array([[-0.22547373, -0.13142723, -0.16432647, ..., -0.09909934,
+         0.06644855,  0.04821739],
+       [ 0.19345652,  0.11923409,  0.00396118, ..., -0.1176069 ,
+         0.08047035, -0.22054905],
+       [ 0.27184683,  0.1290667 , -0.08990986, ...,  0.17409544,
+        -0.09471267, -0.02244757],
+       ...,
+       [ 0.04535104, -0.06554032, -0.08568488, ..., -0.10931384,
+         0.1425662 ,  0.10305441],
+       [ 0.02800238, -0.00653514, -0.11581713, ...,  0.04579075,
+         0.11339247, -0.06519409],
+       [-0.07387055,  0.12701029, -0.05610774, ..., -0.08099256,
+         0.04221933, -0.20683451]], dtype=float32)), ('ff_state_b', array([ 0.03519082,  0.02512303, -0.03780352,  0.03424357, -0.03322115,
+        0.01899475, -0.04297889,  0.02368703,  0.01591463, -0.02973237,
+       -0.00385719,  0.03554971,  0.03503474, -0.04338872, -0.03327711,
+       -0.02635587,  0.0227563 , -0.0175897 , -0.03428357, -0.00530201,
+       -0.03500513, -0.02979082, -0.02433521, -0.02273956,  0.01010134,
+        0.02864843,  0.01565466,  0.03210368,  0.02212728,  0.03764252,
+        0.02944879, -0.00234951, -0.02291012, -0.03345297,  0.02920812,
+        0.01866074, -0.03586191, -0.02277016,  0.03186702,  0.02425261,
+        0.02828677,  0.03082891,  0.02084799,  0.03181957,  0.01452299,
+        0.02991098, -0.02485377,  0.03221538,  0.03403426,  0.01559285,
+       -0.00927902, -0.03000796,  0.03424624,  0.04375569, -0.03378896,
+       -0.01415696,  0.03453761,  0.0356761 ,  0.02593779, -0.03765279,
+       -0.02107484, -0.03133509, -0.03746193, -0.02849694], dtype=float32)), ('style_emb', array([[-1.37820735e-03, -2.51871198e-02,  1.73049292e-03,
+         2.66945153e-03, -2.78031603e-02,  1.12491082e-02,
+        -4.15728008e-03,  3.26952501e-03, -1.29168332e-02,
+         4.96084429e-03,  7.31555652e-03, -2.02907668e-03,
+         1.36699267e-02, -1.28691439e-02,  1.33195110e-02,
+         1.12319989e-02,  1.86603367e-02, -1.26738027e-02,
+         1.50435534e-03, -5.36187785e-03,  1.00083826e-02,
+        -5.15347626e-03,  1.83271468e-02,  6.09579496e-04,
+        -1.76863291e-03,  1.15911232e-03, -8.41867272e-03,
+        -1.42313810e-02,  1.69386230e-02, -5.06509840e-03,
+         1.43914693e-03, -2.64786649e-03, -1.66244935e-02,
+         1.04851127e-02,  2.40389942e-04, -1.02776978e-02,
+         2.97283381e-03, -7.99390767e-03, -1.12438947e-02,
+        -9.31275077e-03, -2.14129128e-02, -3.71796847e-03,
+        -2.74658203e-04,  6.55504921e-03, -3.82853963e-04,
+         8.96934886e-03,  3.08394170e-04, -1.46482876e-02,
+        -7.18553783e-03,  2.02194881e-02, -8.98147002e-03,
+         1.12299165e-02, -3.45962169e-03, -7.68183556e-04,
+         1.38329016e-02,  1.45645195e-03, -7.72373192e-03,
+        -2.22481438e-03, -5.15940413e-03,  4.98847850e-03,
+        -1.76150259e-02,  6.86867861e-03, -3.64899170e-03,
+        -1.90840699e-02],
+       [ 4.82609356e-03,  6.36166253e-04, -8.77041090e-03,
+        -2.60277768e-03, -5.96108427e-03,  9.63185728e-03,
+        -3.75191006e-03,  2.43168138e-03, -8.21403228e-03,
+         1.71427339e-04, -3.97190917e-03, -8.05856287e-03,
+        -8.82817525e-03,  2.45569609e-02, -3.50295077e-03,
+         2.21885107e-02, -1.67319539e-03,  6.54393295e-03,
+        -4.76271426e-03,  1.19299535e-03, -1.25820758e-02,
+        -2.38168482e-02, -1.85526605e-03,  4.39134939e-03,
+         6.63304282e-03, -8.89710244e-03,  1.10082086e-02,
+        -1.27969915e-03, -1.44019467e-03, -4.62137815e-03,
+         2.76249880e-03,  8.65846593e-03,  7.99612550e-04,
+         6.11915532e-03, -4.56526829e-03, -1.12024676e-02,
+        -5.06732566e-03, -6.15452824e-04,  8.61613918e-03,
+        -6.36314694e-03, -2.24310835e-03,  1.06888432e-02,
+        -1.02252392e-02,  3.42423707e-04, -1.40590761e-02,
+         1.39700202e-02, -2.51571815e-02, -1.46908115e-03,
+        -4.96013649e-03, -1.70008410e-02, -4.96082427e-03,
+         1.84078962e-02,  7.20450189e-03,  1.17562078e-02,
+        -1.72895391e-03,  1.14223342e-02,  6.19061975e-05,
+        -5.58402739e-04, -8.82602297e-03,  5.65786054e-03,
+        -1.31301647e-02,  1.04674883e-03,  4.53395955e-03,
+        -6.64946670e-03]], dtype=float32)), ('style_matrix0', array([[ 0.07247148,  0.10945292, -0.26048172, ...,  0.06648663,
+         0.01389913, -0.07682492],
+       [-0.05758524, -0.01529329, -0.0252788 , ..., -0.10331719,
+         0.280001  ,  0.13861719],
+       [-0.0631574 , -0.15158743, -0.07045595, ...,  0.01359801,
+         0.05495421, -0.18554953],
+       ...,
+       [ 0.11100511,  0.14255106, -0.09525144, ..., -0.13613467,
+        -0.16161944,  0.05066564],
+       [ 0.03811071, -0.18087362, -0.11909648, ...,  0.04438131,
+         0.0405509 ,  0.12889446],
+       [-0.09894759, -0.07354423,  0.01486169, ..., -0.01963853,
+        -0.00275078,  0.05444628]], dtype=float32)), ('style_matrix1', array([[-1.15540647e-03, -6.60836650e-03],
+       [-3.49760242e-03, -1.71990145e-03],
+       [ 1.65189989e-03,  1.33107323e-02],
+       [-2.59250577e-04,  2.29735626e-03],
+       [ 2.67299917e-03, -2.67515657e-03],
+       [-8.14845413e-03, -3.48978816e-03],
+       [ 1.64649216e-03,  1.84046756e-02],
+       [-7.31073599e-03,  5.20836050e-03],
+       [ 4.78033954e-03,  1.12569416e-02],
+       [ 9.53191891e-03, -3.88690154e-03],
+       [ 3.21829552e-03, -1.06483244e-03],
+       [-3.27039743e-05, -5.65076945e-03],
+       [-8.55403079e-04,  7.99562503e-03],
+       [ 4.28676605e-03, -1.43132992e-02],
+       [ 9.17051267e-03,  5.63688437e-03],
+       [ 1.33625173e-03,  1.15543639e-03],
+       [ 1.09312069e-02, -8.21071770e-03],
+       [-9.24939173e-04, -7.34012201e-03],
+       [-7.67133664e-03, -7.83574209e-03],
+       [ 1.17904954e-02, -1.34427547e-02],
+       [ 4.40377230e-03, -1.18052252e-02],
+       [ 9.80071630e-03,  1.28354132e-02],
+       [ 1.45585192e-02,  9.49051511e-03],
+       [-3.64727015e-03, -4.15082369e-03],
+       [-2.50496855e-03,  3.36006377e-03],
+       [-1.20322723e-02, -8.01122375e-03],
+       [-8.77567939e-03, -1.69775654e-02],
+       [-1.30466116e-03, -1.26251881e-03],
+       [ 5.89632662e-04,  7.99899455e-03],
+       [ 1.51061304e-02,  3.23608425e-03],
+       [-3.73430643e-03, -2.96278507e-03],
+       [-4.14820993e-03,  2.40031467e-03],
+       [ 1.53775606e-03, -6.74831821e-03],
+       [ 1.24914376e-02,  4.19195043e-03],
+       [-8.38663615e-03, -1.05310581e-04],
+       [-1.29850172e-02,  3.73624405e-03],
+       [-5.08053042e-03,  7.83031993e-03],
+       [ 2.56383116e-03, -3.02183512e-03],
+       [-7.63723999e-03, -9.28869843e-03],
+       [-1.31591950e-02, -1.11371735e-02],
+       [ 5.16656693e-03, -9.32074245e-03],
+       [-8.12442682e-04, -7.08340853e-03],
+       [ 3.47140012e-05, -9.45265871e-03],
+       [-2.11631954e-02, -6.70776609e-03],
+       [-1.08727934e-02, -7.69307883e-03],
+       [ 1.91360712e-02, -1.06982351e-03],
+       [ 8.93732067e-03,  6.55856542e-03],
+       [ 1.41327605e-02,  1.97942159e-03],
+       [-1.27389515e-02, -3.33133154e-03],
+       [ 4.72549256e-03, -8.24727304e-03],
+       [-5.02224034e-03, -2.82007712e-03],
+       [ 9.39339981e-04,  2.57809926e-03],
+       [ 5.63000143e-03,  9.47159436e-03],
+       [-2.71143410e-02, -4.94626816e-03],
+       [-7.02706538e-03, -1.77098881e-03],
+       [ 2.15434022e-02,  4.66642808e-03],
+       [ 3.75957880e-03, -7.41296541e-03],
+       [ 1.46305596e-03,  1.09617505e-02],
+       [-2.87337718e-03,  4.19086398e-04],
+       [ 4.05446044e-04,  1.17070721e-02],
+       [ 1.19268931e-02, -1.76457260e-02],
+       [-9.08337533e-03, -4.42723883e-03],
+       [ 7.78086309e-04, -8.12457595e-03],
+       [ 1.06436834e-02, -1.49055719e-02]], dtype=float32)), ('decoder_W', array([[-0.15929312,  0.01633715, -0.19518495, ..., -0.0640528 ,
+         0.15834843, -0.01141169],
+       [ 0.24215256,  0.07034272, -0.04742821, ..., -0.07639123,
+        -0.3133319 ,  0.09734721],
+       [-0.15190426,  0.15804139,  0.02557692, ..., -0.1407899 ,
+        -0.02824187, -0.06557988],
+       ...,
+       [ 0.1421918 , -0.09806242,  0.27215055, ...,  0.0049754 ,
+        -0.01085528,  0.1868464 ],
+       [ 0.14773059, -0.0074279 , -0.08824618, ..., -0.10627221,
+         0.05461129,  0.09630199],
+       [ 0.06027996, -0.00886254,  0.19800624, ...,  0.03970017,
+        -0.08373842, -0.15828428]], dtype=float32)), ('decoder_b', array([-0.01339847,  0.01194713,  0.02088824,  0.00486576,  0.0196423 ,
+        0.01349878,  0.00683707,  0.00609272,  0.01133848,  0.01521858,
+        0.00363344,  0.00943729,  0.01107741,  0.01719275,  0.01634375,
+        0.00980189,  0.01328328,  0.00932896,  0.01753555,  0.00646568,
+        0.01831417,  0.01056064, -0.01530103,  0.01288097,  0.00229112,
+        0.01087524,  0.00706779,  0.01375334,  0.01514277,  0.01605416,
+        0.00737848,  0.0124139 ,  0.01140627,  0.01142094,  0.0102169 ,
+        0.00845127,  0.01382734,  0.00132739,  0.01529652,  0.01404109,
+        0.01266939,  0.00523506,  0.00840544,  0.013049  ,  0.01082174,
+        0.01847882,  0.00699543,  0.01278327,  0.01234478,  0.0099763 ,
+       -0.00542438, -0.00657172,  0.01351338,  0.0214127 ,  0.0096053 ,
+        0.01206671, -0.0158018 ,  0.01583452,  0.01534387,  0.01519637,
+        0.00867913,  0.01687456,  0.01183496, -0.00014031, -0.01279913,
+       -0.0119266 , -0.01443216, -0.01031653, -0.02020596, -0.00571694,
+       -0.01777874,  0.00734527,  0.00226425, -0.00870904, -0.00392721,
+       -0.00958839, -0.0095767 , -0.01678454, -0.02099269,  0.00025496,
+       -0.01037278, -0.01109769, -0.00761514, -0.00702425, -0.0144026 ,
+       -0.01386263,  0.00321472, -0.00711495, -0.00504057, -0.00454217,
+       -0.00542399, -0.00843075,  0.00172373, -0.01571837, -0.00973189,
+       -0.00822089,  0.00564682, -0.010701  , -0.00932735, -0.01704089,
+       -0.00993704, -0.00132257, -0.01667864, -0.00882935, -0.0123325 ,
+       -0.00395062, -0.01643499, -0.01201361, -0.00510936, -0.00993809,
+       -0.00590244, -0.01685572, -0.02304147, -0.0054563 , -0.01624458,
+       -0.0097723 , -0.01623023, -0.01981117, -0.01105388, -0.01759573,
+       -0.00141784, -0.0176207 , -0.01085145, -0.01773397, -0.00835741,
+       -0.01431677, -0.01594848, -0.0010193 ], dtype=float32)), ('decoder_U', array([[-1.27121955e-02,  2.58874352e-04,  1.70418113e-01, ...,
+         3.91513109e-02, -1.37795508e-01, -4.43862937e-02],
+       [-4.45626937e-02,  3.72616318e-03,  1.35051861e-01, ...,
+        -3.15585509e-02,  2.89602168e-02, -5.58309928e-02],
+       [ 7.04078227e-02,  1.53031960e-01, -1.89680047e-02, ...,
+        -1.80640239e-02, -4.16835062e-02, -1.06034547e-01],
+       ...,
+       [ 2.23943159e-01, -2.42766976e-01, -2.56831758e-02, ...,
+         5.05710244e-02,  4.18412909e-02, -7.84734543e-03],
+       [ 6.68542758e-02, -8.53773504e-02,  9.80842486e-02, ...,
+         7.78325945e-02, -2.87230521e-01,  2.63974871e-02],
+       [ 2.36891091e-01, -1.02359906e-01, -2.31032193e-01, ...,
+         3.86886746e-02, -1.25309855e-01,  4.26026769e-02]], dtype=float32)), ('decoder_Wx', array([[ 0.04946636,  0.05700624,  0.03438704, ...,  0.28251746,
+        -0.11644635,  0.04476525],
+       [-0.09575178,  0.08005563, -0.14016074, ..., -0.3408646 ,
+         0.02430203,  0.28807372],
+       [ 0.26387322, -0.09916644, -0.04943999, ...,  0.14382143,
+        -0.08985639, -0.06987873],
+       ...,
+       [ 0.03735959,  0.03557312, -0.13593692, ..., -0.06590934,
+         0.15286279, -0.06851662],
+       [ 0.03769906, -0.06537858,  0.04760843, ...,  0.01978093,
+         0.11996032, -0.00423167],
+       [-0.24746305, -0.05911895, -0.15745963, ...,  0.14742969,
+         0.26240858,  0.02568925]], dtype=float32)), ('decoder_bx', array([ 0.06193622,  0.02709221, -0.0680078 ,  0.06446657, -0.04948287,
+        0.02949594, -0.063118  ,  0.07013795,  0.0537405 , -0.06557926,
+       -0.04061163,  0.06610532,  0.06232804, -0.06382372, -0.06039413,
+       -0.05455713,  0.02693551, -0.01487517, -0.06874442, -0.06053666,
+       -0.06878664, -0.04606169, -0.06809498, -0.05099028,  0.00961795,
+        0.05973521, -0.0128829 ,  0.05777682,  0.05143229,  0.067536  ,
+        0.03003268,  0.02054895, -0.04750598, -0.0604706 ,  0.0617261 ,
+        0.0181352 , -0.06771027, -0.03709239,  0.06072441,  0.04629948,
+        0.03772906,  0.03223952,  0.02228669,  0.04513282, -0.00265387,
+        0.03958152, -0.04281158,  0.04992488,  0.06079363,  0.02965099,
+       -0.00329804, -0.04889686,  0.03187399,  0.06921688, -0.06290085,
+       -0.01725968,  0.05632578,  0.06522584,  0.06111386, -0.06185688,
+       -0.02138563, -0.06678085, -0.05431095, -0.05349047], dtype=float32)), ('decoder_Ux', array([[-0.17944019, -0.04962985, -0.03818657, ...,  0.00051141,
+        -0.07470813, -0.01202065],
+       [ 0.20069891,  0.20148243, -0.00899387, ..., -0.04894736,
+         0.00216397,  0.11429479],
+       [-0.05027401, -0.05764473,  0.06354938, ...,  0.13627617,
+         0.09113352, -0.00877308],
+       ...,
+       [-0.09683444,  0.08221991,  0.10384355, ..., -0.02118536,
+        -0.12430019,  0.133324  ],
+       [ 0.10870545,  0.02210335, -0.12238722, ...,  0.27072397,
+        -0.0491621 ,  0.01066269],
+       [-0.03671336,  0.1694465 ,  0.15607867, ...,  0.22468857,
+         0.2012581 , -0.16216895]], dtype=float32)), ('decoder_Wc', array([[-0.01292677,  0.01789966,  0.0082411 , ..., -0.00816912,
+        -0.03004756,  0.00357704],
+       [-0.00451958,  0.00468011, -0.00377899, ..., -0.00969326,
+        -0.01259411, -0.00268732],
+       [-0.00784727,  0.00915611,  0.0109775 , ..., -0.00201465,
+         0.00517297, -0.01778684],
+       ...,
+       [-0.00547466, -0.00581727, -0.00719003, ...,  0.00385327,
+        -0.00591257,  0.00773515],
+       [-0.00385713, -0.00755188,  0.00442909, ..., -0.00163691,
+        -0.01365333,  0.00286277],
+       [-0.01156687,  0.00290761, -0.0116046 , ..., -0.01039707,
+        -0.01224209, -0.00870237]], dtype=float32)), ('decoder_Wcx', array([[ 0.01748765, -0.05321361, -0.18249318, ..., -0.13247389,
+         0.29864582,  0.00597577],
+       [ 0.06858118, -0.2138094 ,  0.05216163, ..., -0.13062891,
+        -0.12477679, -0.09039295],
+       [-0.00694216,  0.06958685, -0.03997703, ..., -0.02726177,
+        -0.09091791,  0.05713071],
+       ...,
+       [-0.01309744, -0.08228478,  0.02622861, ..., -0.18737167,
+         0.13357592,  0.07374613],
+       [-0.07970843,  0.07747918, -0.12173827, ..., -0.204737  ,
+        -0.09202287, -0.2984996 ],
+       [ 0.07934871,  0.00584987, -0.13171774, ..., -0.11839119,
+        -0.03657553,  0.11973512]], dtype=float32)), ('ff_logit_lstm_W', array([[-0.0677157 , -0.04955949,  0.04691269, ...,  0.06550757,
+        -0.05178155, -0.04531465],
+       [-0.01308146, -0.02988767,  0.05526435, ...,  0.03841186,
+        -0.04779738, -0.04183105],
+       [ 0.06776408,  0.06240962, -0.07436597, ..., -0.04395344,
+         0.0477779 ,  0.05371617],
+       ...,
+       [ 0.05733301,  0.05877409, -0.05971317, ..., -0.06040097,
+         0.06252734,  0.06378131],
+       [ 0.02974808,  0.0550449 , -0.05518916, ..., -0.04567653,
+         0.03763583,  0.03130894],
+       [ 0.05006848,  0.02811841, -0.04085759, ..., -0.04690418,
+         0.04977677,  0.03749741]], dtype=float32)), ('ff_logit_lstm_b', array([-0.07622256, -0.07961144,  0.07767712,  0.08285474,  0.07191782,
+       -0.07543043,  0.06493134, -0.0805928 , -0.08153236,  0.07007619,
+        0.07113665,  0.07758593,  0.07718694, -0.06249399, -0.08165138,
+        0.06132923, -0.07412715, -0.0735817 , -0.07925616, -0.08247874,
+        0.07800587, -0.07899322, -0.07867073, -0.06913556, -0.06777424,
+        0.07560244,  0.08158165, -0.08087534,  0.07613349,  0.08479503,
+       -0.07712449, -0.08184601,  0.07535986,  0.06877322,  0.07499613,
+       -0.07531082,  0.07891631, -0.08094452, -0.06966699,  0.08041161,
+        0.08078081,  0.0693498 ,  0.07505923,  0.07992169,  0.08076617,
+        0.07643224,  0.08231151,  0.07112176,  0.07988458, -0.07748814,
+       -0.07839634,  0.08410213,  0.0769795 , -0.07958739, -0.07819223,
+       -0.07954343,  0.0737125 , -0.07167902, -0.0859849 ,  0.07070288,
+       -0.0741424 ,  0.07856375, -0.07592283, -0.06226419], dtype=float32)), ('ff_logit_prev_W', array([[-2.0716274e-03, -1.6437221e-02,  1.1653438e-02, ...,
+         6.8487204e-03,  2.0169902e-03,  7.1239593e-03],
+       [ 6.9162605e-05, -1.2418002e-02, -1.5419783e-02, ...,
+         2.7126973e-03, -4.8508288e-04,  5.3351615e-03],
+       [-8.2723293e-03, -1.1276310e-02,  8.1160935e-03, ...,
+         1.1145161e-02, -8.9967689e-03, -6.4245556e-03],
+       ...,
+       [-9.6801587e-04,  2.4123518e-03, -2.9168320e-03, ...,
+        -4.8003946e-03,  5.5787512e-03, -2.4384768e-03],
+       [ 1.5488048e-02,  8.0891149e-03, -1.6858213e-02, ...,
+        -1.9418310e-02, -5.8452827e-03, -1.4099138e-02],
+       [-3.5819244e-03, -1.5942432e-03,  3.2047585e-03, ...,
+         1.0183781e-02, -9.2478292e-03,  7.8022750e-03]], dtype=float32)), ('ff_logit_prev_b', array([-0.07622256, -0.07961144,  0.07767712,  0.08285474,  0.07191782,
+       -0.07543043,  0.06493134, -0.0805928 , -0.08153236,  0.07007619,
+        0.07113665,  0.07758593,  0.07718694, -0.06249399, -0.08165138,
+        0.06132923, -0.07412715, -0.0735817 , -0.07925616, -0.08247874,
+        0.07800587, -0.07899322, -0.07867073, -0.06913556, -0.06777424,
+        0.07560244,  0.08158165, -0.08087534,  0.07613349,  0.08479503,
+       -0.07712449, -0.08184601,  0.07535986,  0.06877322,  0.07499613,
+       -0.07531082,  0.07891631, -0.08094452, -0.06966699,  0.08041161,
+        0.08078081,  0.0693498 ,  0.07505923,  0.07992169,  0.08076617,
+        0.07643224,  0.08231151,  0.07112176,  0.07988458, -0.07748814,
+       -0.07839634,  0.08410213,  0.0769795 , -0.07958739, -0.07819223,
+       -0.07954343,  0.0737125 , -0.07167902, -0.0859849 ,  0.07070288,
+       -0.0741424 ,  0.07856375, -0.07592283, -0.06226419], dtype=float32)), ('ff_logit_ctx_W', array([[-0.03709601, -0.03793703,  0.05037044, ...,  0.05943585,
+        -0.05883368, -0.04157925],
+       [-0.04537325, -0.03990575,  0.04628721, ...,  0.04778695,
+        -0.05090646, -0.0540305 ],
+       [-0.05343735, -0.04677889,  0.02634101, ...,  0.04670717,
+        -0.02234426, -0.0518188 ],
+       ...,
+       [ 0.02815286,  0.04414071, -0.04729941, ..., -0.03888098,
+         0.03713449,  0.03158342],
+       [-0.06390793, -0.05715759,  0.07280107, ...,  0.07202055,
+        -0.03494445, -0.04483401],
+       [-0.04372676, -0.0516667 ,  0.06869462, ...,  0.04733706,
+        -0.05424972, -0.05691505]], dtype=float32)), ('ff_logit_ctx_b', array([-0.07622257, -0.07961144,  0.07767711,  0.08285473,  0.07191782,
+       -0.07543044,  0.06493134, -0.0805928 , -0.08153236,  0.07007619,
+        0.07113665,  0.07758593,  0.07718694, -0.06249399, -0.0816514 ,
+        0.06132925, -0.07412715, -0.07358172, -0.07925616, -0.08247874,
+        0.07800588, -0.07899322, -0.07867075, -0.06913557, -0.06777424,
+        0.07560243,  0.08158164, -0.08087535,  0.07613349,  0.08479503,
+       -0.07712448, -0.08184601,  0.07535986,  0.06877322,  0.07499612,
+       -0.07531082,  0.07891631, -0.08094451, -0.06966699,  0.08041162,
+        0.0807808 ,  0.06934979,  0.07505923,  0.0799217 ,  0.08076616,
+        0.07643224,  0.08231152,  0.07112176,  0.07988457, -0.07748814,
+       -0.07839633,  0.08410215,  0.07697949, -0.07958739, -0.07819225,
+       -0.07954342,  0.0737125 , -0.07167902, -0.08598489,  0.07070289,
+       -0.0741424 ,  0.07856374, -0.07592283, -0.06226419], dtype=float32)), ('ff_logit_W', array([[-0.09836809,  0.08032805, -0.10432642, ...,  0.06801438,
+         0.06006236,  0.072051  ],
+       [-0.11724039,  0.06855576, -0.10791411, ...,  0.07301705,
+         0.08217806,  0.06290174],
+       [ 0.11866777, -0.05238904,  0.11129849, ..., -0.06855062,
+        -0.07080663, -0.04529639],
+       ...,
+       [ 0.11745925, -0.07281016,  0.11873263, ..., -0.08623406,
+        -0.06341863, -0.06844931],
+       [-0.10209402,  0.06572279, -0.11277653, ...,  0.07384004,
+         0.05276126,  0.06182618],
+       [-0.10612287,  0.0611999 , -0.10837935, ...,  0.07198834,
+         0.07272153,  0.07598466]], dtype=float32)), ('ff_logit_b', array([ 0.00572519, -0.06741464,  0.00484705, ..., -0.06720818,
+       -0.0690754 , -0.06787112], dtype=float32))])
