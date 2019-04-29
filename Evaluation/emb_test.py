@@ -86,7 +86,7 @@ def random_content_reservation():
     scores = com_file_score(f0, f1, word_dict)
     scores = np.array(scores, dtype=np.float32)
 
-    print(np.mean(scores))
+    print((np.mean(scores)))
 
 
 

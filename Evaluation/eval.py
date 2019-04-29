@@ -59,9 +59,9 @@ def parse_dir(dir_name):
         score_sem = parse_model_sem(model_name, style_type)
         #score_sem = (score_sem-0.828)/0.172 
         if model_type=="memory":
-            print(dir_name, "\t", model_type, "\t", score_class, "\t\t", score_sem, "\t", score_class*score_sem/(score_class+score_sem))
+            print dir_name, "\t", model_type, "\t", score_class, "\t\t", score_sem, "\t", score_class*score_sem/(score_class+score_sem)
         else:
-            print(dir_name, "\t", model_type, "\t", score_class, "\t\t", score_sem, "\t", score_class*score_sem/(score_class+score_sem))
+            print dir_name, "\t", model_type, "\t", score_class, "\t\t", score_sem, "\t", score_class*score_sem/(score_class+score_sem)
         res_class.append(score_class)
         res_sem.append(score_sem)
 

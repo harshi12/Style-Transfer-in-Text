@@ -57,7 +57,7 @@ def get_date():
             word_index[i[0]] = index_iter
             index_iter += 1
     assert len(word_index)==index_iter-3, "word_index count wrong"
-    print("filter word_count:", len(word_index))
+    print(("filter word_count:", len(word_index)))
 
     style_train_data = [int(x.strip()) for x in style_train_data]
     style_train_data0 = np.array(style_train_data)
@@ -90,7 +90,7 @@ def get_date():
     random.shuffle(style_train_data)
 
     sent_index_train = np.array(sent_index)
-    print("sentence train number:",sent_index_train.shape[0])
+    print(("sentence train number:",sent_index_train.shape[0]))
     style_train_data = np.array(style_train_data)
     sent_index = []
     for line in val_data:
@@ -103,7 +103,7 @@ def get_date():
                 #what to do, if the word is not in the index
         sent_index.append(x)
     sent_index_val = np.array(sent_index)
-    print("sentence val number:",sent_index_val.shape[0])
+    print(("sentence val number:",sent_index_val.shape[0]))
 
 
 
@@ -122,22 +122,22 @@ def get_date():
 
     sent_label1 = np.array([1 if i==1. else 0. for i in style_train_data])
     sent_label0 = np.array([1 if i==0. else 0. for i in style_train_data])
-    print("senti_pos: "+str(sent_label1.sum()))
-    print("senti_neg: "+str(sent_label0.sum()))
+    print(("senti_pos: "+str(sent_label1.sum())))
+    print(("senti_neg: "+str(sent_label0.sum())))
 
 
 def train():
     
     print('Loading data...')
     (X_train, y_train), (X_test, y_test) = pkl.load(open("./model/train.pkl",'rb'))
-    print(len(X_train), 'train sequences')
-    print(len(X_test), 'test sequences')
+    print((len(X_train), 'train sequences'))
+    print((len(X_test), 'test sequences'))
 
     print('Pad sequences (samples x time)')
     X_train = sequence.pad_sequences(X_train, maxlen=maxlen)
     X_test = sequence.pad_sequences(X_test, maxlen=maxlen)
-    print('X_train shape:', X_train.shape)
-    print('X_test shape:', X_test.shape) 
+    print(('X_train shape:', X_train.shape))
+    print(('X_test shape:', X_test.shape)) 
 
     #print y_test[:100]
     print('Build model...')
@@ -157,8 +157,8 @@ def train():
           validation_data=(X_test, y_test))
     score, acc = model.evaluate(X_test, y_test,
                             batch_size=batch_size)
-    print('Test score:', score)
-    print('Test accuracy:', acc)
+    print(('Test score:', score))
+    print(('Test accuracy:', acc))
 
     json_string = model.to_json()  
     open('./model/model_architecture.json','w').write(json_string)  
@@ -183,7 +183,7 @@ def get_test_data(test_data_path):
                 #what to do, if the word is not in the index
         sent_index.append(x)
     sent_index = np.array(sent_index)
-    print("test sentence number:",sent_index.shape[0])
+    print(("test sentence number:",sent_index.shape[0]))
     return sent_index
 
 def test(test_dir_name):
@@ -199,7 +199,7 @@ def test(test_dir_name):
         for index_name in ["0", "1"]:
             test_x = get_test_data(test_dir_name + "/"+ dir_name +"/style"+ index_name +".txt")
             test_x = sequence.pad_sequences(test_x, maxlen=maxlen)
-            print("test_x shape:"+str(test_x.shape))   
+            print(("test_x shape:"+str(test_x.shape)))   
             scores=model.predict_proba(test_x)
             f = open(test_dir_name + "/"+ dir_name +"/style"+ index_name +"_classification.txt", "w")
             for score in scores:

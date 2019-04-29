@@ -37,4 +37,4 @@ class Embedding():
 if __name__=="__main__":
     emb = Embedding(100)
     x = emb.get_all_emb()
-    print(x["name"])
+    print((x["name"]))
