@@ -1,0 +1,9 @@
+ sed 's/\(.*\)[0-1]/\1 /' file.txt > q_file.txt
+
+
+sed 's/^"\(.*\)"$/\1/' rand_new_q.txt > new_q.txt
+
+ awk 'NF>1{print $NF}' file.txt > s_file.txt
+
+
+grep '^[a-zA-Z0-9"][a-zA-Z0-9.;:/!?" -]*$' twitter_labelled.txt
