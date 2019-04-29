@@ -1,0 +1,8 @@
+/var/spool/slurmd/job236287/slurm_script: 10: /var/spool/slurmd/job236287/slurm_script: module: not found
+/var/spool/slurmd/job236287/slurm_script: 11: /var/spool/slurmd/job236287/slurm_script: module: not found
+/var/spool/slurmd/job236287/slurm_script: 12: /var/spool/slurmd/job236287/slurm_script: module: not found
+]0;IPython: style_transfer/session_auto_encoder/home/schowdhury/anaconda3/lib/python3.6/site-packages/theano/configdefaults.py:1952: UserWarning: Theano does not recognise this flag: lib.cnmem
+  warnings.warn('Theano does not recognise this flag: {0}'.format(key))
+Can not use cuDNN on context None: cannot compile with cuDNN. We got this error:
+b'/tmp/try_flags_nhkm6sns.c:4:19: fatal error: cudnn.h: No such file or directory\ncompilation terminated.\n'
+Mapped name None to device cuda: GeForce GTX 1080 Ti (0000:82:00.0)
