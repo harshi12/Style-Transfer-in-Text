@@ -48993,7 +48993,7 @@ Optimization over Continuous and Multi-dimensional Decisions with Observational 
 A probabilistic gridded product for daily precipitation extremes over the United States
 Using Recursive Partitioning to Find and Estimate Heterogenous Treatment Effects In Randomized Clinical Trials
 TherML: Thermodynamics of Machine Learning
-Fast and exact simulation of isotropic Gaussian random fields on $\mathbb{S}^{2}$ and $\mathbb{S}^{2}\times \mathbb{R}$
+Fast and exact simulation of isotropic Gaussian random fields 
 Robust relative error estimation
 Exploiting statistical dependencies of time series with hierarchical correlation reconstruction
 Modeling and Soft-fault Diagnosis of Underwater Thrusters with Recurrent Neural Networks
@@ -49002,3 +49002,395 @@ A Recurrent Neural Network Survival Model: Predicting Web User Return Time
 Proactive Intervention to Downtrend Employee Attrition using Artificial Intelligence Techniques
 A punishment voting algorithm based on super categories construction for acoustic scene classification
 Recurrent Neural Networks with Flexible Gates usin
+​Potential of Bacterial Profile Modification in Enhanced Oil Recovery in Depleted Oil Reservoir
+Analytical Investigation of Cymbopogon citratus and Exploiting the Potential of Developed Silver Nanoparticle Against the Dominating Species of Pathogenic Bacteria.
+Laboratory Investigation of Indigenous Consortia TERIJ-188 for Incremental Oil Recovery
+Evaluating the potential of indigenous methanogenic consortium for enhanced oil and gas recovery from high temperature depleted oil reservoir
+The Newer Paradigms to Link Corporate Social Responsibility (CSR) with Sustainable Development Goals (SDG’s)
+Empowerment of tribal communities through sericulture programmes in Jharkhand State
+Greenhouse Gas Emission Modelling and Its Validation - A Case Study for Okhla Disposal Site
+Decentralized Organic Waste Management with Small-Scale Anaerobic Digester - A Case Study of Pune, India 
+A Not-so-rare Species: Sightings of Mandarin Ratsnakes, Euprepiophis mandarinus (Cantor 1842), in the Zunheboto District of Nagaland, India
+Solar PV mini-grids versus large-scale embedded PV generation: A case study of Uttar Pradesh (India)
+Meeting Future Energy Needs in the Hindu Kush Himalaya
+Pay-As-You-Go financing: A model for viable and widespread deployment of solar home systems in rural India
+​Reengineering India's Education System Through E-Learning
+Applicability of the electrocoagulation process in treating real municipal wastewater containing pharmaceutical active compounds.
+Technical analysis for preferring more efficient and green technology for thermal power generation: "Advanced-Ultra Supercritical 760°C"
+Carbon and hydrogen isotope analysis of parathion for characterizing its natural attenuation by hydrolysis at a contaminated site.
+Climate Change and Women’s Health: Impacts and Opportunities in India
+The Call Of The Chengu: An odyssey into the heart of community conservation
+Resurrection of Nalidixic Acid: Evaluation of Water-Based Nanoformulations as Potential Nanomedicine
+An open outdoor algal growth system of improved productivity for biofuel production
+Green Growth Intervention on Employment Generation in India: Dynamic CGE Model Approach
+​Methodology for Determining Minimum Support Price for Minor Forest Produce in India
+​Economics, Finance, and the Private Sector
+	 Framework for sustainable management of end-of-life vehicles management in India
+Framework for sustainable management of end-of-life vehicles management in India
+Discussion paper: Challenges and opportunities - plastic waste management In India 
+​The Pharmacological Potential of Nonribosomal Peptides from Marine Sponge and Tunicates.
+	 ​Isolation, characterization of endophytic fungi of Mimusops elengi (Bakul).​
+​Novel Anticancer Compounds from Endophytic Fungi
+​Marine Fungi: A Source of Potential Anticancer Compounds
+An Aspergillus aculateus strain was capable of producing agriculturally useful nanoparticles via bioremediation of iron ore tailings
+Biomass Resources Assessment in Belagavi District, Karnataka
+​Fractionation of sugarcane molasses distillery wastewater and evaluation of antioxidant and antimicrobial characteristics​
+​Demonstration of acid and water recovery systems: Applicability and operational challenges in Indian metal finishing SMEs
+Concentrating molasses distillery wastewater using biomimetic forward osmosis (FO) membranes
+Concentrating molasses distillery wastewater using biomimetic forward osmosis (FO) membranes
+Expression in rice of an autoactive variant of Medicago truncatula DMI3, the Ca+2 / calmodulin-dependent protein kinase from the common symbiotic pathway modifies root transcriptome and improves mycorrhizal colonization 
+	 ​Energy poverty in Asia
+	 ​Diffusion of solar PV in East Africa: What can be learned from private sector delivery models?
+​Solar microgrids in rural India: Consumers' willingness to pay for attributes of electricity​
+Greenhouse Gas Emissions and Reduction Stratagems from Waste Sector in India
+	 ​A Systems Approach to Agricultural Biosecurity
+​Validation of the SARAH-E Satellite-Based Surface Solar Radiation Estimates over India
+​Solar microgrids in rural India: Consumers' willingness to pay for attributes of electricity​
+Energy Efficiency in Indian Sugar Industries
+​Effective Adaptation of Clean Technologies – Solar Roof Top Photo Voltaic (SRTPV) Systems
+Polarized electrode enhances biological direct interspecies electron transfer for methane production in upflow anaerobic bioelectrochemical reactor
+Causes, Human Health Impacts and Control of Harmful Algal Blooms: A Comprehensive Review
+Traditional uses of the wild plants by the tribal communities of Jawhar, Palghar, Maharashtra, India
+Creating framework for climate resilient building materials in Himalayan region
+Use of renewable energy to enhance sustainability of the mid-day meal program in schools
+Trend analysis and ARIMA modelling of pre-monsoon rainfall data for western India
+Transition of Digital library in a web enabled environment: from Semantic to Social Semantic Digital library
+The trials and tribulations of the Village Energy Security Programme (VESP) in India
+The Evaluation of Two-stage Chemical Fractionation for the Enhanced Enzymatic Saccharification of Cellulose in Rice Straw
+Test of Airflow in a Mono-directional Wind-catcher for various Wind Conditions using Computational Fluid Dynamics
+Sustainable agriculture practices for food and nutritional security
+Sugarcane bagasse fly ash as an attractive agro-industry source for VOC removal on porous
+Solar energy programs for rural electrification: Experiences and lessons from South Asia
+Response to discussion on: "An integrated statistical approach for evaluating the exceedance of criteria pollutants in the ambient air of megacity Delhi", Atmospheric Environment
+Response surface optimization of poly (3-hydroxyalkanoic acid) production using oleic acid as an alternative carbon source by seudomonas aeruginosa
+Recovery of Lipids from Algae
+Reconstruction and visualization of carbohydrate, N-glycosylation pathways in Pichia pastoris CBS7435 using computational and system biology approaches
+Proposed plan for disposal of mercury bearing lamps for India
+Pricing Urban Water Supply
+Preliminary feasibility evaluation of solar thermal power generation in India
+Performance evaluation of three types of forced draft cook stoves using fuel wood and coconut shell
+Monitoring urbanization dynamics in India using DMSP/OLS night timelights and SPOT-VGT data
+Molecular tools for tracing arbuscular mycorrhizal fungi (AMF) andplant growth-promoting rhizobacteria (PGPR)
+Modeling urban heat islands in heterogeneous land surface and its correlation with impervious surface area by using night-time ASTER satellite data in highly urbanizing city, Delhi-India
+Low severity dilute-acid hydrolysis of sweet sorghum bagasse
+Livelihood of Forest Dependent Communities and Sustainable Forest Management
+Knowledge Access using DL Platform: A TERI Research Library Case Study
+Influence of land use/land cover (LULC) changes on atmospheric dynamics over the arid region of Rajasthan state, India
+Indoor air quality in the rural India
+Impact of regulated pH on proto scale hydrogen production from xylose by an alkaline tolerant novel bacterial strain, Enterobacter cloacae DT-1
+Glaciers in Ganges basin: an assessment of their dimensions through inventories
+From Alage to Biofuels: Engineering Aspects
+Fostering Sustainability through Education, Research and Practice: A case study of TERI University
+Forest fragmentation in India
+Experimental study for energy efficient cooking devices based on solid biomass fuel and its sustainability for rural India
+Expanding Rural Energy Access and Improving Agro Industrial Energy Efficiency through Targeted Interventions
+Evolution of REDD Plus: From Kyoto to Doha
+Evaluation of vertical accuracy of open source Digital Elevation Model (DEM)
+Evaluation of bio efficacy of Tylophora indica leaf extracts, fractions and pure alkaloids against Helicoverpa armigera (Hubner)
+Evaluating the potential of concentrating solar power generation in Northwestern India
+Enterprise GIS and Smart Electric Grid for India
+Development and demonstration of Pongamia Oil based lantern for lighting for rural areas
+Development and characterisation of HDPE/EPDM-g-TMEVS blends for mechanical and morphological properties for engineering applications
+Design improvements and performance testing of a biomass gasifier based electric power generation system
+Daylighting in Schools influencing the health and productivity of children: Investigating with current British Standards
+Congruence of ribosomal DNA sequencing, fatty acid methyl ester profiles and morphology for characterization of genera rhizophagus (arbuscular mycorhiza fungus)
+Cloud Computing and Virtualization Technologies in Libraries
+Climate Variability and Rural Livelihood Systems: A Case Study of Three Coastal Villages in India
+Carrier mounted bacterial consortium facilitates oil remediation in the marine environment
+Carbon stock estimation for tree species of Sem Mukhem sacred forest in Garhwal Himalaya, India
+Can a "Blue Sky" Return to Indian Megacities
+Bacterial Biosynthesis of Indole-3-Acetic Acid: Signal Bacterial Biosynthesis of Indole-3-Acetic Acid: Signal Messenger Service
+Assessment of Volume Change in East Rathong Glacier, Eastern Himalaya
+Assessing biome boundary shifts under climate change scenarios in India
+Application of appropriate technologies in TERI Library and Information Centre: an exploratory study
+An integrated statistical approach for evaluating the exceedence of criteria pollutants in the ambient air of megacity Delhi
+An evaluative model for city competitiveness: Application to UK cities
+An assessment of health sector in the "state action plans on climate change" for India
+A two-track CDM: improved incentives for sustainable development and offset production
+A study of abandoned ash ponds reclaimed through green cover development
+A review of vermifiltration and related low cost alternatives for waste water management
+A nuclear liability framework for South Asia: formation of South Asia Association for Regional Cooperation (SAARC) nuclear risk community
+A new system using Solanum tuberosum for the co-cultivation of Glomus intraradices and its potential for mass producing spores of arbuscular mycorrhizal fungi
+A dual fired downdraft gasifier system to produce cleaner gas for power generation: Design, development and performance analysis
+The groundwater recharge response and hydrologic services of tropical humid forest ecosystems to use and reforestation: Support for the "infiltration-evapotranspiration trade-off hypothesis"
+Off-grid electricity generation with renewable energy technologies in India: An application of HOMER
+Ship ballast tanks a review from microbial corrosion and electrochemical point of view
+Development of HDPE/EPDM-g-TMEVS nanocomposites with enhanced electrical and flame properties
+Wildfires in India: Tools and Hazards
+Urgent need for life-cycle thinking in infrastructure
+Urban Challenges in India and the Mission for a Sustainable Habitat
+Understanding public knowledge and awareness on e-waste in an urban setting in India A case study for Delhi
+Treatment of nitrate-rich water in a baffled membrane bioreactor (BMBR) employing waste derived materials
+Topographic controls on spatio-temporal snow cover distribution in Northwest Himalaya
+Thermogravimetric analysis and kinetic modelling studies of selected agro-residues and biodiesel industry wastes for pyrolytic conversion to bio-oil
+Thermal performance prediction and energy conservation potential of earth air tunnel heat exchanger for thermal comfort in building
+The legal framework to manage chemical pollution in India and the lesson from the Persistent Organic Pollutants (POPs)
+The effect of boundary layer dynamics on aerosol properties at the Indo-Gangetic plains and at the foothills of the Himalayas
+The Changing Urban Landscape and Its Impact on Local Environment in an Indian Megacity: The Case of Delhi
+Sustainability Science for Social, Economic and Environmental Development
+Study on heavy metal contamination of agricultural soils and vegetables grown in the Delhi segment of Yamuna river basin, Global Health Perspectives
+Sphere of influence of indole acetic acid and nitric oxide in bacteria
+Spatiotemporal analysis of the effects of forest covers on stream water quality in Western Ghats of peninsular India
+Solar power potential mapping in India using remote sensing inputs and environmental parameter
+Smart Systems and Smart Grids for Effective Governance of Electricity Supply in India
+Room temperature solvent free aza-Michael reactions over nano-cage mesoporous materials
+Road Map Towards Net Zero Energy Building
+Resource Efficiency for Sustainability in Ferrous Foundry - A Case of Kolhapur MSME Cluster
+Renewable Energy Programs for Rural Electrification: Experience and Lessons from India
+Renewable Energy based Mini-grids for Enhancing Electricity Access: Experiences and Lessons from India
+Remembering the forest while viewing the trees: Evolutionary thinking in the teaching of molecular biology
+Regulated Marketing in India in the Period of Reforms: Redundant or Useful
+Reforming LPG and Kerosene Subsidies: Short-term priorities and long-term ambitions
+Rapid, efficient and high-performance protocol for Agrobacterium rhizogenes-mediated hairy root transformation of the common bean Phaseolus vulgaris
+Random forest classification of urban landscape using Landsat archive and ancillary data: Combining seasonal maps with decision level fusion
+Preliminary feasibility evaluation of solar thermal power generation in India
+PMMA-cellulose acetate phthalate nanocomposites reinforced with silane-treated nanoclay
+Photochemical roles of rapid economic growth and potential abatement strategies on tropospheric ozone over South and East Asia in 2030
+Outreach and dissemination of information services through electronic media: the case of Specialized Library on Climate Change, TERI
+Osmoregulation and the human mycobiome
+Nuclear liability law of India: an appraisal of extent of liability, right of recourse and transboundary applicability
+Nuclear energy law and decision making in India
+Newly modified silica-based magnetically driven nanoadsorbent: A sustainable and versatile platform for efficient and selective recovery of cadmium from water and fly-ash ameliorated soil
+Multi-scale patterns in co-occurrence of rocky inter-tidal gastropods along the west coast of India
+Multi-peak Gaussian fit applicability to wind speed distribution
+Moving towards inclusive urban adaptation: approaches to integrating community-based adaptation to climate change at city and national scale
+Modelling NO concentrations using MM5-CMAQ 2 modelling system
+Microwave assisted synthesis of guar gum grafted sodium acrylate/cloisite superabsorbent nanocomposites: Reaction parameters and swelling characteristics
+MATLAB based modeling to study the performance of different MPPT techniques used for solar PV system under various operating conditions
+Mapping debris-covered glaciers and identifying factors affecting the accuracy
+Linking Local Suppliers to Global Food Markets: A Critical Analysis of Food Safety Issues in Developing Countries
+Life cycle energy consumption and CO2 emissions of different transport systems in India
+Land Surface Temperature Estimation using Landsat ETM+ Data 
+Laboratory demonstration and field verification of a Wireless Cookstove Sensing System (WiCS) for determining cooking duration and fuel consumption?
+Laboratory based assessment of cookstove performance using energy and emission parameters for North Indian cooking cycle
+Kolhapur & Sangli MSME clusters: case study
+Knowledge Management System in TERI: A Strategic Initiative
+Isolation and characterization of a first set of nine polymorphic microsatellite loci in Pongamia pinnata (Fabaceae)
+Integrated approach for understanding spatio-temporal changes in forest resource distribution in the central Himalaya
+India’s Growing Energy Basket: Prospects of Nuclear Power
+Indias Energy Security: Challenges & Opportunities
+Indian Approaches to Energy Access
+India-Bangladesh Energy Relation
+India Japan Energy Forum 2013: Expanding Technology Cooperation in Energy Efficiency, Renewables and Smart Community
+In vitro and in situ screening systems for morphological and phytochemical analysis of Withania somnifera germplasms
+Improved test method for evaluation of bio-mass cook-stoves
+Impacts of electrification with renewable energies on Local Economies: The case  of India
+Impact of total organic carbon (in sediments) and dissolved organic carbon (in overlying water column) on Hg sequestration by coastal sediments from the central east coast of India
+Identities and Access to Energy: A Case From India
+Identifying public preferences using multi-criteria decision making for assessing the shift of urban commuters from private to public transport: A case study of Delhi
+Hyperspectral imagery for disaggregation of land surface temperature with selected regression algorithms over different land use land cover scenes
+How sustainable are forestry clean development mechanism projects? - A review of the selected projects from India
+High density polyethylene and silane treated silicon nitride nanocomposites using high-density polyethylene functionalized with maleate ester: Mechanical, tribological and thermal properties
+Green Economy in South Asia: Challenges and Opportunities.
+Going beyond incomes: Dimensions of cooking energy transitions in rural India
+Glass Manufacturing: Path for Sustainable Development
+Geochemical characterization and heavy metal contamination of groundwater in Satluj River Basin
+Genesis of World Digital Libraries: An International Journal
+Forest cover change prediction using hybrid methodology of geoinformatics and Markov chain model: A case study on sub-Himalayan town Gangtok, India
+Environment and human exposure to persistent organic pollutants (POPs) in India: A systematic review of recent and historical data
+Enrichment and optimization of anaerobic bacterial mixed culture for conversion of syngas to ethanol
+Energy, Environment, and Sustainable Development Knowledge Center: A TERI LIC Case Study
+Energy demand and CO2 emissions from urban on-road transport in Delhi: current and future projections under various policy measures
+Energy conservation measures in foundries
+Endophytic Fungi for Stress Tolerance
+ELECTRIFYING REMOTE AREAS: Innovations by OASYS South Asia Project
+Efficacy of two dominant marker systems, ISSR and TE-AFLP for assessment of genetic diversity in biodiesel species Pongamia pinnata
+Effects of organic nitrification inhibitors on methane and nitrous oxide emission from tropical rice paddy
+Effect of salts (NaCl and Na2CO3) on callus and suspension culture of Stevia rebaudiana for steviol glycoside production
+Effect of nitrogen concentration on lipid productivity and fatty acid composition of Monoraphidium sp
+Effect of construction materials on embodied energy and cost of buildings-A case study of residential houses in India up to 60 m2 of plinth area
+Ecosystem services and forest fires in India — Context and policy implications from a case study in Andhra Pradesh
+Ecobiotechnological Strategy to Enhance Efficiency of Bioconversion of Wastes into Hydrogen and Methane
+Do free trade agreements promote intra-industry trade? The case of India and its FTAs
+Disease burden due to biomass cooking-fuel-related household air pollution among women in India
+Deviations from the O3-NO-NO2 photo-stationary state in Delhi, India
+Development, design and performance analysis of a forced draft clean combustion cookstove powered by a thermo electric generator with multi-utility options
+Determining the genetic origin of Nitrate contamination in aquifers of Northern Gujarat, India
+Determinants of proactive environmental management practices in Indian firms: An empirical study
+Deforestation-induced costs on the drinking water supplies of the Mumbai metropolitan, India
+Creating enabling environment for affordable delivery of sustainable electricity services: Case studies of Innovative techno-institutional models
+Chemical Characterization of Meltwater from East Rathong Glacier Vis-à-Vis Western Himalayan Glaciers
+Carbon Sequestration and Economic Potential of the Selected Medicinal Tree Species: Evidence From Sikkim, India
+Biological nitrate removal using waste-derived extracts as sole carbon source?
+Biohydrogen production by Thermoanaerobacterium thermosaccharolyticum TERI S7 from oil reservoir flow pipeline
+Biofuels in South Asia: Connecting the Dots
+Bioflocculant production and biosorption of zinc and lead by a novel bacterial species, Achromobacter sp. TERI-IASST N, isolated from oil refinery waste
+Biodegradation of ballast tank coating investigated by impedance spectroscopy and microscopy
+Between activism and science: Grassroots concepts for sustainability coined by environmental justice organizations
+Azo-based food colours as cost-effective and safe tracking dyes for qualitative electrophoretic analysis of nucleic acids and proteins
+Assessment of regional climatic changes in the Eastern Himalayan region: a study using multi-satellite remote sensing data sets
+Assessment of outdoor workers’ exposure to air pollution in Delhi
+Assessment of inherent vulnerability of rural communities to environmental hazards in Kimsar region of Uttarakhand, India
+Assessment of greenhouse gas emissions from coal and natural gas thermal power plants using life cycle approach
+Assessing the potential of hyperspectral imagery to map bark beetle-induced tree mortality
+Arsenic phyco-remediation by Cladophora algae and measurement of arsenic speciation and location of active absorption site using electron microscopy
+Arrived Cold Storage Solution for Villages
+Arbuscular Mycorrhizal Fungi Play a Major Role in Agriculture and Natural Ecosystems to Improve Production in Sustainable Manner.
+Aqueous geochemistry of fluoride enriched groundwater in arid part of Western India?
+Applicability of Energy Saving Obligations to Indian electricity efficiency efforts
+Analyzing the Policy, Regulatory and Institutional Framework for Implementation of REDD-Plus In India
+An Analysis of the Structure and the Determinants of Intra-industry Trade in Agri-food Products: Case of India and Selected FTAs
+Agrobacterium rhizogenes mediated hairy root induction in Daucus carota
+AFLP markers for analysis of genetic diversity and structure of teak (Tectona grandis) in India
+Adoption of cleaner cookstoves: Barriers and way forward
+Accelerated Deployment of Smart Grid Technologies in India - Present Scenario, Challenges and Way Forward
+A novel in vitro whole plant system for analysis of polyphenolics and their antioxidant potential in cultivars of Ocimum basilicum
+A new scenario framework for climate change research: the concept of shared socioeconomic pathways
+A new scenario framework for Climate Change Research: scenario matrix architecture
+A new scenario framework for climate change research: background, process, and future directions.
+A Gateway to Sustainable Development through Knowledge Exchange: a TERI Case Study
+A framework for mapping tree species combining hyperspectral and LiDAR data: Role of selected classifiers and sensor across three spatialscales
+A comparison of selected classification algorithms for mapping bamboo patches in lower Gangetic plains using very high resolution WorldView 2 imagery
+A comparison of different regression models for downscaling Landsat and MODIS land surface temperature images over heterogeneous landscape
+Nuclear energy and risk assessment by Indian courts: analysis of judicial intervention in the Kudankulam Nuclear Power Project
+Wildfires, Ecosystem Services, and Biodiversity in Tropical Dry Forest in India
+Village-level solar power in Africa: Accelerating access to electricity services through a socio-technical design in Kenya
+Trust and cooperation among urban poor for transition to cleaner and modern cooking fuel
+Study of nanotoxicity: Current need
+Starch/polyethylene nanocomposites: Mechanical, thermal, and biodegradability characteristics
+Specific oxygen uptake rate gradient – Another possible cause of excess sludge reduction in oxic-settling-anaerobic (OSA) process
+Special Issue on ‘Nuclear energy and Indian society: public engagement, risk assessment and legal frameworks
+Solar lighting for rural households: A case of innovative model in Bihar, India
+Socio-technical assessment of solar photovoltaic systems implemented for rural electrification in selected villages of Sundarbans region of India
+Sequence and expression variation in SUPPRESSOR of OVEREXPRESSION of CONSTANS 1 (SOC1): homeolog evolution in Indian Brassicas
+Scaling up of off-grid electrification is one of the key priorities of developing countries across
+Role of seed and kernel size, thickness and weight on oil content in Jatropha curcus L., - a study with Northeast India accessions
+Rice straw incorporation affects global warming potential differently in early vs. late cropping seasons in Southeastern China
+Remote sensing of mountain snow using active microwave sensors: a review
+Regulating Off-grid Electricity Delivery: Exploring the Grey Areas
+Production of a non-cytotoxic bioflocculant by a bacterium utilizing petroleum hydrocarbon source and its application in heavy metal removal
+OASYS South Asia Project Brightens Up Remote Areas
+Nitric oxide metabolism and indole acetic acid biosynthesis cross-talk in Azospirillum brasilense SM
+Motivations for implementing environmental management practices in Indian industries
+Methodology to nanoencapsulate hepatoprotective components from Picrorhiza kurroa as food supplement.
+Mechanical, thermal and bio-compatibility studies of PAEK-hydroxyapatite nanocomposites
+Mass Balance Reconstruction since 1963 and Mass Balance Model for East Rathong Galcier, Eastern Himalaya, using remote sensing methods
+Long-term changes in soil pH across major forest ecosystems in China
+Livelihood and Value Chain Development study
+Large-Scale Diffusion of Biomass Thermal Gasifiers in India
+Inventorization of vascular plant diversity in Amchang Wildlife Sanctuary, Kamrup Metro district, Assam
+Integrated treatment of molasses distillery wastewater using microfiltration (MF)
+Integrated treatment of molasses distillery wastewater using microfiltration (MF)
+Institutions for sustainable forest governance: Robustness, equity, and cross-level interactions in Mawlyngbna, Meghalaya, India
+Institution as the catalyst for productive use of electricity in livelihood cluster: Case for energy plus approach from Andhra Pradesh
+Inquisition of Microcystis aeruginosa and Synechocystis nanowires: characterization and modelling 
+Infopreneurship : A Strategic Initiative for Business Development in Libraries
+Induction stoves as an option for clean cooking in rural India
+India's Management Education Growth Story: A Retrospect
+Implication of composite electrode on the functioning of photo-bioelectrocatalytic fuel cell operated with heterotrophic-anoxygenic condition.
+Impact of air pollutants from surface transport sources on human health: A modeling and epidemiological approach
+Identification and modelling of winners and qualifiers for management institutes: evidence from India
+High strength distillery wastewater treatment by a PAC-MBR with low PAC dosage
+High density polyethylene/cenosphere composites reinforced with multi-walled carbon nanotubes: Mechanical, thermal and fire retardancy studies
+Green Index: Grading Companies on Sustainability Initiatives
+Geospatial and geostatistical approach for groundwater potential zone delineation
+Formation and characterisation of aerobic sludge aggregates in a lab-scale activated sludge system
+For Sustainable SDGs: Righting Through Responsibilities
+Financing large scale wind and solar projects-A review of emerging experiences in the Indian context
+Factors influencing Spatio-temporal Variation of Methane and Nitrous oxide Emission from a Tropical Mangrove of Eastern Coast of India
+Estimation of outcrossing rates in interspecific backcross plants of Jatropha curcas (L.) using AFLP and SSR markers 
+Estimating biomass and carbon mitigation of temperate coniferous forests using spectral modeling and field inventory data
+Environmental Policy in a Federation with Special Interest Politics and Inter-Governmental Grants
+Enhancing viability of biofuel-based decentralized power projects for rural electrification in India.
+Energy and material flows of megacities
+Energizing rural India using micro grids:The case of solar DC micro-grids in Uttar Pradesh State, India
+Emerging perspectives on environmental burden minimisation initiatives from anaerobic digestion technologies for community scale biomass valorisation
+Effects of Passive Hydration on Surface Water and Groundwater Storages in Drained Ranchland Wetlands in the Everglades Basin in Florida
+Effect of internal woven roller shade and glazing on the energy and daylighting performances of an office building in the cold climate of Shillong
+Disentangling the ranges: climate policy scenarios for China and India
+Development of Novel Microsatellite Markers in Jatropha curcas and Evaluation of Their Cross-Species Transferability
+Development of a microbial process for methane generation from bituminous coal at thermophilic conditions
+Demand Side management in Indian Power Utilities
+Degradation of chlorpyrifos in tropical rice soils
+Covalently Immobilized Laccase for Decolourization of Glucose-Glycine Maillard Products as Colourant of Distillery Wastewater
+Corporate Social Responsibility in India: Revisiting Carroll’s Pyramid and The Road Ahead
+Commingled nanocomposites of LDPE/PP/Nylon 6/EPDM reinforced with MWCNT and Kenaf Fiber with enhanced mechanical, thermal and flammability characteristics
+Chitosan–nanohydroxyapatite composites: Mechanical, thermal and bio-compatibility studies
+Changes in oil content and fatty acid composition in Jatropha curcas during seed development
+Benchmarking sustainability using indicators: An Indian case study
+Assessment and mitigation of the environmental burdens to air from land applied food-based digestate
+Assessing the lignocellulosic biomass resources potential in developing countries: A critical review
+As Green Delhi Turns Grey
+Analysis of genetic diversity and fatty acid composition in a prebreeding material of Jatropha
+An overview of local credit systems and their implications
+An inclusive strategy to trigger solar technology market: Case studies of rural distribution models from Ethiopia
+An exploratory analysis of occupational accidents and risks from nuclear reactors in India
+An Assessment of Lighting a Billion Lives Program in Karnataka
+Agriculture biomass in India: Part 2. Post-harvest losses, cost and environmental impacts
+Agriculture biomass in India: Part 1. Estimation and characterization
+Aging and the human gut microbiota—from correlation to causality
+Africa Rising: What does it Mean for African Citizens?
+A Study on Socio-Economic Assessment and Adoption of Scientific Technologies by the Muga Rearers of Assam
+Vehicular exhaust emissions under current and alternative future policy measures for megacity Delhi, India
+Valuing setting-based recreation for selected visitors to national forests in the southern United States
+Urban domestic water pricing in India and China
+Thermal performance evaluation of a mineral-based cement tile as roofing material
+The Role of DNA Restriction-Modification Systems in the Biology of Bacillus anthracis
+The isolation and identification of new microalgal strains producing oil and carotenoid simultaneously with biofuel potential
+The Effect of Development on the Climate Sensitivity of Electricity Demand in India
+The determinants of electricity theft: An empirical analysis of Indian states
+Sustaining the Farming Household to Sustain the Farming
+Sustainable Development: A Critical Review of Construction and Demolition Waste Management Rules 2016
+Separation of zinc oxide nanoparticles in water stream bymembrane filtration?
+Sensitivity analysis of ground level ozone in India using WRF-CMAQ models
+Regional cooperation to meet climate pledges of South Asia
+Purification and characterization of exopolysaccharide bioflocculant produced by heavy metal resistant Achromobacter xylosoxidans
+Production of biodiesel from freshwater microalgae and evaluation of fuel properties based on fatty acid methyl ester profile
+Probiotics as a Potential Alternative for Relieving Peripheral Neuropathies: a Case for Guillain-Barré Syndrome
+Powering the North East: Challenges & Opportunities
+Photo fermentative hydrogen production by a new strain; Rhodobacter sphaeroides CNT 2A, isolated from pond sediment
+Performance of Upflow Anaerobic Bioelectrochemical Reactor Compared to the Sludge Blanket Reactor for Acidic Distillery Wastewater Treatment
+Perfluoroalkyl substances (PFAS) in river and ground/drinking water of the Ganges River basin: Emissions and implications for human exposure
+On-site treatment of source separated domestic wastewater employing anaerobic package system
+Odd even story of Delhi traffic and air pollution
+Morphogenesis of edible gall in Zizania latifolia (Griseb.) Turcz. ex Stapf due to Ustilago esculenta Henn. infection in India.
+Mobile health units: Mobilizing healthcare to reach unreachable
+Mini-grid based off-grid electrification to enhance electricity access in developing countries: What policies may be required
+Microbial production of 2,3-butanediol through a two-stage pH and agitation strategy in 150 l bioreactor
+Mapping long-term land use and land cover change in the central Himalayan region using a tree-based ensemble classification approach.
+Isolation and characterization of Candida vishwanathii strain TERI MS1 for degradation of petroleum hydrocarbons in marine environment
+Inherent vulnerability of agricultural communities in Himalaya: A village-level hotspot analysis in the Uttarakhand state of India
+Identification and topographical characterization of microbial nanowires in Nostoc punctiforme
+Hydrocarbon Cracking Over Red Mud and Modified Red Mud Samples
+Grid Interactive Renewable Power in India—a Review
+Functional profiling of cyanobacterial genomes and its role in ecological adaptations
+Fuelwood and Fodder Consumption Pattern an Altitudinal Gradient (1000 - 1200 M) in Mountain Villages of Almora District
+Framing green consumer behaviour research: opportunities and challenges
+Factors Influencing Grid Interactive Biomass Power Industry
+Evaluation of the performance of improved biomass cooking stoves with different solid biomass fuel types
+Enabling policies for advancing sustainability of electricity access programs
+Emission Factors for Continuous Fixed Chimney Bull Trench Brick Kiln (FCBTK) in India
+Elite hairy roots of Ocimum basilicum as a new source of rosmarinic acid and antioxidants
+Economic Modeling, Analysis, and Policy for Sustainability
+Comparison of Spatial Interpolation Methods for Mapping Rainfall in Indian Himalayas of Uttarakhand Region
+Comparative study of dielectric and mechanical properties of HDPE-MWCNT-SiO2 nanocomposites
+Communities and Sustainable Practices: Lessons from the Traditional Fisher Communities
+Assessment of Biomass Potential and Current Status of Bio-fuels and Bioenergy Production in India
+Aquatic plant Azolla as the universalfeedstock for biofuel production
+Approaches to low carbon development in China and India
+An overview on emerging bioelectrochemical systems (BESs): Technology for sustainable electricity, waste remediation, resource recovery, chemical production and beyond.
+Agricultural Trade in South Asia: How important are the Trade Barriers?
+Acidic Potassium Permanganate Chemiluminescence for the Determination of Antioxidant Potential in Three Cultivars of Ocimum basilicum
+Challenges Ahead: WTO and Food Security
+The Challenges and Issues associated with the Promulgation of the Environmental Norms as Mandated by the MOEF&CC on 7th December 2015
+Synthesis and swelling characteristics of chitosan and CMC grafted sodium acrylate-co-acrylamide using modified nanoclay and examining its efficacy for removal of dyes
+Solar-Based Decentralized Energy Solution-A Case of Entrepreneur Based Model from Rural India
+Respiratory signs and symptoms of a rural subpopulation in India: What do they tell us?
+Measuring Satisfaction of TERI Research Fraternity towards Competitive Advantage: An analytical survey of News-based Information Service.
+Import Dependence and Food and Nutrition Security Implications: The Case of Pulses in India
+Exploring the nature of rural energy transition in India :Insights from case studies of eight villages in Bihar
+Empowerment of Women Through Tasar Sericulture Activities in Jharkhand State
+Development of models for prediction of the energy content of disposed MSW from an unsecured landfill
+Characterization of a Novel Polymeric Bioflocculant Produced from Bacterial Utilization of n-Hexadecane and Its Application in Removal of Heavy Metals
+Characteristics of the Ozone pollution and its health effects in India
+Bioelectrochemical enhancement of direct interspecies electron transfer in upflow anaerobic reactor with effluent recirculation for acidic distillery wastewater
+Applications of microalgal biofilms for wastewater treatment and bioenergy production
+An Assessment of Ground Water Potential for state of Kerala, India: A Case Study
+Novel Targets and Advancements 18 in Drug Discovery: The Case of HIV-AIDS
+Development of a novel myconanomining approach for 2 the recovery of agriculturally important elements from 3 jarosite waste.
+​​Nonribosomal Peptides from Marine Microbes and Their Antimicrobial and Anticancer Potential.
+Recent applications of enzymes in personal care products
+Fungi: An Amazing and Hidden Source of Antimycobacterial compounds ​
+Review of MBBR models for treatment of municipal and industrial wastewater
+Study on heavy metal contamination of agricultural soils and vegetables grown in the Delhi segment of Yamuna river basin, Global Health Perspectives
+Variation in air quality at Filling Stations, Delhi, India, International Journal of Environmental Studies
