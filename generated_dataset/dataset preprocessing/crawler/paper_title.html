@@ -1,0 +1,2835 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- new favicon config and versions by realfavicongenerator.net -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://static.arxiv.org/static/base/0.15.5/images/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://static.arxiv.org/static/base/0.15.5/images/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://static.arxiv.org/static/base/0.15.5/images/icons/favicon-16x16.png">
+<link rel="manifest" href="https://static.arxiv.org/static/base/0.15.5/images/icons/site.webmanifest">
+<link rel="mask-icon" href="https://static.arxiv.org/static/base/0.15.5/images/icons/safari-pinned-tab.svg" color="#b31b1b">
+<link rel="shortcut icon" href="https://static.arxiv.org/static/base/0.15.5/images/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#b31b1b">
+<meta name="msapplication-config" content="images/icons/browserconfig.xml">
+<meta name="theme-color" content="#b31b1b">
+<!-- end favicon config -->
+<title>Advanced Search | arXiv e-print repository</title>
+<link rel="stylesheet" href="paper_title_files/font-awesome.css">
+<link rel="stylesheet" href="paper_title_files/arxivstyle.css">
+<script type="text/javascript" async="" defer="defer" src="paper_title_files/matomo.js"></script><script type="text/x-mathjax-config;executed=true">
+  MathJax.Hub.Config({
+    messageStyle: "none",
+    extensions: ["tex2jax.js"],
+    jax: ["input/TeX", "output/HTML-CSS"],
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+      processEscapes: true,
+      ignoreClass: '.*',
+      processClass: 'mathjax.*'
+    },
+    TeX: {
+        extensions: ["AMSmath.js", "AMSsymbols.js", "noErrors.js"],
+        noErrors: {
+          inlineDelimiters: ["$","$"],
+          multiLine: false,
+          style: {
+            "font-size": "normal",
+            "border": ""
+          }
+        }
+    },
+    "HTML-CSS": { availableFonts: ["TeX"] }
+  });
+</script>
+<script src="paper_title_files/MathJax.js"></script><style type="text/css">.MathJax_Preview {color: #888}
+#MathJax_Message {position: fixed; left: 1px; bottom: 2px; background-color: #E6E6E6; border: 1px solid #959595; margin: 0px; padding: 2px 8px; z-index: 102; color: black; font-size: 80%; width: auto; white-space: nowrap}
+#MathJax_MSIE_Frame {position: absolute; top: 0; left: 0; width: 0px; z-index: 101; border: 0px; margin: 0px; padding: 0px}
+.MathJax_Error {color: #CC0000; font-style: italic}
+</style>
+
+<script src="paper_title_files/notification.js"></script>
+<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.arxiv.org"]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://webstats.arxiv.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+    <!-- Custom style sheets or other head includes -->
+    
+  <link rel="stylesheet" href="paper_title_files/bulma-tooltip.css">
+  <link rel="stylesheet" href="paper_title_files/search.css">
+
+  <script src="paper_title_files/jquery-3.js" integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g=" crossorigin="anonymous"></script>
+
+  <script src="paper_title_files/fieldset.js"></script>
+  <style>
+  radio#cf-customfield_11400 {
+    display: none;
+  }
+  </style>
+  <script type="text/javascript" src="paper_title_files/com.js"></script>
+
+    <script type="text/javascript">
+    window.ATL_JQ_PAGE_PROPS =  {
+    	"triggerFunction": function(showCollectorDialog) {
+    		//Requires that jQuery is available!
+    		$("#feedback-button").click(function(e) {
+    			e.preventDefault();
+    			showCollectorDialog();
+    		});
+    	},
+      fieldValues: {
+        "components": ["16000"],  // Search component.
+        "versions": ["14157"],  // Release search-0.5
+        "customfield_11401": window.location.href
+      }
+    };
+    </script>
+
+
+  <style type="text/css">.MathJax_Hover_Frame {border-radius: .25em; -webkit-border-radius: .25em; -moz-border-radius: .25em; -khtml-border-radius: .25em; box-shadow: 0px 0px 15px #83A; -webkit-box-shadow: 0px 0px 15px #83A; -moz-box-shadow: 0px 0px 15px #83A; -khtml-box-shadow: 0px 0px 15px #83A; border: 1px solid #A6D ! important; display: inline-block; position: absolute}
+.MathJax_Menu_Button .MathJax_Hover_Arrow {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; -khtml-border-radius: 4px; font-family: 'Courier New',Courier; font-size: 9px; color: #F0F0F0}
+.MathJax_Menu_Button .MathJax_Hover_Arrow span {display: block; background-color: #AAA; border: 1px solid; border-radius: 3px; line-height: 0; padding: 4px}
+.MathJax_Hover_Arrow:hover {color: white!important; border: 2px solid #CCC!important}
+.MathJax_Hover_Arrow:hover span {background-color: #CCC!important}
+</style><style type="text/css">.atlwdg-blanket {background: black;height: 100%;left: 0;opacity: .5;position: fixed;top: 0;width: 100%;z-index: 1000000;}.atlwdg-popup {background: white;border: 1px solid #ccc;position: fixed;top: 0;right: 0;bottom: 0;left: 0;margin: auto;z-index: 10000011;border-radius: 5px;background-clip: padding-box;overflow: hidden;width: 810px;height: 0;max-height: calc(100% - 100px);}#atlwdg-frame {height: 100%;width: 100%;}.atlwdg-hidden {visibility: hidden;}.atlwdg-trigger {position: fixed;background: #205081;padding: 5px;border: 2px solid white;border-top: none;font-weight: bold;color: white !important;display: block;white-space: nowrap;text-decoration: none !important;font-family: Arial, Helvetica, sans-serif;font-size: 12px;-webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);border-radius: 0 0 5px 5px;}.atlwdg-trigger.atlwdg-TOP {left: 45%;top: 0;}.atlwdg-trigger.atlwdg-RIGHT {left: 100%;top: 40%;-webkit-transform: rotate(90deg);-webkit-transform-origin: top left;-moz-transform: rotate(90deg);-moz-transform-origin: top left;-ms-transform: rotate(90deg);-ms-transform-origin: top left;transform: rotate(90deg);transform-origin: top left;}.atlwdg-trigger.atlwdg-SUBTLE {right: 0;bottom: 0;border: 1px solid #ccc;border-bottom: none;border-right: none;background-color: #f5f5f5;color: #444 !important;font-size: 11px;padding: 6px;-webkit-box-shadow: -1px -1px 2px rgba(0, 0, 0, 0.5);box-shadow: -1px -1px 2px rgba(0, 0, 0, 0.5);border-radius: 2px 0 0 0;}.atlwdg-loading {position: fixed;top: 0;right: 0;bottom: 0;left: 0;margin: auto;height: 40px;width: 40px;z-index: 1000001;border-radius: 5px;background-color: #fff;background-image: url('data:image/gif;base64,R0lGODlhEAAQAMQAAP///+7u7t3d3bu7u6qqqpmZmYiIiHd3d2ZmZlVVVURERDMzMyIiIhEREQARAAAAAP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH/C05FVFNDQVBFMi4wAwEAAAAh+QQFBwAQACwAAAAAEAAQAAAFdyAkQgGJJOWoQgIjBM8jkKsoPEzgyMGsCjPDw7ADpkQBxRDmSCRetpRA6Rj4kFBkgLC4IlUGhbNQIwXOYYWCXDufzYPDMaoKGBoKb886OjAKdgZAAgQkfCwzAgsDBAUCgl8jAQkHEAVkAoA1AgczlyIDczUDA2UhACH5BAUHABAALAAAAAAPABAAAAVjICSO0IGIATkqIiMKDaGKC8Q49jPMYsE0hQdrlABCGgvT45FKiRKQhWA0mPKGPAgBcTjsspBCAoH4gl+FmXNEUEBVAYHToJAVZK/XWoQQDAgBZioHaX8igigFKYYQVlkCjiMhACH5BAUHABAALAAAAAAQAA8AAAVgICSOUGGQqIiIChMESyo6CdQGdRqUENESI8FAdFgAFwqDISYwPB4CVSMnEhSej+FogNhtHyfRQFmIol5owmEta/fcKITB6y4choMBmk7yGgSAEAJ8JAVDgQFmKUCCZnwhACH5BAUHABAALAAAAAAQABAAAAViICSOYkGe4hFAiSImAwotB+si6Co2QxvjAYHIgBAqDoWCK2Bq6A40iA4yYMggNZKwGFgVCAQZotFwwJIF4QnxaC9IsZNgLtAJDKbraJCGzPVSIgEDXVNXA0JdgH6ChoCKKCEAIfkEBQcAEAAsAAAAABAADgAABUkgJI7QcZComIjPw6bs2kINLB5uW9Bo0gyQx8LkKgVHiccKVdyRlqjFSAApOKOtR810StVeU9RAmLqOxi0qRG3LptikAVQEh4UAACH5BAUHABAALAAAAAAQABAAAAVxICSO0DCQKBQQonGIh5AGB2sYkMHIqYAIN0EDRxoQZIaC6bAoMRSiwMAwCIwCggRkwRMJWKSAomBVCc5lUiGRUBjO6FSBwWggwijBooDCdiFfIlBRAlYBZQ0PWRANaSkED1oQYHgjDA8nM3kPfCmejiEAIfkEBQcAEAAsAAAAABAAEAAABWAgJI6QIJCoOIhFwabsSbiFAotGMEMKgZoB3cBUQIgURpFgmEI0EqjACYXwiYJBGAGBgGIDWsVicbiNEgSsGbKCIMCwA4IBCRgXt8bDACkvYQF6U1OADg8mDlaACQtwJCEAIfkEBQcAEAAsAAABABAADwAABV4gJEKCOAwiMa4Q2qIDwq4wiriBmItCCREHUsIwCgh2q8MiyEKODK7ZbHCoqqSjWGKI1d2kRp+RAWGyHg+DQUEmKliGx4HBKECIMwG61AgssAQPKA19EAxRKz4QCVIhACH5BAUHABAALAAAAAAQABAAAAVjICSOUBCQqHhCgiAOKyqcLVvEZOC2geGiK5NpQBAZCilgAYFMogo/J0lgqEpHgoO2+GIMUL6p4vFojhQNg8rxWLgYBQJCASkwEKLC17hYFJtRIwwBfRAJDk4ObwsidEkrWkkhACH5BAUHABAALAAAAQAQAA8AAAVcICSOUGAGAqmKpjis6vmuqSrUxQyPhDEEtpUOgmgYETCCcrB4OBWwQsGHEhQatVFhB/mNAojFVsQgBhgKpSHRTRxEhGwhoRg0CCXYAkKHHPZCZRAKUERZMAYGMCEAIfkEBQcAEAAsAAABABAADwAABV0gJI4kFJToGAilwKLCST6PUcrB8A70844CXenwILRkIoYyBRk4BQlHo3FIOQmvAEGBMpYSop/IgPBCFpCqIuEsIESHgkgoJxwQAjSzwb1DClwwgQhgAVVMIgVyKCEAIfkECQcAEAAsAAAAABAAEAAABWQgJI5kSQ6NYK7Dw6xr8hCw+ELC85hCIAq3Am0U6JUKjkHJNzIsFAqDqShQHRhY6bKqgvgGCZOSFDhAUiWCYQwJSxGHKqGAE/5EqIHBjOgyRQELCBB7EAQHfySDhGYQdDWGQyUhADs=');background-repeat: no-repeat;background-position: center center;}@media print {.atlwdg-trigger { display: none; }}@media screen and (max-width: 820px) {.atlwdg-popup {max-width: 810px;width: 90%;max-height: 90%;}}</style><style type="text/css">.MathJax_Display {text-align: center; margin: 1em 0em; position: relative; display: block!important; text-indent: 0; max-width: none; max-height: none; min-width: 0; min-height: 0; width: 100%}
+.MathJax .merror {background-color: #FFFF88; color: #CC0000; border: 1px solid #CC0000; padding: 1px 3px; font-style: normal; font-size: 90%}
+.MathJax .MJX-monospace {font-family: monospace}
+.MathJax .MJX-sans-serif {font-family: sans-serif}
+#MathJax_Tooltip {background-color: InfoBackground; color: InfoText; border: 1px solid black; box-shadow: 2px 2px 5px #AAAAAA; -webkit-box-shadow: 2px 2px 5px #AAAAAA; -moz-box-shadow: 2px 2px 5px #AAAAAA; -khtml-box-shadow: 2px 2px 5px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true'); padding: 3px 4px; z-index: 401; position: absolute; left: 0; top: 0; width: auto; height: auto; display: none}
+.MathJax {display: inline; font-style: normal; font-weight: normal; line-height: normal; font-size: 100%; font-size-adjust: none; text-indent: 0; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0; min-height: 0; border: 0; padding: 0; margin: 0}
+.MathJax:focus, body :focus .MathJax {display: inline-table}
+.MathJax.MathJax_FullWidth {text-align: center; display: table-cell!important; width: 10000em!important}
+.MathJax img, .MathJax nobr, .MathJax a {border: 0; padding: 0; margin: 0; max-width: none; max-height: none; min-width: 0; min-height: 0; vertical-align: 0; line-height: normal; text-decoration: none}
+img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!important; vertical-align: 0!important}
+.MathJax span {display: inline; position: static; border: 0; padding: 0; margin: 0; vertical-align: 0; line-height: normal; text-decoration: none}
+.MathJax nobr {white-space: nowrap!important}
+.MathJax img {display: inline!important; float: none!important}
+.MathJax * {transition: none; -webkit-transition: none; -moz-transition: none; -ms-transition: none; -o-transition: none}
+.MathJax_Processing {visibility: hidden; position: fixed; width: 0; height: 0; overflow: hidden}
+.MathJax_Processed {display: none!important}
+.MathJax_ExBox {display: block!important; overflow: hidden; width: 1px; height: 60ex; min-height: 0; max-height: none}
+.MathJax .MathJax_EmBox {display: block!important; overflow: hidden; width: 1px; height: 60em; min-height: 0; max-height: none}
+.MathJax_LineBox {display: table!important}
+.MathJax_LineBox span {display: table-cell!important; width: 10000em!important; min-width: 0; max-width: none; padding: 0; border: 0; margin: 0}
+.MathJax .MathJax_HitBox {cursor: text; background: white; opacity: 0; filter: alpha(opacity=0)}
+.MathJax .MathJax_HitBox * {filter: none; opacity: 1; background: transparent}
+#MathJax_Tooltip * {filter: none; opacity: 1; background: transparent}
+@font-face {font-family: MathJax_Blank; src: url('about:blank')}
+.MathJax .noError {vertical-align: ; font-size: normal; text-align: left; color: black; padding: 1px 3px; border: }
+</style><style type="text/css">#MathJax_About {position: fixed; left: 50%; width: auto; text-align: center; border: 3px outset; padding: 1em 2em; background-color: #DDDDDD; color: black; cursor: default; font-family: message-box; font-size: 120%; font-style: normal; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; -khtml-border-radius: 15px; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_About.MathJax_MousePost {outline: none}
+.MathJax_Menu {position: absolute; background-color: white; color: black; width: auto; padding: 5px 0px; border: 1px solid #CCCCCC; margin: 0; cursor: default; font: menu; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -khtml-border-radius: 5px; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+.MathJax_MenuItem {padding: 1px 2em; background: transparent}
+.MathJax_MenuArrow {position: absolute; right: .5em; padding-top: .25em; color: #666666; font-size: .75em}
+.MathJax_MenuActive .MathJax_MenuArrow {color: white}
+.MathJax_MenuArrow.RTL {left: .5em; right: auto}
+.MathJax_MenuCheck {position: absolute; left: .7em}
+.MathJax_MenuCheck.RTL {right: .7em; left: auto}
+.MathJax_MenuRadioCheck {position: absolute; left: .7em}
+.MathJax_MenuRadioCheck.RTL {right: .7em; left: auto}
+.MathJax_MenuLabel {padding: 1px 2em 3px 1.33em; font-style: italic}
+.MathJax_MenuRule {border-top: 1px solid #DDDDDD; margin: 4px 3px}
+.MathJax_MenuDisabled {color: GrayText}
+.MathJax_MenuActive {background-color: #606872; color: white}
+.MathJax_MenuDisabled:focus, .MathJax_MenuLabel:focus {background-color: #E8E8E8}
+.MathJax_ContextMenu:focus {outline: none}
+.MathJax_ContextMenu .MathJax_MenuItem:focus {outline: none}
+#MathJax_AboutClose {top: .2em; right: .2em}
+.MathJax_Menu .MathJax_MenuClose {top: -10px; left: -10px}
+.MathJax_MenuClose {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; -khtml-border-radius: 18px; font-family: 'Courier New',Courier; font-size: 24px; color: #F0F0F0}
+.MathJax_MenuClose span {display: block; background-color: #AAA; border: 1.5px solid; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; -khtml-border-radius: 18px; line-height: 0; padding: 8px 0 6px}
+.MathJax_MenuClose:hover {color: white!important; border: 2px solid #CCC!important}
+.MathJax_MenuClose:hover span {background-color: #CCC!important}
+.MathJax_MenuClose:hover:focus {outline: none}
+</style><style type="text/css">#MathJax_Zoom {position: absolute; background-color: #F0F0F0; overflow: auto; display: block; z-index: 301; padding: .5em; border: 1px solid black; margin: 0; font-weight: normal; font-style: normal; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; box-shadow: 5px 5px 15px #AAAAAA; -webkit-box-shadow: 5px 5px 15px #AAAAAA; -moz-box-shadow: 5px 5px 15px #AAAAAA; -khtml-box-shadow: 5px 5px 15px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_ZoomOverlay {position: absolute; left: 0; top: 0; z-index: 300; display: inline-block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+#MathJax_ZoomFrame {position: relative; display: inline-block; height: 0; width: 0}
+#MathJax_ZoomEventTrap {position: absolute; left: 0; top: 0; z-index: 302; display: inline-block; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+</style></head>
+  <body><div style="visibility: hidden; overflow: hidden; position: absolute; top: 0px; height: 1px; width: auto; padding: 0px; border: 0px none; margin: 0px; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal;"><div id="MathJax_Hidden"></div></div>
+  
+  <noscript><p><img src="https://webstats.arxiv.org/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+  <header>
+    
+    <!-- contains Cornell logo and sponsor statement -->
+<div class="attribution level is-marginless" role="banner">
+  <div class="level-left">
+    <a class="level-item" href="https://cornell.edu/"><img src="paper_title_files/cornell-reduced-white-SMALL.svg" alt="Cornell University" aria-label="logo" width="200"></a>
+  </div>
+  <div class="level-right is-marginless"><p class="sponsors level-item is-marginless"><a href="https://confluence.cornell.edu/x/ALlRF">We gratefully acknowledge support from<br> the Simons Foundation and member institutions.</a></p></div>
+</div>
+<!-- contains arXiv identity and search bar -->
+<div class="identity level is-marginless">
+  <div class="level-left">
+    <div class="level-item">
+      <a class="arxiv" href="https://arxiv.org/" aria-label="arxiv-logo"><img src="paper_title_files/arxiv-logo-web.svg" alt="arXiv" aria-label="logo" width="85"></a>
+    </div>
+  </div>
+  
+  <div class="search-block level-right">
+    <form class="level-item mini-search" method="GET" action="https://arxiv.org/search">
+      <div class="field has-addons">
+        <div class="control">
+          <input class="input is-small" type="text" name="query" placeholder="Search..." aria-label="Search term or terms">
+          <p class="help"><a href="https://arxiv.org/help">Help</a> | <a href="https://arxiv.org/search/advanced">Advanced Search</a></p>
+        </div>
+        <div class="control">
+          <div class="select is-small">
+            <select name="searchtype" aria-label="Field to search">
+              <option value="all" selected="selected">All fields</option>
+              <option value="title">Title</option>
+              <option value="author">Author</option>
+              <option value="abstract">Abstract</option>
+              <option value="comments">Comments</option>
+              <option value="journal_ref">Journal reference</option>
+              <option value="acm_class">ACM classification</option>
+              <option value="msc_class">MSC classification</option>
+              <option value="report_num">Report number</option>
+              <option value="paper_id">arXiv identifier</option>
+              <option value="doi">DOI</option>
+              <option value="orcid">ORCID</option>
+              <option value="author_id">arXiv author ID</option>
+              <option value="help">Help pages</option>
+              <option value="full_text">Full text</option>
+            </select>
+          </div>
+        </div>
+        <input type="hidden" name="source" value="header">
+        <button class="button is-small is-cul-darker">Search</button>
+      </div>
+    </form>
+  </div>
+</div> <!-- closes identity -->
+
+<div class="container">
+    <div class="user-tools is-size-7 has-text-right has-text-weight-bold" role="navigation" aria-label="User menu">
+      <a href="https://arxiv.org/login">Login</a>
+    </div>
+</div>
+    
+  </header>
+
+  <main role="main" class="container">
+    
+
+    
+  <div class="level is-marginless">
+    <div class="level-left">
+      <h1 class="title is-clearfix">
+    
+        Showing 1–50 of 209,662 results
+    
+</h1>
+    </div>
+    <div class="level-right is-hidden-mobile">
+      <!-- feedback for mobile is moved to footer -->
+      <span class="help" style="display: inline-block;"><a href="https://confluence.cornell.edu/x/giazFQ">Search v0.5 released 2018-12-20</a>&nbsp;&nbsp;</span>
+      <button class="button is-small" id="feedback-button">Feedback?</button>
+    </div>
+  </div>
+    <div class="content">
+      
+  
+    
+
+    <div class="columns">
+      <div class="column is-two-thirds-tablet">
+        <p style="margin-bottom: .5em">Query: <a href="https://arxiv.org/search/advanced?terms-0-operator=AND&amp;terms-0-term=computer&amp;terms-0-field=all&amp;classification-computer_science=y&amp;classification-physics_archives=all&amp;classification-include_cross_list=include&amp;date-filter_by=all_dates&amp;date-year=&amp;date-from_date=&amp;date-to_date=&amp;date-date_type=submitted_date&amp;abstracts=hide&amp;size=50&amp;order=-announced_date_first&amp;start=0">order:
+ -announced_date_first; size: 50; hide_abstracts: True; classification: 
+Computer Science (cs); include_cross_list: True; terms: AND all=computer</a></p>
+        <div class="buttons">
+          <a class="button is-link" href="https://arxiv.org/search/advanced?terms-0-operator=AND&amp;terms-0-term=computer&amp;terms-0-field=all&amp;classification-computer_science=y&amp;classification-physics_archives=all&amp;classification-include_cross_list=include&amp;date-filter_by=all_dates&amp;date-year=&amp;date-from_date=&amp;date-to_date=&amp;date-date_type=submitted_date&amp;abstracts=hide&amp;size=50&amp;order=-announced_date_first&amp;start=0">Refine query</a><a class="button" href="https://arxiv.org/search/advanced">New search</a>
+        </div>
+      </div>
+      <div class="column is-one-third-tablet is-hidden-mobile">
+        <p class="has-text-right" style="margin-top: 1em">
+          
+          <a href="https://arxiv.org/search/?order=-announced_date_first&amp;size=50">Simple Search</a>
+          
+        </p>
+      </div>
+    </div>
+
+    
+        
+<div class="level breathe-horizontal">
+  <div class="level-left">
+    <form method="GET" action="/search/advanced">
+      <div style="display: none;">
+        
+          
+            <input id="advanced" name="advanced" type="hidden" value="">
+          
+        
+          
+            <ul id="terms"><li><label for="terms-0">Terms-0</label> <table id="terms-0"><tbody><tr><th><label for="terms-0-term">Search term...</label></th><td><input id="terms-0-term" name="terms-0-term" type="text" value="computer"></td></tr><tr><th><label for="terms-0-operator">Operator</label></th><td><select id="terms-0-operator" name="terms-0-operator"><option selected="selected" value="AND">AND</option><option value="OR">OR</option><option value="NOT">NOT</option></select></td></tr><tr><th><label for="terms-0-field">Field</label></th><td><select id="terms-0-field" name="terms-0-field"><option value="title">Title</option><option value="author">Author(s)</option><option value="abstract">Abstract</option><option value="comments">Comments</option><option value="journal_ref">Journal reference</option><option value="acm_class">ACM classification</option><option value="msc_class">MSC classification</option><option value="report_num">Report number</option><option value="paper_id">arXiv identifier</option><option value="cross_list_category">Cross-list category</option><option value="doi">DOI</option><option value="orcid">ORCID</option><option value="author_id">arXiv author ID</option><option selected="selected" value="all">All fields</option></select></td></tr></tbody></table></li></ul>
+          
+        
+          
+            <table id="classification"><tbody><tr><th><label for="classification-computer_science">Computer Science (cs)</label></th><td><input checked="checked" id="classification-computer_science" name="classification-computer_science" type="checkbox" value="y"></td></tr><tr><th><label for="classification-economics">Economics (econ)</label></th><td><input id="classification-economics" name="classification-economics" type="checkbox" value="y"></td></tr><tr><th><label for="classification-eess">Electrical Engineering and Systems Science (eess)</label></th><td><input id="classification-eess" name="classification-eess" type="checkbox" value="y"></td></tr><tr><th><label for="classification-mathematics">Mathematics (math)</label></th><td><input id="classification-mathematics" name="classification-mathematics" type="checkbox" value="y"></td></tr><tr><th><label for="classification-physics">Physics</label></th><td><input id="classification-physics" name="classification-physics" type="checkbox" value="y"></td></tr><tr><th><label for="classification-physics_archives">Physics Archives</label></th><td><select id="classification-physics_archives" name="classification-physics_archives"><option selected="selected" value="all">all</option><option value="astro-ph">astro-ph</option><option value="cond-mat">cond-mat</option><option value="gr-qc">gr-qc</option><option value="hep-ex">hep-ex</option><option value="hep-lat">hep-lat</option><option value="hep-ph">hep-ph</option><option value="hep-th">hep-th</option><option value="math-ph">math-ph</option><option value="nlin">nlin</option><option value="nucl-ex">nucl-ex</option><option value="nucl-th">nucl-th</option><option value="physics">physics</option><option value="quant-ph">quant-ph</option></select></td></tr><tr><th><label for="classification-q_biology">Quantitative Biology (q-bio)</label></th><td><input id="classification-q_biology" name="classification-q_biology" type="checkbox" value="y"></td></tr><tr><th><label for="classification-q_finance">Quantitative Finance (q-fin)</label></th><td><input id="classification-q_finance" name="classification-q_finance" type="checkbox" value="y"></td></tr><tr><th><label for="classification-statistics">Statistics (stat)</label></th><td><input id="classification-statistics" name="classification-statistics" type="checkbox" value="y"></td></tr><tr><th><label for="classification-include_cross_list">Include cross-list</label></th><td><ul id="classification-include_cross_list"><li><input checked="checked" id="classification-include_cross_list-0" name="classification-include_cross_list" type="radio" value="include"> <label for="classification-include_cross_list-0">Include cross-listed papers</label></li><li><input id="classification-include_cross_list-1" name="classification-include_cross_list" type="radio" value="exclude"> <label for="classification-include_cross_list-1">Exclude cross-listed papers</label></li></ul></td></tr></tbody></table>
+          
+        
+          
+            <table id="date"><tbody><tr><th><label for="date-filter_by">Filter by</label></th><td><ul id="date-filter_by"><li><input checked="checked" id="date-filter_by-0" name="date-filter_by" type="radio" value="all_dates"> <label for="date-filter_by-0">All dates</label></li><li><input id="date-filter_by-1" name="date-filter_by" type="radio" value="past_12"> <label for="date-filter_by-1">Past 12 months</label></li><li><input id="date-filter_by-2" name="date-filter_by" type="radio" value="specific_year"> <label for="date-filter_by-2">Specific year</label></li><li><input id="date-filter_by-3" name="date-filter_by" type="radio" value="date_range"> <label for="date-filter_by-3">Date range</label></li></ul></td></tr><tr><th><label for="date-year">Year</label></th><td><input id="date-year" name="date-year" type="text"></td></tr><tr><th><label for="date-from_date">From</label></th><td><input id="date-from_date" name="date-from_date" type="text"></td></tr><tr><th><label for="date-to_date">to</label></th><td><input id="date-to_date" name="date-to_date" type="text"></td></tr><tr><th><label for="date-date_type">Apply to</label></th><td><ul id="date-date_type"><li><input checked="checked" id="date-date_type-0" name="date-date_type" type="radio" value="submitted_date"> <label for="date-date_type-0">Submission date (most recent)</label></li><li><input id="date-date_type-1" name="date-date_type" type="radio" value="submitted_date_first"> <label for="date-date_type-1">Submission date (original)</label></li><li><input id="date-date_type-2" name="date-date_type" type="radio" value="announced_date_first"> <label for="date-date_type-2">Announcement date</label></li></ul></td></tr></tbody></table>
+          
+        
+          
+        
+          
+        
+          
+            <input id="include_older_versions" name="include_older_versions" type="checkbox" value="y">
+          
+        
+          
+            <ul id="abstracts"><li><input id="abstracts-0" name="abstracts" type="radio" value="show"> <label for="abstracts-0">Show abstracts</label></li><li><input checked="checked" id="abstracts-1" name="abstracts" type="radio" value="hide"> <label for="abstracts-1">Hide abstracts</label></li></ul>
+          
+        
+      </div>
+      <div class="box field is-grouped is-grouped-multiline level-item">
+        <div class="control">
+          <span class="select is-small">
+            <select id="size" name="size"><option value="25">25</option><option selected="selected" value="50">50</option><option value="100">100</option><option value="200">200</option></select>
+          </span>
+          <label for="size">results per page</label>.
+        </div>
+        <div class="control">
+          <label for="order">Sort results by</label>
+          <span class="select is-small">
+            <select id="order" name="order"><option selected="selected" value="-announced_date_first">Announcement date (newest first)</option><option value="announced_date_first">Announcement date (oldest first)</option><option value="-submitted_date">Submission date (newest first)</option><option value="submitted_date">Submission date (oldest first)</option><option value="">Relevance</option></select>
+          </span>
+        </div>
+        <div class="control">
+          <button class="button is-small is-link">Go</button>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>
+        
+
+
+  <nav class="pagination is-small is-centered breathe-horizontal" role="navigation" aria-label="pagination">
+    
+    <a href="" class="pagination-previous is-invisible">Previous
+    </a>
+    
+    
+      <a href="https://arxiv.org/search/advanced?advanced=&amp;terms-0-operator=AND&amp;terms-0-term=computer&amp;terms-0-field=all&amp;classification-computer_science=y&amp;classification-physics_archives=all&amp;classification-include_cross_list=include&amp;date-filter_by=all_dates&amp;date-year=&amp;date-from_date=&amp;date-to_date=&amp;date-date_type=submitted_date&amp;abstracts=hide&amp;size=50&amp;order=-announced_date_first&amp;start=50" class="pagination-next">Next
+      </a>
+    
+    <ul class="pagination-list">
+
+      <li>
+        <a href="https://arxiv.org/search/advanced?advanced=&amp;terms-0-operator=AND&amp;terms-0-term=computer&amp;terms-0-field=all&amp;classification-computer_science=y&amp;classification-physics_archives=all&amp;classification-include_cross_list=include&amp;date-filter_by=all_dates&amp;date-year=&amp;date-from_date=&amp;date-to_date=&amp;date-date_type=submitted_date&amp;abstracts=hide&amp;size=50&amp;order=-announced_date_first&amp;start=0" class="pagination-link is-current" aria-label="Goto page 1">1
+        </a>
+      </li>
+
+      
+                                     
+          
+          <li>
+            <a href="https://arxiv.org/search/advanced?advanced=&amp;terms-0-operator=AND&amp;terms-0-term=computer&amp;terms-0-field=all&amp;classification-computer_science=y&amp;classification-physics_archives=all&amp;classification-include_cross_list=include&amp;date-filter_by=all_dates&amp;date-year=&amp;date-from_date=&amp;date-to_date=&amp;date-date_type=submitted_date&amp;abstracts=hide&amp;size=50&amp;order=-announced_date_first&amp;start=50" class="pagination-link " aria-label="Page 2" aria-current="page">2
+            </a>
+          </li>
+          
+          <li>
+            <a href="https://arxiv.org/search/advanced?advanced=&amp;terms-0-operator=AND&amp;terms-0-term=computer&amp;terms-0-field=all&amp;classification-computer_science=y&amp;classification-physics_archives=all&amp;classification-include_cross_list=include&amp;date-filter_by=all_dates&amp;date-year=&amp;date-from_date=&amp;date-to_date=&amp;date-date_type=submitted_date&amp;abstracts=hide&amp;size=50&amp;order=-announced_date_first&amp;start=100" class="pagination-link " aria-label="Page 3" aria-current="page">3
+            </a>
+          </li>
+          
+          <li>
+            <a href="https://arxiv.org/search/advanced?advanced=&amp;terms-0-operator=AND&amp;terms-0-term=computer&amp;terms-0-field=all&amp;classification-computer_science=y&amp;classification-physics_archives=all&amp;classification-include_cross_list=include&amp;date-filter_by=all_dates&amp;date-year=&amp;date-from_date=&amp;date-to_date=&amp;date-date_type=submitted_date&amp;abstracts=hide&amp;size=50&amp;order=-announced_date_first&amp;start=150" class="pagination-link " aria-label="Page 4" aria-current="page">4
+            </a>
+          </li>
+          
+          <li>
+            <a href="https://arxiv.org/search/advanced?advanced=&amp;terms-0-operator=AND&amp;terms-0-term=computer&amp;terms-0-field=all&amp;classification-computer_science=y&amp;classification-physics_archives=all&amp;classification-include_cross_list=include&amp;date-filter_by=all_dates&amp;date-year=&amp;date-from_date=&amp;date-to_date=&amp;date-date_type=submitted_date&amp;abstracts=hide&amp;size=50&amp;order=-announced_date_first&amp;start=200" class="pagination-link " aria-label="Page 5" aria-current="page">5
+            </a>
+          </li>
+          
+          <li><span class="pagination-ellipsis">…</span></li>
+        
+      
+    </ul>
+  </nav>
+  
+
+
+
+<ol class="breathe-horizontal" start="1"> 
+
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11492">arXiv:1904.11492</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11492">pdf</a>, <a href="https://arxiv.org/format/1904.11492">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computer Vision and Pattern Recognition">cs.CV</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Artificial Intelligence">cs.AI</span>
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Machine Learning">cs.LG</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Cao%2C+Y">Yue Cao</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Xu%2C+J">Jiarui Xu</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Lin%2C+S">Stephen Lin</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Wei%2C+F">Fangyun Wei</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Hu%2C+H">Han Hu</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11491">arXiv:1904.11491</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11491">pdf</a>, <a href="https://arxiv.org/format/1904.11491">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computer Vision and Pattern Recognition">cs.CV</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Artificial Intelligence">cs.AI</span>
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Machine Learning">cs.LG</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Local Relation Networks for Image Recognition
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Hu%2C+H">Han Hu</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Zhang%2C+Z">Zheng Zhang</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Xie%2C+Z">Zhenda Xie</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Lin%2C+S">Stephen Lin</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11490">arXiv:1904.11490</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11490">pdf</a>, <a href="https://arxiv.org/format/1904.11490">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computer Vision and Pattern Recognition">cs.CV</span>
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        RepPoints: Point Set Representation for Object Detection
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Yang%2C+Z">Ze Yang</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Liu%2C+S">Shaohui Liu</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Hu%2C+H">Han Hu</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Wang%2C+L">Liwei Wang</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Lin%2C+S">Stephen Lin</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11489">arXiv:1904.11489</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11489">pdf</a>, <a href="https://arxiv.org/format/1904.11489">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computer Vision and Pattern Recognition">cs.CV</span>
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Spatial-Temporal Relation Networks for Multi-Object Tracking
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Xu%2C+J">Jiarui Xu</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Cao%2C+Y">Yue Cao</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Zhang%2C+Z">Zheng Zhang</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Hu%2C+H">Han Hu</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11487">arXiv:1904.11487</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11487">pdf</a>, <a href="https://arxiv.org/format/1904.11487">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computer Vision and Pattern Recognition">cs.CV</span>
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Blurring the Line Between Structure and Learning to Optimize and Adapt Receptive Fields
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Shelhamer%2C+E">Evan Shelhamer</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Wang%2C+D">Dequan Wang</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Darrell%2C+T">Trevor Darrell</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11486">arXiv:1904.11486</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11486">pdf</a>, <a href="https://arxiv.org/format/1904.11486">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computer Vision and Pattern Recognition">cs.CV</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Machine Learning">cs.LG</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Making Convolutional Networks Shift-Invariant Again
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Zhang%2C+R">Richard Zhang</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">Accepted to ICML 2019</span>
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11483">arXiv:1904.11483</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11483">pdf</a>, <a href="https://arxiv.org/format/1904.11483">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Robotics">cs.RO</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Artificial Intelligence">cs.AI</span>
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Machine Learning">cs.LG</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Safe Reinforcement Learning with Scene Decomposition for Navigating Complex Urban Environments
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Bouton%2C+M">Maxime Bouton</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Nakhaei%2C+A">Alireza Nakhaei</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Fujimura%2C+K">Kikuo Fujimura</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Kochenderfer%2C+M+J">Mykel J. Kochenderfer</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">8 pages; 7 figures</span>
+    </p>
+    
+
+    
+
+    
+      <p class="comments is-size-7">
+        <span class="has-text-black-bis has-text-weight-semibold">Journal ref:</span>
+        IEEE Intelligent Vehicles Symposium (IV), 2019
+      </p>
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11481">arXiv:1904.11481</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11481">pdf</a>, <a href="https://arxiv.org/ps/1904.11481">ps</a>, <a href="https://arxiv.org/format/1904.11481">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Information Theory">cs.IT</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Networking and Internet Architecture">cs.NI</span>
+          
+            <span class="tag is-small is-grey tooltip is-tooltip-top" data-tooltip="Signal Processing">eess.SP</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Age of Information in Multicast Networks with Multiple Update Streams
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Buyukates%2C+B">Baturalp Buyukates</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Soysal%2C+A">Alkan Soysal</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Ulukus%2C+S">Sennur Ulukus</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11477">arXiv:1904.11477</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11477">pdf</a>, <a href="https://arxiv.org/format/1904.11477">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small is-link tooltip is-tooltip-top" data-tooltip="Quantum Physics">quant-ph</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Cryptography and Security">cs.CR</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Quantum Lazy Sampling and Game-Playing Proofs for Quantum Indifferentiability
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Czajkowski%2C+J">Jan Czajkowski</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Majenz%2C+C">Christian Majenz</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Schaffner%2C+C">Christian Schaffner</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Zur%2C+S">Sebastian Zur</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11476">arXiv:1904.11476</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11476">pdf</a>, <a href="https://arxiv.org/format/1904.11476">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Robotics">cs.RO</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computer Vision and Pattern Recognition">cs.CV</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Radar-only ego-motion estimation in difficult settings via graph matching
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Cen%2C+S+H">Sarah H. Cen</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Newman%2C+P">Paul Newman</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">6 content pages, 1 page of references, 5 figures, 4 tables, 2019 IEEE International Conference on Robotics and Automation (ICRA)</span>
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11475">arXiv:1904.11475</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11475">pdf</a>, <a href="https://arxiv.org/ps/1904.11475">ps</a>, <a href="https://arxiv.org/format/1904.11475">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computation and Language">cs.CL</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Artificial Intelligence">cs.AI</span>
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Machine Learning">cs.LG</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Importance of Copying Mechanism for News Headline Generation
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Gusev%2C+I">Ilya Gusev</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11473">arXiv:1904.11473</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11473">pdf</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computation and Language">cs.CL</span>
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Terminologies augmented recurrent neural network model for clinical named entity recognition
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Lerner%2C+I">Ivan Lerner</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Paris%2C+N">Nicolas Paris</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Tannier%2C+X">Xavier Tannier</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11469">arXiv:1904.11469</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11469">pdf</a>, <a href="https://arxiv.org/format/1904.11469">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computation and Language">cs.CL</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Sound">cs.SD</span>
+          
+            <span class="tag is-small is-grey tooltip is-tooltip-top" data-tooltip="Audio and Speech Processing">eess.AS</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        The Zero Resource Speech Challenge 2019: TTS without T
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Dunbar%2C+E">Ewan Dunbar</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Algayres%2C+R">Robin Algayres</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Karadayi%2C+J">Julien Karadayi</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Bernard%2C+M">Mathieu Bernard</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Benjumea%2C+J">Juan Benjumea</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Cao%2C+X">Xuan-Nga Cao</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Miskic%2C+L">Lucie Miskic</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Dugrain%2C+C">Charlotte Dugrain</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Ondel%2C+L">Lucas Ondel</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Black%2C+A+W">Alan W. Black</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Besacier%2C+L">Laurent Besacier</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Sakti%2C+S">Sakriani Sakti</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Dupoux%2C+E">Emmanuel Dupoux</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">Interspeech 2019</span>
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11466">arXiv:1904.11466</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11466">pdf</a>, <a href="https://arxiv.org/format/1904.11466">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computer Vision and Pattern Recognition">cs.CV</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Machine Learning">cs.LG</span>
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Robotics">cs.RO</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Sensor Fusion for Joint 3D Object Detection and Semantic Segmentation
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Meyer%2C+G+P">Gregory P. Meyer</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Charland%2C+J">Jake Charland</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Hegde%2C+D">Darshan Hegde</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Laddha%2C+A">Ankit Laddha</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Vallespi-Gonzalez%2C+C">Carlos Vallespi-Gonzalez</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">Accepted for publication at CVPR Workshop on Autonomous Driving 2019</span>
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11455">arXiv:1904.11455</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11455">pdf</a>, <a href="https://arxiv.org/format/1904.11455">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Machine Learning">cs.LG</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Artificial Intelligence">cs.AI</span>
+          
+            <span class="tag is-small is-grey tooltip is-tooltip-top" data-tooltip="Machine Learning">stat.ML</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Ray Interference: a Source of Plateaus in Deep Reinforcement Learning
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Schaul%2C+T">Tom Schaul</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Borsa%2C+D">Diana Borsa</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Modayil%2C+J">Joseph Modayil</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Pascanu%2C+R">Razvan Pascanu</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">Full version of RLDM abstract</span>
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11454">arXiv:1904.11454</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11454">pdf</a>, <a href="https://arxiv.org/format/1904.11454">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Artificial Intelligence">cs.AI</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Logic in Computer Science">cs.LO</span>
+          
+            <span class="tag is-small is-grey tooltip is-tooltip-top" data-tooltip="Optimization and Control">math.OC</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Reward-Based Deception with Cognitive Bias
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Wu%2C+B">Bo Wu</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Cubuktepe%2C+M">Murat Cubuktepe</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Bharadwaj%2C+S">Suda Bharadwaj</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Topcu%2C+U">Ufuk Topcu</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">Submitted to CDC 2019</span>
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11451">arXiv:1904.11451</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11451">pdf</a>, <a href="https://arxiv.org/format/1904.11451">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computer Vision and Pattern Recognition">cs.CV</span>
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Holistic Large Scale Video Understanding
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Diba%2C+A">Ali Diba</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Fayyaz%2C+M">Mohsen Fayyaz</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Sharma%2C+V">Vivek Sharma</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Paluri%2C+M">Manohar Paluri</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Gall%2C+J">Jurgen Gall</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Stiefelhagen%2C+R">Rainer Stiefelhagen</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Van+Gool%2C+L">Luc Van Gool</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11446">arXiv:1904.11446</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11446">pdf</a>, <a href="https://arxiv.org/ps/1904.11446">ps</a>, <a href="https://arxiv.org/format/1904.11446">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small is-link tooltip is-tooltip-top" data-tooltip="Quantum Physics">quant-ph</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Data Structures and Algorithms">cs.DS</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Quantum Walk Sampling by Growing Seed Sets
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Apers%2C+S">Simon Apers</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">14 pages</span>
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11441">arXiv:1904.11441</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11441">pdf</a>, <a href="https://arxiv.org/format/1904.11441">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Networking and Internet Architecture">cs.NI</span>
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        MAC Protocols for Terahertz Communication: A Comprehensive Survey
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Ghafoor%2C+S">Saim Ghafoor</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Boujnah%2C+N">Noureddine Boujnah</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Rehmani%2C+M+H">Mubashir Husain Rehmani</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Davy%2C+A">Alan Davy</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">Submitted to IEEE Communication Surveys and Tutorials Journal</span>
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11440">arXiv:1904.11440</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11440">pdf</a>, <a href="https://arxiv.org/ps/1904.11440">ps</a>, <a href="https://arxiv.org/format/1904.11440">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Distributed, Parallel, and Cluster Computing">cs.DC</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Data Structures and Algorithms">cs.DS</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Distributed Detection of Cliques in Dynamic Networks
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Bonne%2C+M">Matthias Bonne</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Censor-Hillel%2C+K">Keren Censor-Hillel</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11439">arXiv:1904.11439</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11439">pdf</a>, <a href="https://arxiv.org/format/1904.11439">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Machine Learning">cs.LG</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Artificial Intelligence">cs.AI</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Faster and More Accurate Learning with Meta Trace Adaptation
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Zhao%2C+M">Mingde Zhao</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Porada%2C+I">Ian Porada</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11435">arXiv:1904.11435</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11435">pdf</a>, <a href="https://arxiv.org/format/1904.11435">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Cryptography and Security">cs.CR</span>
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Bitcoin and Blockchain: Security and Privacy
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Zaghloul%2C+E">Ehab Zaghloul</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Li%2C+T">Tongtong Li</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Mutka%2C+M">Matt Mutka</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Ren%2C+J">Jian Ren</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11433">arXiv:1904.11433</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11433">pdf</a>, <a href="https://arxiv.org/format/1904.11433">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computational Engineering, Finance, and Science">cs.CE</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Graphics">cs.GR</span>
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Robotics">cs.RO</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        A pressure field model for fast, robust approximation of net contact force and moment between nominally rigid objects
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Elandt%2C+R">Ryan Elandt</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Drumwright%2C+E">Evan Drumwright</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Sherman%2C+M">Michael Sherman</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Ruina%2C+A">Andy Ruina</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11432">arXiv:1904.11432</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11432">pdf</a>, <a href="https://arxiv.org/format/1904.11432">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Cryptography and Security">cs.CR</span>
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        <span class="MathJax_Preview" style="display: none;"></span><span class="MathJax" id="MathJax-Element-1-Frame" tabindex="0" style=""><nobr><span class="math" id="MathJax-Span-1" style="width: 0.825em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.606em; height: 0px; font-size: 132%;"><span style="position: absolute; clip: rect(1.557em, 1000.61em, 2.521em, -1000em); top: -2.381em; left: 0em;"><span class="mrow" id="MathJax-Span-2"><span class="mi" id="MathJax-Span-3" style="font-family: MathJax_Math; font-style: italic;">d<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.003em;"></span></span></span><span style="display: inline-block; width: 0px; height: 2.381em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.07em; border-left: 0px solid; width: 0px; height: 1.044em;"></span></span></nobr></span><script type="math/tex" id="MathJax-Element-1">d</script>-MABE: Distributed Multilevel Attribute-Based EMR Management and Applications
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Zaghloul%2C+E">Ehab Zaghloul</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Li%2C+T">Tongtong Li</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Mutka%2C+M">Matt Mutka</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Ren%2C+J">Jian Ren</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11424">arXiv:1904.11424</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11424">pdf</a>, <a href="https://arxiv.org/format/1904.11424">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Numerical Analysis">cs.NA</span>
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Threshold shift method for reliability-based design optimization
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Goswami%2C+S">Somdatta Goswami</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Chakraborty%2C+S">Souvik Chakraborty</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Chowdhury%2C+R">Rajib Chowdhury</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Rabczuk%2C+T">Timon Rabczuk</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">Accepted in Structural and Multidisciplinary Optimization</span>
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11423">arXiv:1904.11423</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11423">pdf</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Networking and Internet Architecture">cs.NI</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Cryptography and Security">cs.CR</span>
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Performance">cs.PF</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        DTLS Performance - How Expensive is Security?
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Gallenm%C3%BCller%2C+S">Sebastian Gallenmüller</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Sch%C3%B6ffmann%2C+D">Dominik Schöffmann</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Scholz%2C+D">Dominik Scholz</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Geyer%2C+F">Fabien Geyer</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Carle%2C+G">Georg Carle</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11419">arXiv:1904.11419</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11419">pdf</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small is-link tooltip is-tooltip-top" data-tooltip="Machine Learning">stat.ML</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Machine Learning">cs.LG</span>
+          
+            <span class="tag is-small is-grey tooltip is-tooltip-top" data-tooltip="Image and Video Processing">eess.IV</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Time Series Simulation by Conditional Generative Adversarial Net
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Fu%2C+R">Rao Fu</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Chen%2C+J">Jie Chen</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Zeng%2C+S">Shutian Zeng</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Zhuang%2C+Y">Yiping Zhuang</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Sudjianto%2C+A">Agus Sudjianto</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11416">arXiv:1904.11416</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11416">pdf</a>, <a href="https://arxiv.org/format/1904.11416">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Machine Learning">cs.LG</span>
+        
+          
+            <span class="tag is-small is-grey tooltip is-tooltip-top" data-tooltip="Machine Learning">stat.ML</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        A Bayesian Approach for the Robust Optimisation of Expensive-To-Evaluate Functions
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Sanders%2C+N+D">Nicholas D. Sanders</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Everson%2C+R+M">Richard M. Everson</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Fieldsend%2C+J+E">Jonathan E. Fieldsend</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Rahat%2C+A+A+M">Alma A. M. Rahat</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">11 pages, 8 figures</span>
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11412">arXiv:1904.11412</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11412">pdf</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Artificial Intelligence">cs.AI</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Human-Computer Interaction">cs.HC</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Assistive System in Conversational Agent for Health Coaching: The CoachAI Approach
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Fadhil%2C+A">Ahmed Fadhil</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11411">arXiv:1904.11411</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11411">pdf</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computers and Society">cs.CY</span>
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Impact of the Digital Transformation: An Online Real-Time Delphi Study
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Cech%2C+F">Florian Cech</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Tellioglu%2C+H">Hilda Tellioglu</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">15 pages, 5 figures</span>
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11407">arXiv:1904.11407</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11407">pdf</a>, <a href="https://arxiv.org/format/1904.11407">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computer Vision and Pattern Recognition">cs.CV</span>
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        DynamoNet: Dynamic Action and Motion Network
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Diba%2C+A">Ali Diba</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Sharma%2C+V">Vivek Sharma</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Van+Gool%2C+L">Luc Van Gool</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Stiefelhagen%2C+R">Rainer Stiefelhagen</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11405">arXiv:1904.11405</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11405">pdf</a>, <a href="https://arxiv.org/format/1904.11405">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small is-link tooltip is-tooltip-top" data-tooltip="Quantum Physics">quant-ph</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Cryptography and Security">cs.CR</span>
+          
+        </div>
+      
+        
+          <div class="is-inline-block" style="margin-left: 0.5rem">
+            <div class="tags has-addons">
+              <span class="tag is-dark is-size-7">doi</span>
+              <span class="tag is-light is-size-7"><a class="" href="https://doi.org/10.1007/s11128-019-2279-5">10.1007/s11128-019-2279-5 <i class="fa fa-external-link" aria-hidden="true"></i></a></span>
+            </div>
+          </div>
+        
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Dimensionality Distinguishers
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Das%2C+N">Nayana Das</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Paul%2C+G">Goutam Paul</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Maitra%2C+A">Arpita Maitra</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">14 pages</span>
+    </p>
+    
+
+    
+
+    
+      <p class="comments is-size-7">
+        <span class="has-text-black-bis has-text-weight-semibold">Journal ref:</span>
+        Quantum Information Processing (2019) 18:171
+      </p>
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11404">arXiv:1904.11404</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11404">pdf</a>, <a href="https://arxiv.org/format/1904.11404">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Information Theory">cs.IT</span>
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Compressive Multidimensional Harmonic Retrieval with Prior Knowledge
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Li%2C+Y">Yinchuan Li</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Zhang%2C+X">Xu Zhang</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Ding%2C+Z">Zegang Ding</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Wang%2C+X">Xiaodong Wang</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11402">arXiv:1904.11402</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11402">pdf</a>, <a href="https://arxiv.org/format/1904.11402">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Distributed, Parallel, and Cluster Computing">cs.DC</span>
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Genet: A Quickly Scalable Fat-Tree Overlay for Personal Volunteer <span class="search-hit mathjax">Computing</span> using WebRTC
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Lavoie%2C+E">Erick Lavoie</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Hendren%2C+L">Laurie Hendren</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Desprez%2C+F">Fréderic Desprez</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Correia%2C+M">Miguel Correia</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11401">arXiv:1904.11401</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11401">pdf</a>, <a href="https://arxiv.org/ps/1904.11401">ps</a>, <a href="https://arxiv.org/format/1904.11401">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small is-link tooltip is-tooltip-top" data-tooltip="Analysis of PDEs">math.AP</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computer Science and Game Theory">cs.GT</span>
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Machine Learning">cs.LG</span>
+          
+            <span class="tag is-small is-grey tooltip is-tooltip-top" data-tooltip="Optimization and Control">math.OC</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Prediction with Expert Advice: a PDE Perspective
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Drenska%2C+N">Nadejda Drenska</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Kohn%2C+R+V">Robert V. Kohn</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">30 pages</span>
+    </p>
+    
+
+    
+      <p class="comments is-size-7">
+        
+
+        
+          <span class="has-text-black-bis has-text-weight-semibold">MSC Class:</span>
+          35D40; 49L25
+        
+
+        
+      </p>
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11397">arXiv:1904.11397</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11397">pdf</a>, <a href="https://arxiv.org/format/1904.11397">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computer Vision and Pattern Recognition">cs.CV</span>
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Deep Constrained Dominant Sets for Person Re-identification
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Alemu%2C+L+T">Leulseged Tesfaye Alemu</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Shah%2C+M">Mubarak Shah</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Pelillo%2C+M">Marcello Pelillo</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11395">arXiv:1904.11395</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11395">pdf</a>, <a href="https://arxiv.org/ps/1904.11395">ps</a>, <a href="https://arxiv.org/format/1904.11395">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Distributed, Parallel, and Cluster Computing">cs.DC</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computational Complexity">cs.CC</span>
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Networking and Internet Architecture">cs.NI</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        On the Complexity of Local Graph Transformations
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Scheideler%2C+C">Christian Scheideler</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Setzer%2C+A">Alexander Setzer</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">This publication is the 
+full version of a paper appearing at ICALP'19. The main part of this 
+paper is identical to that paper and any additional material is provided
+ in the appendix</span>
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11392">arXiv:1904.11392</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11392">pdf</a>, <a href="https://arxiv.org/ps/1904.11392">ps</a>, <a href="https://arxiv.org/format/1904.11392">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small is-link tooltip is-tooltip-top" data-tooltip="Portfolio Management">q-fin.PM</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computational Engineering, Finance, and Science">cs.CE</span>
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Machine Learning">cs.LG</span>
+          
+            <span class="tag is-small is-grey tooltip is-tooltip-top" data-tooltip="Optimization and Control">math.OC</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Continuous-Time Mean-Variance Portfolio Optimization via Reinforcement Learning
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Wang%2C+H">Haoran Wang</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Zhou%2C+X+Y">Xun Yu Zhou</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">39 pages, 5 figures</span>
+    </p>
+    
+
+    
+      <p class="comments is-size-7">
+        
+
+        
+          <span class="has-text-black-bis has-text-weight-semibold">MSC Class:</span>
+          91G10
+        
+
+        
+      </p>
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11388">arXiv:1904.11388</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11388">pdf</a>, <a href="https://arxiv.org/format/1904.11388">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Information Retrieval">cs.IR</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computers and Society">cs.CY</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Identifying short-term interests from mobile app adoption pattern
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Gaind%2C+B">Bharat Gaind</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Varshney%2C+N">Nitish Varshney</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Goel%2C+S">Shubham Goel</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Mondal%2C+A">Akash Mondal</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">Accepted and presented in
+ the 20th International Conference on Computational Linguistics and 
+Intelligent Text Processing, France, 2019 and soon to be published in 
+the Computación y Sistemas (Scopus-indexed) journal</span>
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11383">arXiv:1904.11383</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11383">pdf</a>, <a href="https://arxiv.org/ps/1904.11383">ps</a>, <a href="https://arxiv.org/format/1904.11383">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Information Theory">cs.IT</span>
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Multiterminal Secret Key Agreement with Nearly No Discussion
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Chan%2C+C">Chung Chan</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Mukherjee%2C+M">Manuj Mukherjee</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Vippathalla%2C+P+K">Praneeth Kumar Vippathalla</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Zhou%2C+Q">Qiaoqiao Zhou</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11382">arXiv:1904.11382</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11382">pdf</a>, <a href="https://arxiv.org/format/1904.11382">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Robotics">cs.RO</span>
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Dual-Arm In-Hand Manipulation and Regrasping Using Dexterous Manipulation Graphs
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Cruciani%2C+S">Silvia Cruciani</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Hang%2C+K">Kaiyu Hang</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Smith%2C+C">Christian Smith</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Kragic%2C+D">Danica Kragic</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11381">arXiv:1904.11381</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11381">pdf</a>, <a href="https://arxiv.org/ps/1904.11381">ps</a>, <a href="https://arxiv.org/format/1904.11381">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Logic in Computer Science">cs.LO</span>
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Interpolation and the Array Property Fragment
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Hoenicke%2C+J">Jochen Hoenicke</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Schindler%2C+T">Tanja Schindler</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11378">arXiv:1904.11378</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11378">pdf</a>, <a href="https://arxiv.org/ps/1904.11378">ps</a>, <a href="https://arxiv.org/format/1904.11378">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small is-link tooltip is-tooltip-top" data-tooltip="Logic">math.LO</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Logic in Computer Science">cs.LO</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        (Seemingly) Impossible Theorems in Constructive Mathematics
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Diener%2C+H">Hannes Diener</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Hendtlass%2C+M">Matthew Hendtlass</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 11 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11367">arXiv:1904.11367</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11367">pdf</a>, <a href="https://arxiv.org/format/1904.11367">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Neural and Evolutionary Computing">cs.NE</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Machine Learning">cs.LG</span>
+          
+            <span class="tag is-small is-grey tooltip is-tooltip-top" data-tooltip="Machine Learning">stat.ML</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        A novel method for extracting interpretable knowledge from a 
+spiking neural classifier with time-varying synaptic weights
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Jeyasothy%2C+A">Abeegithan Jeyasothy</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Sundaram%2C+S">Suresh Sundaram</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Ramasamy%2C+S">Savitha Ramasamy</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Sundararajan%2C+N">Narasimhan Sundararajan</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 28 February, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">16 pages, 6 figures</span>
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11366">arXiv:1904.11366</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11366">pdf</a>, <a href="https://arxiv.org/format/1904.11366">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Machine Learning">cs.LG</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Artificial Intelligence">cs.AI</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Decentralized Multi-Task Learning Based on Extreme Learning Machines
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Ye%2C+Y">Yu Ye</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Xiao%2C+M">Ming Xiao</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Skoglund%2C+M">Mikael Skoglund</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11361">arXiv:1904.11361</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11361">pdf</a>, <a href="https://arxiv.org/ps/1904.11361">ps</a>, <a href="https://arxiv.org/format/1904.11361">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Information Theory">cs.IT</span>
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Learning to Detect an Odd Markov Arm
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Karthik%2C+P+N">P. N. Karthik</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Sundaresan%2C+R">Rajesh Sundaresan</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 25 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">29 pages, 1 figure. A 
+shorter version of this has been accepted for publication at the 29th 
+IEEE International Symposium on Information Theory (ISIT) 2019. This 
+version contains the proofs of all the main results</span>
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11356">arXiv:1904.11356</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11356">pdf</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Systems and Control">cs.SY</span>
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Voltage control of DC-DC Three level Boost converter using TS Fuzzy PI controller
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Doubabi%2C+H">Hajar Doubabi</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Salhi%2C+I">Issam Salhi</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Chennani%2C+M">Mohammed Chennani</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Essounbouli%2C+N">Najib Essounbouli</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 24 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+
+    
+
+    
+      <p class="comments is-size-7">
+        <span class="has-text-black-bis has-text-weight-semibold">Journal ref:</span>
+        the International Conference on Control, Decision and Information Technologies, Apr 2019, Paris, France
+      </p>
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11352">arXiv:1904.11352</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11352">pdf</a>, <a href="https://arxiv.org/ps/1904.11352">ps</a>, <a href="https://arxiv.org/format/1904.11352">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small is-link tooltip is-tooltip-top" data-tooltip="Numerical Analysis">math.NA</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Machine Learning">cs.LG</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Construction of the similarity matrix for the spectral clustering method: numerical experiments
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Favati%2C+P">Paola Favati</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Lotti%2C+G">Grazia Lotti</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Menchi%2C+O">Ornella Menchi</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Romani%2C+F">Francesco Romani</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 24 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">Submitted to Journal of Computational and Applied Mathematics</span>
+    </p>
+    
+
+    
+      <p class="comments is-size-7">
+        
+          <span class="has-text-black-bis has-text-weight-semibold">Report number:</span>
+          Technical Report IIT TR-09/2017
+        
+
+        
+
+        
+      </p>
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11346">arXiv:1904.11346</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11346">pdf</a>, <a href="https://arxiv.org/format/1904.11346">other</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small is-link tooltip is-tooltip-top" data-tooltip="Optimization and Control">math.OC</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computer Science and Game Theory">cs.GT</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Matrix-Valued Mean-Field-Type Games: Risk-Sensitive, Adversarial, and Risk-Neutral Linear-Quadratic Case
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Barreiro-Gomez%2C+J">Julian Barreiro-Gomez</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Duncan%2C+T+E">Tyrone E. Duncan</a>, 
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Tembine%2C+H">Hamidou Tembine</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 23 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">40 pages. arXiv admin note: text overlap with arXiv:1412.0037 by other authors</span>
+    </p>
+    
+
+    
+
+    
+  </li>
+
+  <li class="arxiv-result">
+    <div class="is-marginless">
+      <p class="list-title is-inline-block"><a href="https://arxiv.org/abs/1904.11340">arXiv:1904.11340</a>
+        <span>&nbsp;[<a href="https://arxiv.org/pdf/1904.11340">pdf</a>]&nbsp;</span>
+      </p>
+      <div class="tags is-inline-block">
+        <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Cryptography and Security">cs.CR</span>
+        
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Computer Science and Game Theory">cs.GT</span>
+          
+            <span class="tag is-small search-hit tooltip is-tooltip-top" data-tooltip="Systems and Control">cs.SY</span>
+          
+            <span class="tag is-small is-grey tooltip is-tooltip-top" data-tooltip="Probability">math.PR</span>
+          
+        </div>
+      
+    </div>
+    
+    <p class="title is-5 mathjax">
+      
+        Enhanced IoV Security Network by using Blockchain Governance Game
+      
+    </p>
+    <p class="authors">
+      <span class="has-text-black-bis has-text-weight-semibold">Authors:</span>
+      
+      <a href="https://arxiv.org/search/?searchtype=author&amp;query=Kim%2C+S">Song-Kyoo Kim</a>
+      
+    </p>
+    
+
+    <p class="is-size-7"><span class="has-text-black-bis has-text-weight-semibold">Submitted</span> 24 April, 2019; 
+      <span class="has-text-black-bis has-text-weight-semibold">originally announced</span> April 2019.
+      
+    </p>
+    
+    <p class="comments is-size-7">
+      <span class="has-text-black-bis has-text-weight-semibold">Comments:</span>
+      <span class="has-text-grey-dark mathjax">The paper is planning to 
+submit a journal in the area of cyber-securities or Blockchain 
+technology. arXiv admin note: text overlap with arXiv:1903.11172, 
+arXiv:1807.05581; text overlap with arXiv:1809.08387 by other authors</span>
+    </p>
+    
+
+    
+
+    
+  </li>
+
+</ol>
+
+
+  <nav class="pagination is-small is-centered breathe-horizontal" role="navigation" aria-label="pagination">
+    
+    <a href="" class="pagination-previous is-invisible">Previous
+    </a>
+    
+    
+      <a href="https://arxiv.org/search/advanced?advanced=&amp;terms-0-operator=AND&amp;terms-0-term=computer&amp;terms-0-field=all&amp;classification-computer_science=y&amp;classification-physics_archives=all&amp;classification-include_cross_list=include&amp;date-filter_by=all_dates&amp;date-year=&amp;date-from_date=&amp;date-to_date=&amp;date-date_type=submitted_date&amp;abstracts=hide&amp;size=50&amp;order=-announced_date_first&amp;start=50" class="pagination-next">Next
+      </a>
+    
+    <ul class="pagination-list">
+
+      <li>
+        <a href="https://arxiv.org/search/advanced?advanced=&amp;terms-0-operator=AND&amp;terms-0-term=computer&amp;terms-0-field=all&amp;classification-computer_science=y&amp;classification-physics_archives=all&amp;classification-include_cross_list=include&amp;date-filter_by=all_dates&amp;date-year=&amp;date-from_date=&amp;date-to_date=&amp;date-date_type=submitted_date&amp;abstracts=hide&amp;size=50&amp;order=-announced_date_first&amp;start=0" class="pagination-link is-current" aria-label="Goto page 1">1
+        </a>
+      </li>
+
+      
+                                     
+          
+          <li>
+            <a href="https://arxiv.org/search/advanced?advanced=&amp;terms-0-operator=AND&amp;terms-0-term=computer&amp;terms-0-field=all&amp;classification-computer_science=y&amp;classification-physics_archives=all&amp;classification-include_cross_list=include&amp;date-filter_by=all_dates&amp;date-year=&amp;date-from_date=&amp;date-to_date=&amp;date-date_type=submitted_date&amp;abstracts=hide&amp;size=50&amp;order=-announced_date_first&amp;start=50" class="pagination-link " aria-label="Page 2" aria-current="page">2
+            </a>
+          </li>
+          
+          <li>
+            <a href="https://arxiv.org/search/advanced?advanced=&amp;terms-0-operator=AND&amp;terms-0-term=computer&amp;terms-0-field=all&amp;classification-computer_science=y&amp;classification-physics_archives=all&amp;classification-include_cross_list=include&amp;date-filter_by=all_dates&amp;date-year=&amp;date-from_date=&amp;date-to_date=&amp;date-date_type=submitted_date&amp;abstracts=hide&amp;size=50&amp;order=-announced_date_first&amp;start=100" class="pagination-link " aria-label="Page 3" aria-current="page">3
+            </a>
+          </li>
+          
+          <li>
+            <a href="https://arxiv.org/search/advanced?advanced=&amp;terms-0-operator=AND&amp;terms-0-term=computer&amp;terms-0-field=all&amp;classification-computer_science=y&amp;classification-physics_archives=all&amp;classification-include_cross_list=include&amp;date-filter_by=all_dates&amp;date-year=&amp;date-from_date=&amp;date-to_date=&amp;date-date_type=submitted_date&amp;abstracts=hide&amp;size=50&amp;order=-announced_date_first&amp;start=150" class="pagination-link " aria-label="Page 4" aria-current="page">4
+            </a>
+          </li>
+          
+          <li>
+            <a href="https://arxiv.org/search/advanced?advanced=&amp;terms-0-operator=AND&amp;terms-0-term=computer&amp;terms-0-field=all&amp;classification-computer_science=y&amp;classification-physics_archives=all&amp;classification-include_cross_list=include&amp;date-filter_by=all_dates&amp;date-year=&amp;date-from_date=&amp;date-to_date=&amp;date-date_type=submitted_date&amp;abstracts=hide&amp;size=50&amp;order=-announced_date_first&amp;start=200" class="pagination-link " aria-label="Page 5" aria-current="page">5
+            </a>
+          </li>
+          
+          <li><span class="pagination-ellipsis">…</span></li>
+        
+      
+    </ul>
+  </nav>
+  
+
+    
+  
+
+      <div class="is-hidden-tablet">
+        <!-- feedback for mobile only -->
+        <span class="help" style="display: inline-block;"><a href="https://confluence.cornell.edu/x/giazFQ">Search v0.5 released 2018-12-20</a>&nbsp;&nbsp;</span>
+        <button class="button is-small" id="feedback-button">Feedback?</button>
+      </div>
+    </div>
+
+  </main>
+
+  <footer>
+    
+    <div class="columns is-desktop" role="navigation" aria-label="Secondary">
+  <!-- MetaColumn 1 -->
+  <div class="column">
+    <div class="columns">
+      <div class="column">
+        <ul class="nav-spaced">
+          <li><a href="https://arxiv.org/about">About arXiv</a></li>
+          <li><a href="https://arxiv.org/about/people/leadership_team">Leadership Team</a></li>
+        </ul>
+      </div>
+      <div class="column">
+        <ul class="nav-spaced">
+          <li><span class="icon"><i class="fa fa-envelope"></i></span><a href="https://arxiv.org/help/contact"> Contact</a></li>
+          <li><span class="icon"><i class="fa fa-twitter"></i></span><a href="https://twitter.com/arxiv"> Follow us on Twitter</a></li>
+        </ul>
+      </div>
+    </div>
+  </div> <!-- end MetaColumn 1 -->
+  <!-- MetaColumn 2 -->
+  <div class="column">
+    <div class="columns">
+      <div class="column">
+        <ul class="nav-spaced">
+          <li><a href="https://arxiv.org/help">Help</a></li>
+          <li><a href="https://arxiv.org/help/policies/privacy_policy">Privacy Policy</a></li>
+        </ul>
+      </div>
+      <div class="column">
+        <ul class="nav-spaced">
+          <li><a href="https://blogs.cornell.edu/arxiv">Blog</a></li>
+          <li><a href="https://arxiv.org/help/subscribe"> Subscribe</a></li>
+        </ul>
+      </div>
+    </div>
+  </div> <!-- end MetaColumn 2 -->
+</div>
+
+<div class="columns" style="border-top: 1px solid #979797">
+  <div class="column">
+    <p class="help">arXiv® is a registered trademark of Cornell University.</p>
+  </div>
+  <div class="column">
+    <p class="help">If you have a disability and are having trouble accessing information
+      on this website or need materials in an alternate format, contact
+      <a href="mailto:web-accessibility@cornell.edu">web-accessibility@cornell.edu</a> for
+       assistance.</p>
+  </div>
+</div>
+    
+  </footer>
+  
+<div style="position: absolute; width: 0px; height: 0px; overflow: hidden; padding: 0px; border: 0px none; margin: 0px;"><div id="MathJax_Font_Test" style="position: absolute; visibility: hidden; top: 0px; left: 0px; width: auto; min-width: 0px; max-width: none; padding: 0px; border: 0px none; margin: 0px; white-space: nowrap; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; font-size: 40px; font-weight: normal; font-style: normal; font-size-adjust: none; font-family: MathJax_Size4, sans-serif;"></div></div><div id="atlwdg-blanket" class="atlwdg-blanket" style="display: none;"></div><div id="atlwdg-container" class="atlwdg-popup atlwdg-hidden"></div></body></html>
